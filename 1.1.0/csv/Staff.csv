@@ -102,7 +102,6 @@ Staff_Thought_Workload_VeryLow_Common_02,'Bored, bored, bored!'
 Staff_Thought_Workload_VeryLow_Common_03,'My work isn't pushing me enough'
 Staff_Thought_Workload_VeryLow_Common_04,'I need more work to do'
 Staff_Thought_Workload_VeryLow_Common_05,'I can do more work than this'
-Staff_Tooltip,'{TITLE}
-{DESCRIPTION}'
+Staff_Tooltip,'{TITLE}<newline>{DESCRIPTION}'
 Staff_Vendor,'Vendor'
 Staff_Vendor_Plural,'Vendors'

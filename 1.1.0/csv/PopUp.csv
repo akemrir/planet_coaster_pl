@@ -102,8 +102,7 @@ PopUp_Ride_EnableFastPassLabel,'You need an Information Booth to sell Priority P
 PopUp_Ride_EntranceAndExit,'Entrance and exit'
 PopUp_Ride_FastPassFraction,'Priority Over Queue'
 PopUp_Ride_FastPassFraction_High,'High Priority'
-PopUp_Ride_FastPassFractionHint,'How quickly Priority Pass holders rejoin the main queue
-- Affects the value of Priority Passes'
+PopUp_Ride_FastPassFractionHint,'How quickly Priority Pass holders rejoin the main queue<newline>- Affects the value of Priority Passes'
 PopUp_Ride_FastPassFraction_Low,'Low Priority'
 PopUp_Ride_FastPassFraction_Medium,'Equal Priority'
 PopUp_Ride_FastPassQueue,'Priority Pass Queue'
@@ -116,9 +115,7 @@ PopUp_Ride_Guests_Soon,'Ride thoughts coming soon'
 PopUp_Ride_IdealPrice,'Ideal ticket price: {VALUE:currency}'
 PopUp_Ride_LastMonthsProfit,'Last month's profit'
 PopUp_Ride_LeaveIfWaiting,'Don't block station'
-PopUp_Ride_LeaveIfWaitingHint,'Arriving trains will override the min. rider load, as well as the min. and max. waiting times
-- Can increase monthly guests
-- Min. departure interval must also have elapsed'
+PopUp_Ride_LeaveIfWaitingHint,'Arriving trains will override the min. rider load, as well as the min. and max. waiting times<newline>- Can increase monthly guests<newline>- Min. departure interval must also have elapsed'
 PopUp_Ride_LifetimeArrivals,'Lifetime disembarkments'
 PopUp_Ride_LifetimeDepartures,'Lifetime boarders'
 PopUp_Ride_LifetimeGuests,'Lifetime guests'
@@ -131,37 +128,21 @@ PopUp_Ride_LoadFraction_Half,'1/2 Load'
 PopUp_Ride_LoadFraction_None,'Any Load'
 PopUp_Ride_LoadFraction_Quarter,'1/4 Load'
 PopUp_Ride_LoadFraction_ThreeQuarters,'3/4 Load'
-PopUp_Ride_LoadFractionTooltip,'How full must each train be before it can depart
-- Overriden by max. waiting time
-- Min. departure interval must also have elapsed'
-PopUp_Ride_LoadFractionTooltipRides,'How full must the ride be before it can start
-- Overriden by max. waiting time
-- Min. departure interval must also have elapsed'
+PopUp_Ride_LoadFractionTooltip,'How full must each train be before it can depart<newline>- Overriden by max. waiting time<newline>- Min. departure interval must also have elapsed'
+PopUp_Ride_LoadFractionTooltipRides,'How full must the ride be before it can start<newline>- Overriden by max. waiting time<newline>- Min. departure interval must also have elapsed'
 PopUp_Ride_LoadRules,'Load Rules'
 PopUp_Ride_LoadSize,'Load size: {LAST:float} ({AVERAGE:float} average)'
 PopUp_Ride_LoadTime,'Load time: {LAST:float}s ({AVERAGE:float}s average)'
 PopUp_Ride_MaximumGroupSize,'Maximum group size: {VALUE:int}'
 PopUp_Ride_MaxWaitingTime,'Max. waiting time'
-PopUp_Ride_MaxWaitingTimeHint,'The longest time each train will wait to achieve the min. rider load
-- Can increase monthly guests
-- Overriden when the ride is fully loaded
-- Min. departure interval must also have elapsed'
-PopUp_Ride_MaxWaitingTimeRideHint,'The longest time the ride will wait to achieve the min. rider load
-- Can increase monthly guests
-- Overriden when the ride is fully loaded
-- Min. departure interval must also have elapsed'
+PopUp_Ride_MaxWaitingTimeHint,'The longest time each train will wait to achieve the min. rider load<newline>- Can increase monthly guests<newline>- Overriden when the ride is fully loaded<newline>- Min. departure interval must also have elapsed'
+PopUp_Ride_MaxWaitingTimeRideHint,'The longest time the ride will wait to achieve the min. rider load<newline>- Can increase monthly guests<newline>- Overriden when the ride is fully loaded<newline>- Min. departure interval must also have elapsed'
 PopUp_Ride_MinimumRiderHeight,'Minimum rider height'
 PopUp_Ride_MinimumRiderHeight_Child,'Child'
 PopUp_Ride_MinimumRiderHeight_TeenAdult,'Teen/Adult'
 PopUp_Ride_MinWaitingTime,'Min. waiting time'
-PopUp_Ride_MinWaitingTimeHint,'Each train will depart after this time if the min. rider load has been achieved
-- Can reduce queue times and space out trains
-- Overriden when the ride is fully loaded
-- Min. departure interval must also have elapsed'
-PopUp_Ride_MinWaitingTimeRideHint,'The ride will start after this time if the min. rider load has been achieved
-- Can reduce queue times
-- Overriden when the ride is fully loaded
-- Min. departure interval must also have elapsed'
+PopUp_Ride_MinWaitingTimeHint,'Each train will depart after this time if the min. rider load has been achieved<newline>- Can reduce queue times and space out trains<newline>- Overriden when the ride is fully loaded<newline>- Min. departure interval must also have elapsed'
+PopUp_Ride_MinWaitingTimeRideHint,'The ride will start after this time if the min. rider load has been achieved<newline>- Can reduce queue times<newline>- Overriden when the ride is fully loaded<newline>- Min. departure interval must also have elapsed'
 PopUp_Ride_MonthlyArrivals,'Monthly disembarkments'
 PopUp_Ride_MonthlyCarRunningCost,' - car costs'
 PopUp_Ride_MonthlyDepartures,'Monthly boarders'
@@ -248,9 +229,7 @@ PopUp_RideTicketBooth_Name,'Ride Ticket Booth'
 PopUp_Ride_Time_0,'{TIME:int} Minutes'
 PopUp_Ride_Time_1,'{TIME:int} Minute'
 PopUp_Ride_TimeBetweenDepartures,'Min. departure interval'
-PopUp_Ride_TimeBetweenDeparturesHint,'The time that must elapse before the train can depart
-- Useful for spacing out cars
-- Applies even when the ride is fully loaded'
+PopUp_Ride_TimeBetweenDeparturesHint,'The time that must elapse before the train can depart<newline>- Useful for spacing out cars<newline>- Applies even when the ride is fully loaded'
 PopUp_Ride_Time_N,'{TIME:int} Minutes'
 PopUp_Ride_Time_Unknown,'-'
 PopUp_Ride_TrainSpeed,'Train Speed'

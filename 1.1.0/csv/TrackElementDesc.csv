@@ -1,62 +1,29 @@
 key,translation
-TrackElementDesc_BarghestChainLiftBot,'Chain Lift Start</font>
-Pulls trains up an incline.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_BarghestChainLiftMid,'Chain Lift Mid_Section</font>
-Pulls trains up an incline.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_BarghestChainLiftBot,'Chain Lift Start</font><newline>Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_BarghestChainLiftMid,'Chain Lift Mid_Section</font><newline>Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
 TrackElementDesc_BarghestChainLiftTop01,'Pulls a train up and over an incline, holds the train then releases it down an overdive drop.'
-TrackElementDesc_BarghestChainLiftTop02,'Rounded Chain Lift End</font>
-Pulls trains up and over an incline into a drop.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_BarghestChainLiftTop02,'Rounded Chain Lift End</font><newline>Pulls trains up and over an incline into a drop.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
 TrackElementDesc_BarrelRollLeft,'OLD Barrel Roll Left Description'
 TrackElementDesc_BarrelRollRight,'OLD Barrel Roll Right Description'
 TrackElementDesc_batwingleft,'OLD Batwing Left Description'
 TrackElementDesc_batwingright,'OLD Batwing Right Description'
-TrackElementDesc_BlockSection,'Allows multiple trains to run on track at the same time, by stopping and holding them until the next section of track is clear.
-
-For free sections to be available, 1 more block section is needed than number of trains.
-
-Chain lifts and the station act as block sections.
-
-Once added, block section mode can be turned on and additional trains added in the ride info panel's 'operation' tab.
-
-EFN values whilst on a block section do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_BlockSection,'Allows multiple trains to run on track at the same time, by stopping and holding them until the next section of track is clear.<newline><newline>For free sections to be available, 1 more block section is needed than number of trains.<newline><newline>Chain lifts and the station act as block sections.<newline><newline>Once added, block section mode can be turned on and additional trains added in the ride info panel's 'operation' tab.<newline><newline>EFN values whilst on a block section do not contribute to the final EFN ratings for the ride.'
 TrackElementDesc_Booster,'Pushes trains along slowly. Useful for moving the train into another utility.'
 TrackElementDesc_Brakes,'Slows trains down.'
-TrackElementDesc_CableLift,'Pulls trains up an incline.
-
-EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_CableLiftEnd,'Ends a cable lift.
-
-EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_CableLiftMid,'Pulls trains up an incline.
-
-EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_CableLiftStart,'Pulls trains up an incline.
-
-EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_ChainLift,'Pulls trains up an incline.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_ChainLiftBot,'Pulls trains up an incline.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
-TrackElementDesc_ChainLiftTop,'Pulls trains up an incline.
-
-EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_CableLift,'Pulls trains up an incline.<newline><newline>EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_CableLiftEnd,'Ends a cable lift.<newline><newline>EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_CableLiftMid,'Pulls trains up an incline.<newline><newline>EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_CableLiftStart,'Pulls trains up an incline.<newline><newline>EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_ChainLift,'Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_ChainLiftBot,'Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_ChainLiftTop,'Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
 TrackElementDesc_cobrarollleft,'OLD Cobra Roll Left Description'
 TrackElementDesc_cobrarollright,'OLD Cobra Roll Right Description'
 TrackElementDesc_DivingLoopLeft,'OLD Diving Loop Left Description'
 TrackElementDesc_DivingLoopRight,'OLD Diving Loop Right Description'
 TrackElementDesc_FlyingSnakeDiveLeft,'OLD Flying Snake Dive Left Description'
 TrackElementDesc_FlyingSnakeDiveRight,'OLD Flying Snake Dive Right Description'
-TrackElementDesc_FrictionWheelLift,'Pushes trains up an incline.
-
-EFN values whilst on a friction wheel lift do not contribute to the final EFN ratings for the ride.'
+TrackElementDesc_FrictionWheelLift,'Pushes trains up an incline.<newline><newline>EFN values whilst on a friction wheel lift do not contribute to the final EFN ratings for the ride.'
 TrackElementDesc_HoldingSection,'Holds the train looking down before releasing.'
 TrackElementDesc_HydraulicLaunch,'Launch system that propels trains at speed along the track.'
 TrackElementDesc_immelmannleft,'OLD Immelmann Left Description'

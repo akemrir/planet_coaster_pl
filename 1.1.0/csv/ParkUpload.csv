@@ -38,5 +38,4 @@ ParkUpload_SteamWorkshopItemDescr,'Workshop description'
 ParkUpload_SteamWorkshopItemTitle,'Workshop title'
 ParkUpload_TitleCreateWorkshopItem,'Creating Workshop Item'
 ParkUpload_TitleUpdateWorkshopItem,'Updating Workshop Item'
-ParkUpload_WorkshopAgreement,'By submitting this park, you agree to the
-<font color='#FF0000'>Steam Workshop terms of service</font>'
+ParkUpload_WorkshopAgreement,'By submitting this park, you agree to the<newline><font color='#FF0000'>Steam Workshop terms of service</font>'

@@ -1,19 +1,8 @@
 key,translation
 InfoPanel_Close,'X'
-InfoPanel_Date_PrestigeStateTooltip,'Ride Reputation
-This reflects the age and popularity of a ride
-It decreases as a ride gets older and affects the Ride Prestige
-
-(Ride opened on {dateOpened})'
-InfoPanel_Date_PrestigeStateTooltipUnopen,'Ride Reputation
-This reflects the age and popularity of a ride
-It decreases as a ride gets older and affects the Ride Prestige
-
-(Ride unopened)'
-InfoPanel_Date_Workload,'Workload
-This indicates the amount of work a staff member has done in recent months
-When a staff member has a Low or High workload, it can affect their Happiness
-Training allows staff members to cope with more work'
+InfoPanel_Date_PrestigeStateTooltip,'Ride Reputation<newline>This reflects the age and popularity of a ride<newline>It decreases as a ride gets older and affects the Ride Prestige<newline><newline>(Ride opened on {dateOpened})'
+InfoPanel_Date_PrestigeStateTooltipUnopen,'Ride Reputation<newline>This reflects the age and popularity of a ride<newline>It decreases as a ride gets older and affects the Ride Prestige<newline><newline>(Ride unopened)'
+InfoPanel_Date_Workload,'Workload<newline>This indicates the amount of work a staff member has done in recent months<newline>When a staff member has a Low or High workload, it can affect their Happiness<newline>Training allows staff members to cope with more work'
 InfoPanel_EditModularScenery_Font,'{FONT}'
 InfoPanel_EditModularScenery_Label_FlexiColour,'Text Colour'
 InfoPanel_EditModularScenery_Label_FontOnSign,'Font'
@@ -196,16 +185,8 @@ InfoPanel_Ride_PrestigeState_New,'New'
 InfoPanel_Ride_PrestigeState_Old,'Old'
 InfoPanel_Ride_PrestigeState_Resurging,'Reviving'
 InfoPanel_Ride_PrestigeState_Unopened,'Unopened'
-InfoPanel_Ride_Prestige_ToolTip,'Ride Prestige
-This is the appeal and value of a ride to guests
-It increases by improving the ride experience or adding nearby scenery
-It decreases if the Ride Reputation diminishes
-(Updated per run)'
-InfoPanel_Ride_Prestige_ToolTipAlt,'Ride Prestige
-This is the appeal and value of a ride to guests
-It increases by improving the ride experience or adding nearby scenery
-
-(Updated per run)'
+InfoPanel_Ride_Prestige_ToolTip,'Ride Prestige<newline>This is the appeal and value of a ride to guests<newline>It increases by improving the ride experience or adding nearby scenery<newline>It decreases if the Ride Reputation diminishes<newline>(Updated per run)'
+InfoPanel_Ride_Prestige_ToolTipAlt,'Ride Prestige<newline>This is the appeal and value of a ride to guests<newline>It increases by improving the ride experience or adding nearby scenery<newline><newline>(Updated per run)'
 InfoPanel_Ride_Prestige_ValueUnknown,'-'
 InfoPanel_Ride_RefurbishmentRequested,'Refurbishment requested'
 InfoPanel_Ride_Reliability_High,'High'

@@ -108,15 +108,10 @@ ObjectBrowser_TestTitle,'A lovely Item'
 ObjectBrowser_TestValue,'Actual Size'
 ObjectBrowser_Thrill,'Thrill Rides'
 ObjectBrowser_Tooltip_Filter,'Limit view to specific groups of items.'
-ObjectBrowser_Tooltip_Items,'{ITEM_NAME}
-{COST}'
-ObjectBrowser_Tooltip_Items_Advanced,'{ITEM_NAME}
-{COST}
-{TYPE}'
-ObjectBrowser_Tooltip_Items_Expensive,'{ITEM_NAME}
-<font color='#FF0000'>{COST}</font>'
-ObjectBrowser_Tooltip_Items_PerMetre,'{ITEM_NAME}
-{COST} per metre'
+ObjectBrowser_Tooltip_Items,'{ITEM_NAME}<newline>{COST}'
+ObjectBrowser_Tooltip_Items_Advanced,'{ITEM_NAME}<newline>{COST}<newline>{TYPE}'
+ObjectBrowser_Tooltip_Items_Expensive,'{ITEM_NAME}<newline><font color='#FF0000'>{COST}</font>'
+ObjectBrowser_Tooltip_Items_PerMetre,'{ITEM_NAME}<newline>{COST} per metre'
 ObjectBrowser_Tooltip_Offline,'You are offline'
 ObjectBrowser_Tooltip_OldBlueprint,'This blueprint is from an old version and cannot be checked if it has researched parts yet. Consider resaving it in sandbox'
 ObjectBrowser_Tooltip_OldBlueprintSteam,'This blueprint is from an old game version. Resave to upload to Steam.'

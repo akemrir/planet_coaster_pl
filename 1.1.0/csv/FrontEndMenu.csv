@@ -11,17 +11,13 @@ FrontEndMenu_ArcticSimulation,'Arctic'
 FrontEndMenu_ArcticSimulationDescription,'Start your park with limited money and build in a winter wonderland!'
 FrontEndMenu_AutoSave,'Hide Autosaves'
 FrontEndMenu_AutosaveNumber,'[Autosave] {Number:int:minDigits=1}'
-FrontEndMenu_AvatarEditor_InfoLabel,'You can now be part of the Planet Coaster universe! Your avatar will be seen by Steam friends and other Planet Coaster players.
-
-You can edit the avatar appearance later.'
+FrontEndMenu_AvatarEditor_InfoLabel,'You can now be part of the Planet Coaster universe! Your avatar will be seen by Steam friends and other Planet Coaster players.<newline><newline>You can edit the avatar appearance later.'
 FrontEndMenu_AvatarEditor_InfoTitle,'Create your Avatar!'
 FrontEndMenu_AvatarGroupInvalid_Title,'Invalid Family Group'
 FrontEndMenu_AvatarGroup_Reqs_Family,'A Family group must contain between one to two adults and one to four children.'
-FrontEndMenu_AvatarModerationFailed,'Your {AvatarType} submission has been rejected.
-Would you like to open the editor?'
+FrontEndMenu_AvatarModerationFailed,'Your {AvatarType} submission has been rejected.<newline>Would you like to open the editor?'
 FrontEndMenu_AvatarModerationFailedHeader,'Avatar Moderation Failed'
-FrontEndMenu_AvatarModerationSent,'Your Avatar will be sent to our servers for moderation.
-It may take some time to appear.'
+FrontEndMenu_AvatarModerationSent,'Your Avatar will be sent to our servers for moderation.<newline>It may take some time to appear.'
 FrontEndMenu_AvatarModerationSentHeader,'Avatar Creation Complete'
 FrontEndMenu_AvatarNameNeeded,'Please name your avatar.'
 FrontEndMenu_AvatarNameNeededGroup,'Please ensure each member of your group is named.'
@@ -64,40 +60,14 @@ FrontEndMenu_DesertSimulationDescription,'Start your park with limited money and
 FrontEndMenu_Details,'Details'
 FrontEndMenu_Difficulty,'Difficulty'
 FrontEndMenu_DifficultyEasy,'Easy'
-FrontEndMenu_DifficultyEasy_Description,'Starting cash: $8000
-
-- Many items researched
-- Guests Happiness drops slowly
-- Breakdown rate is slow'
+FrontEndMenu_DifficultyEasy_Description,'Starting cash: $8000<newline><newline>- Many items researched<newline>- Guests Happiness drops slowly<newline>- Breakdown rate is slow'
 FrontEndMenu_DifficultyHard,'Hard'
-FrontEndMenu_DifficultyHard_Description,'Starting cash: $2000
-
-- Few items researched
-- Guest Happines drops quickly
-- Breakdown rate is fast
-- Ride Reputation declines quickly'
+FrontEndMenu_DifficultyHard_Description,'Starting cash: $2000<newline><newline>- Few items researched<newline>- Guest Happines drops quickly<newline>- Breakdown rate is fast<newline>- Ride Reputation declines quickly'
 FrontEndMenu_DifficultyHarder,'Harder'
-FrontEndMenu_DifficultyHarder_Description,'Starting cash: $2000
-
-- Few items researched
-- Guest Happiness drops very quickly
-- Breakdown rate is fast
-- Ride Reputation declines very quickly
-- Guests are harder to attract'
-FrontEndMenu_DifficultyHarder_DescriptionALT,'Starting cash: $2000
-
-- Few items researched
-- Guest Happiness drops very quickly
-- Breakdown rate is fast
-- Ride Reputation declines very quickly
-- Guests are harder to attract'
+FrontEndMenu_DifficultyHarder_Description,'Starting cash: $2000<newline><newline>- Few items researched<newline>- Guest Happiness drops very quickly<newline>- Breakdown rate is fast<newline>- Ride Reputation declines very quickly<newline>- Guests are harder to attract'
+FrontEndMenu_DifficultyHarder_DescriptionALT,'Starting cash: $2000<newline><newline>- Few items researched<newline>- Guest Happiness drops very quickly<newline>- Breakdown rate is fast<newline>- Ride Reputation declines very quickly<newline>- Guests are harder to attract'
 FrontEndMenu_DifficultyMedium,'Medium'
-FrontEndMenu_DifficultyMedium_Description,'Starting cash: $4000
-
-- Some items researched
-- Guest Happiness drops steadily
-- Breakdown rate is average
-- Ride Reputation declines steadily'
+FrontEndMenu_DifficultyMedium_Description,'Starting cash: $4000<newline><newline>- Some items researched<newline>- Guest Happiness drops steadily<newline>- Breakdown rate is average<newline>- Ride Reputation declines steadily'
 FrontEndMenu_Disconnected,'You are offline! Build {Version}'
 FrontEndMenu_Downloads,'Downloads'
 FrontEndMenu_DownloadsDescription,'View your downloaded Parks and Blueprints'
@@ -127,17 +97,11 @@ FrontEndMenu_GrasslandSimulation,'Grassland'
 FrontEndMenu_GrasslandSimulationDescription,'Start your park with limited money and build on these rich pastures!'
 FrontEndMenu_GroupEditor_InfoLabel,'Send a group out into the parks of the Planet Coaster universe!'
 FrontEndMenu_GroupEditor_InfoTitle,'Create your VIP Group Ticket!'
-FrontEndMenu_HQPlacement_InfoLabel,'The HQ is where other players will see your avatar and access any parks or blueprints you have shared.
-
-Position your avatar anywhere on the globe. You can edit your avatar HQ position later.
-
-(Click and drag to rotate the globe)'
+FrontEndMenu_HQPlacement_InfoLabel,'The HQ is where other players will see your avatar and access any parks or blueprints you have shared.<newline><newline>Position your avatar anywhere on the globe. You can edit your avatar HQ position later.<newline><newline>(Click and drag to rotate the globe)'
 FrontEndMenu_HQPlacement_InfoTitle,'Place your Avatar HQ!'
 FrontEndMenu_HQPlacement_PromptCancel,'No'
 FrontEndMenu_HQPlacement_PromptConfrim,'Yes'
-FrontEndMenu_HQPlacement_PromptLabel,'Are you sure?
-
-You can edit this later.'
+FrontEndMenu_HQPlacement_PromptLabel,'Are you sure?<newline><newline>You can edit this later.'
 FrontEndMenu_HQPlacement_PromptTitle,'HQ Placement'
 FrontEndMenu_LastUpdated,'Last updated: {Date}'
 FrontEndMenu_LevelUnlock,'You need to be at least level {Value:int} to unlock this level.'
@@ -275,11 +239,7 @@ FrontEndMenu_Visitors,'Visitors'
 FrontEndMenu_VisitPark,'Visit Park'
 FrontEndMenu_Welcome,'Welcome!'
 FrontEndMenu_WelcomeWindowButtonLabel,'Create my Avatar!'
-FrontEndMenu_WelcomeWindowLabel,'Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!
-
-First we'll create an avatar of yourself to represent your amazing creations among the Planet Coaster community.
-
-Make sure to create someone your friends will recognise!'
+FrontEndMenu_WelcomeWindowLabel,'Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!<newline><newline>First we'll create an avatar of yourself to represent your amazing creations among the Planet Coaster community.<newline><newline>Make sure to create someone your friends will recognise!'
 FrontEndMenu_WelcomeWindowTitle,'Welcome to Planet Coaster!'
 FrontEndMenu_WhatsNew,'What's New?'
 FrontEndMenu_WhatsNewDescription,'Coming Soon!'

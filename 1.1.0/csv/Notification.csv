@@ -9,43 +9,31 @@ Notification_GuestsHappiness,'Many guests are very unhappy'
 Notification_GuestsHappinessDropping,'Average Guest Happiness is declining'
 Notification_GuestsHungry,'Many guests are hungry'
 Notification_GuestsThirsty,'Many guests are thirsty'
-Notification_GuestsTired,'Many guests are tired
-Make sure there are enough benches'
+Notification_GuestsTired,'Many guests are tired<newline>Make sure there are enough benches'
 Notification_GuestsToiletNeed,'Many guests need the toilet'
 Notification_MarketingButton,'View Marketing'
-Notification_MarketingCampaignCompleted,'Marketing campaign has ended
-'{Name}''
-Notification_MarketingCampaignCompletedCantRenew,'Marketing campaign cancelled due to lack of funds
-'{Name}''
+Notification_MarketingCampaignCompleted,'Marketing campaign has ended<newline>'{Name}''
+Notification_MarketingCampaignCompletedCantRenew,'Marketing campaign cancelled due to lack of funds<newline>'{Name}''
 Notification_MarketingCampaignCompletedCantRenewStacked,'Multiple marketing campaigns cancelled due to lack of funds'
 Notification_MarketingCampaignCompletedStacked,'Multiple marketing campaigns have ended'
 Notification_ObjectiveButton,'View Objectives'
-Notification_ObjectiveCompleted,'{ObjectiveTier} objective complete:
-'{Name}'
-Well done!'
+Notification_ObjectiveCompleted,'{ObjectiveTier} objective complete:<newline>'{Name}'<newline>Well done!'
 Notification_ObjectiveCompletedStacked,'Multiple Objectives have been completed'
 Notification_OpenNotificationsButton,'Open Notifications'
-Notification_ParkBins,'There are a lot of overflowing bins in the park
-Make sure janitors empty them regularly'
-Notification_ParkBreakdowns,'Your park's Breakdown rate is high
-Make sure mechanics inspect your rides regularly'
-Notification_ParkLitter,'There is a lot of litter in the park
-Make sure there are enough bins'
-Notification_ParkMonthlySummary,'End of month summary:
-   Monthly Profit: {ProfitChange}
-   Park Rating Change: {RatingChange}'
+Notification_ParkBins,'There are a lot of overflowing bins in the park<newline>Make sure janitors empty them regularly'
+Notification_ParkBreakdowns,'Your park's Breakdown rate is high<newline>Make sure mechanics inspect your rides regularly'
+Notification_ParkLitter,'There is a lot of litter in the park<newline>Make sure there are enough bins'
+Notification_ParkMonthlySummary,'End of month summary:<newline>   Monthly Profit: {ProfitChange}<newline>   Park Rating Change: {RatingChange}'
 Notification_ParkMonthlySummaryStacked,'Multiple monthly summaries available to view'
 Notification_ParkSummaryButton,'View Park Summary'
-Notification_ParkVomit,'There is a lot of vomit in the park
-Consider making first aid available'
+Notification_ParkVomit,'There is a lot of vomit in the park<newline>Consider making first aid available'
 Notification_ResearchAvailable,'New research project available'
 Notification_ResearchAvailableStacked,'Multiple new research projects available'
 Notification_ResearchButton,'View Research'
 Notification_ResearchCompleted,'Research project ready to be revealed'
 Notification_ResearchCompletedStacked,'Multiple research projects ready to be revealed'
 Notification_RideBroken,'{Name} has broken down'
-Notification_RideBrokenStacked,'Multiple rides are broken down
-Make sure mechanics inspect your rides often'
+Notification_RideBrokenStacked,'Multiple rides are broken down<newline>Make sure mechanics inspect your rides often'
 Notification_RideButton,'View Ride'
 Notification_RideCrashed,'{Name} has crashed!'
 Notification_RideCrashedStacked,'Multiple rides have crashed!'
@@ -71,14 +59,10 @@ Notification_RidePrestigeChangedToAging,'{Name} is no longer new, guests will be
 Notification_RidePrestigeChangedToAgingStacked,'Multiple rides are no longer new, guests will become less interested in them over time and won’t pay as much for tickets '
 Notification_RidePrestigeChangedToClassic,'{Name} has reached Classic status! It’s reputation is higher than ever before '
 Notification_RidePrestigeChangedToClassicStacked,'Multiple rides have reached Classic status! It’s reputation is higher than ever before '
-Notification_RidePrestigeChangedToOld,'{Name} is getting very old
-Consider replacing it to attract more guests and ticket sales'
-Notification_RidePrestigeChangedToOldStacked,'Multiple rides are getting very old
-Consider replacing them to attract more guests and ticket sales'
-Notification_RidePrestigeChangedToResurging,'{Name} is growing in reputation
- Guests will become more interested in these rides over time'
-Notification_RidePrestigeChangedToResurgingStacked,'Multiple rides are is growing in reputation
- Guests will become more interested in these rides over time'
+Notification_RidePrestigeChangedToOld,'{Name} is getting very old<newline>Consider replacing it to attract more guests and ticket sales'
+Notification_RidePrestigeChangedToOldStacked,'Multiple rides are getting very old<newline>Consider replacing them to attract more guests and ticket sales'
+Notification_RidePrestigeChangedToResurging,'{Name} is growing in reputation<newline> Guests will become more interested in these rides over time'
+Notification_RidePrestigeChangedToResurgingStacked,'Multiple rides are is growing in reputation<newline> Guests will become more interested in these rides over time'
 Notification_RideStillBroken,'{Name} is still broken down'
 Notification_RideStillBrokenStacked,'Multiple rides are still broken down'
 Notification_RideTooCheap,'Guests think {Name} is great value'
