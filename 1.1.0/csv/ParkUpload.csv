@@ -1,0 +1,41 @@
+key,translationParkUpload_ButtonBack,Back
+ParkUpload_ButtonCreateWorkshopItem,Create Workshop Item
+ParkUpload_ButtonNext,Next
+ParkUpload_ButtonPrevious,Previous
+ParkUpload_ButtonUpdateWorkshopItem,Update Workshop Item
+ParkUpload_ChooseWorkshopDescription,My Workshop Parks
+ParkUpload_ErrorBox_FailedToCreateEditItem,Unable to edit the park Workshop Item.
+ParkUpload_ErrorBox_FailedToCreateItemContent,Unable to create item content to upload the park to the Steam Workshop.
+ParkUpload_ErrorBox_ListItemsSteamInsufficientPrivilege,Your Steam account has insufficient privileges to access the Steam Workshop.
+ParkUpload_ErrorBox_ListItemsSteamInterrupted,Requesting your Parks from the Steam Workshop was interrupted.
+ParkUpload_ErrorBox_ListItemsSteamNotLoggedIn,Not logged into Steam - could not list your Workshop Parks.
+ParkUpload_ErrorBox_ListItemsSteamTimeout,Timed out listing your parks from the Steam Workshop.
+ParkUpload_ErrorBox_ListItemsSteamTitle,Error Listing Parks
+ParkUpload_ErrorBox_ListItemsSteamUnknownError,An unknown error occurred requesting your Parks from the Steam Workshop.
+ParkUpload_ErrorBox_MissingInfoTitle,Missing information
+ParkUpload_ErrorBox_NoDescriptionMessage,A description is required for a park
+ParkUpload_ErrorBox_NoItemID,Failed to create/update park Workshop item - No Item ID found.
+ParkUpload_ErrorBox_NoNameMessage,A name is required for a park
+ParkUpload_ErrorBox_NoTagMessage,At least one tag is required for a park
+ParkUpload_ErrorBox_UploadSteamInsufficientPrivilege,Your Steam account has insufficient privileges to upload to the Steam Workshop.
+ParkUpload_ErrorBox_UploadSteamInterrupted,Uploading the park to the Steam Workshop was interrupted.
+ParkUpload_ErrorBox_UploadSteamNotLoggedIn,Not logged into Steam - could not upload the park to the Steam Workshop.
+ParkUpload_ErrorBox_UploadSteamTimeout,Timed out uploading the park to the Steam Workshop.
+ParkUpload_ErrorBox_UploadSteamTitle,Error Uploading Park
+ParkUpload_ErrorBox_UploadSteamUnknownError,An unknown error occurred uploading the park to the Steam Workshop.
+ParkUpload_InProgress,Uploading to Steam
+ParkUpload_ItemDescription,{DESC}
+ParkUpload_ItemDescription_Default,Enter a description of your park...
+ParkUpload_ItemName,{NAME}
+ParkUpload_ItemName_Default,My Park
+ParkUpload_LoadingPage,Loading...
+ParkUpload_MyWorkshopParks,My Workshop Parks
+ParkUpload_NewWorkshopItem,New Workshop Item
+ParkUpload_NewWorkshopItemDesc,Create A New Workshop Item
+ParkUpload_SelectPage,Page {PageNumber:int:minDigits=1} of {Total:int:minDigits=1}
+ParkUpload_SteamWorkshopItemDescr,Workshop description
+ParkUpload_SteamWorkshopItemTitle,Workshop title
+ParkUpload_TitleCreateWorkshopItem,Creating Workshop Item
+ParkUpload_TitleUpdateWorkshopItem,Updating Workshop Item
+ParkUpload_WorkshopAgreement,By submitting this park, you agree to the
+<font color='#FF0000'>Steam Workshop terms of service</font>

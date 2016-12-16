@@ -1,0 +1,10 @@
+key,translationHelperTooltips_ActiveGroup,Editing {NAME}
+HelperTooltips_AddToGroup,Add To {NAME}
+HelperTooltips_AllowOverlapping,Allow overlapping
+HelperTooltips_ChangeGroup,Edit {NAME}
+HelperTooltips_CloseGroup,Done
+HelperTooltips_Elevate,Elevate [{#LogicalButton.Editors_UpwardPlacementModifier#}]
+HelperTooltips_ExitFromGroup,Exit {NAME}
+HelperTooltips_PickGrid,Get Grid Settings From Object
+HelperTooltips_Rotate,Rotate [{#LogicalButton.Editors_RotateObject#}]
+HelperTooltips_StepRotation,Angle Snap

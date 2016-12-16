@@ -1,0 +1,3 @@
+key,translationGUI_audioFileToken,{Name}
+GUI_CharLimit,({Value:int} character limit)
+GUI_UploadToSteam,Upload to Steam

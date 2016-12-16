@@ -1,0 +1,292 @@
+key,translationTrackElementTool_BarghestChainLiftBot,<font color='accent'>Chain Lift Start</font>
+Pulls trains up an incline.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_BarghestChainLiftMid,<font color='accent'>Chain Lift Mid_Section</font>
+Pulls trains up an incline.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_BarghestChainLiftTop01,<font color='accent'>Overhanging Chain Lift End</font>
+Pulls a train up and over an incline, holds the train then releases it down an overdive drop.
+TrackElementTool_BarghestChainLiftTop02,<font color='accent'>Rounded Chain Lift End</font>
+Pulls a train up and over an incline into a drop.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_BarrelRollLeft,OLD Barrel Roll Left
+TrackElementTool_BarrelRollRight,OLD Barrel Roll Right
+TrackElementTool_batwingleft,OLD Batwing Left
+TrackElementTool_batwingright,OLD Batwing Right
+TrackElementTool_BlockSection,<font color='accent'>Block Section</font>
+Allows multiple trains to run on track at the same time, by stopping and holding them until the next section of track is clear.
+
+For free sections to be available, 1 more block section is needed than number of trains.
+
+Chain lifts and the station act as block sections.
+
+Once added, block section mode can be turned on and additional trains added in the ride info panel's 'operation' tab.
+
+EFN values whilst on a block section do not contribute to the final EFN ratings for the ride.
+TrackElementTool_Booster,<font color='accent'>Drive Tyres</font>
+Pushes trains along slowly.
+TrackElementTool_Brakes,<font color='accent'>Friction Brakes</font>
+Slows trains down.
+TrackElementTool_CableLift,<font color='accent'>Cable Lift</font>
+Pulls trains up an incline.
+
+EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_CableLiftEnd,<font color='accent'>Cable Lift End</font>
+Ends a cable lift.
+
+EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_CableLiftMid,<font color='accent'>Cable Lift Mid-Section</font>
+Pulls trains up an incline.
+
+EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_CableLiftStart,<font color='accent'>Cable Lift Start</font>
+Pulls trains up an incline.
+
+EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_ChainLift,<font color='accent'>Chain Lift</font>
+Pulls trains up an incline.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_ChainLiftBot,<font color='accent'>Chain Lift Start</font>
+Pulls trains up an incline.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_ChainLiftTop,<font color='accent'>Chain Lift End</font>
+Pulls trains up an incline.
+
+EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_cobrarollleft,OLD Cobra Roll Left
+TrackElementTool_cobrarollright,OLD Cobra Roll Right
+TrackElementTool_DivingLoopLeft,OLD Diving Loop Left
+TrackElementTool_DivingLoopRight,OLD Diving Loop Right
+TrackElementTool_FlyingSnakeDiveLeft,OLD Flying Snake Dive Left
+TrackElementTool_FlyingSnakeDiveRight,OLD Flying Snake Dive Right
+TrackElementTool_FrictionWheelLift,<font color='accent'>Friction Wheel Lift</font>
+Pushes trains up an incline.
+
+EFN values whilst on a friction wheel lift do not contribute to the final EFN ratings for the ride.
+TrackElementTool_HoldingSection,<font color='accent'>Dive Drop Holding Section</font>
+Holds the train looking down before releasing.
+TrackElementTool_HydraulicLaunch,<font color='accent'>Hydraulic Launch</font>
+Launch system that propels trains at speed along the track.
+TrackElementTool_immelmannleft,OLD Immelmann Left
+TrackElementTool_immelmannright,OLD Immelmann Right
+TrackElementTool_LogDropEnd,<font color='accent'>Drop End</font>
+Ends a drop
+TrackElementTool_LogDropMid,<font color='accent'>Drop Mid-Section</font>
+Extends the length of a drop
+TrackElementTool_LogDropStart,<font color='accent'>Drop Start</font>
+Starts a drop for the boat
+TrackElementTool_LogLiftEnd,<font color='accent'>Conveyor Belt Lift Hill End</font>
+Ends a lift
+TrackElementTool_LogLiftMid,<font color='accent'>Conveyor Belt Lift Hill Mid-Section</font>
+Lifts the boat uphill
+TrackElementTool_LogLiftStart,<font color='accent'>Conveyor Belt Lift Hill Start</font>
+Starts lifting the boat uphill
+TrackElementTool_LogSplashEnd,<font color='accent'>Splashdown End</font>
+Ends a splashdown section
+TrackElementTool_LogSplashMid,<font color='accent'>Splashdown Mid-Section</font>
+Extends a splashdown section
+TrackElementTool_LogSplashStart,<font color='accent'>Splashdown Start</font>
+Starts a splashdown section at the end of a drop
+TrackElementTool_LoopLeft,OLD Loop Left
+TrackElementTool_LoopRight,OLD Loop Right
+TrackElementTool_LSM,<font color='accent'>Linear Synchronous Motor</font>
+Propels trains at speed along the track.
+TrackElementTool_MagneticBrakes,<font color='accent'>Magnetic Brakes</font>
+Slows trains down.
+TrackElementTool_NormalTrack,<font color='accent'>Standard Track</font>
+Basic, standard track.
+TrackElementTool_NormalTrackHBeam,<font color='accent'>H-Beam Styled Standard Track</font>
+Basic, standard track.
+TrackElementTool_norwegianloopleft,OLD Norwegian Loop Left
+TrackElementTool_norwegianloopright,OLD Norwegian Loop Right
+TrackElementTool_PhotoSection,<font color='accent'>Photo Section</font>
+Photographs guests on trains as they pass.
+TrackElementTool_PretzelKnotLeft,OLD Pretzel Knot Left
+TrackElementTool_PretzelKnotRight,OLD Pretzel Knot Right
+TrackElementTool_ReverseLaunch,<font color='accent'>Dual Direction Linear Synchronous Motor
+(with brake function)</font>
+Stops the train, launches it backwards, then when the train passes back over it, boosts it in a forwards direction.
+TrackElementTool_RiverRapidsStandardRapids,<font color='accent'>Standard Width Rapids Section</font>
+Selects a standard width rapids section
+TrackElementTool_RiverRapidsTrack,<font color='accent'>Standard River Rapids Tube</font>
+Basic, standard river rapids tube
+TrackElementTool_RiverRapidsWideEnd,<font color='accent'>Wide Section End</font>
+Narrows the tube
+TrackElementTool_RiverRapidsWideLeftEnd,<font color='accent'>Wide Left Section End</font>
+Narrows the tube
+TrackElementTool_RiverRapidsWideLeftMid,<font color='accent'>Wide Left Section</font>
+Selects a tube that's wider to the left
+TrackElementTool_RiverRapidsWideLeftRapids,<font color='accent'>Wide Left Rapids Section</font>
+Selects a rapids section that's wider to the left
+TrackElementTool_RiverRapidsWideLeftStart,<font color='accent'>Wide Left Section Start</font>
+Widens the tube to the left
+TrackElementTool_RiverRapidsWideMid,<font color='accent'>Wide Section</font>
+Places a wider tube
+TrackElementTool_RiverRapidsWideRapids,<font color='accent'>Wide Rapids Section</font>
+Selects a wide rapids section
+TrackElementTool_RiverRapidsWideRightEnd,<font color='accent'>Wide Right Section End</font>
+Narrows the tube
+TrackElementTool_RiverRapidsWideRightMid,<font color='accent'>Wide Right Section</font>
+Selects a tube that's wider to the right
+TrackElementTool_RiverRapidsWideRightRapids,<font color='accent'>Wide Right Rapids Section</font>
+Selects a rapids section that's wider to the right
+TrackElementTool_RiverRapidsWideRightStart,<font color='accent'>Wide Right Section Start</font>
+Widens the tube to the right
+TrackElementTool_RiverRapidsWideStart,<font color='accent'>Wide Section Start</font>
+Widens the tube
+TrackElementTool_SpinningStart,<font color='accent'>Unlock Car-Spin</font>
+Unlocks the car's ability to free spin on its vertical axis.
+TrackElementTool_SpinningStop,<font color='accent'>Lock and Centre Car-Spin</font>
+Locks the car's ability to free spin on its vertical axis and returns the car's rotation to centre.
+TrackElementTool_Station,<font color='accent'>Station</font>
+Where guests board and disembark trains.
+TrackElementTool_StationLeftLeft,<font color='accent'>Station</font>
+Entry Left/ Exit Left.
+TrackElementTool_StationLeftOff,<font color='accent'>Station</font>
+Exit Left.
+TrackElementTool_StationLeftOn,<font color='accent'>Station</font>
+Entry Left.
+TrackElementTool_StationLeftRight,<font color='accent'>Station</font>
+Entry Left/ Exit Right.
+TrackElementTool_StationRightLeft,<font color='accent'>Station</font>
+Entry Right/ Exit Left.
+TrackElementTool_StationRightOff,<font color='accent'>Station</font>
+Exit Right.
+TrackElementTool_StationRightOn,<font color='accent'>Station</font>
+Entry Right.
+TrackElementTool_StationRightRight,<font color='accent'>Station</font>
+Entry Right/ Exit Right.
+TrackElementTool_SteepslopeZeroGRollLeft,OLD Steep Slope Zero-G Roll Left
+TrackElementTool_SteepslopeZeroGRollRight,OLD Steep Slope Zero-G Roll Right
+TrackElementTool_TestCorkscrewLeftIn,OLD Corkscrew Left Entry
+TrackElementTool_TestCorkscrewLeftOut,OLD Corkscrew Left Exit
+TrackElementTool_TestCorkscrewRightIn,OLD Corkscrew Right Entry
+TrackElementTool_TestCorkscrewRightOut,OLD Corkscrew Right Exit
+TrackElementTool_TK_SP_BananaRollLeft,Banana Roll Left
+TrackElementTool_TK_SP_BananaRollRight,Banana Roll Right
+TrackElementTool_TK_SP_BatwingLeft,Batwing Left
+TrackElementTool_TK_SP_BatwingRight,Batwing Right
+TrackElementTool_TK_SP_BowtieLeft,Bowtie Left
+TrackElementTool_TK_SP_BowtieRight,Bowtie Right
+TrackElementTool_TK_SP_ButterflyInversionLeft,Butterfly Inversion Left
+TrackElementTool_TK_SP_ButterflyInversionRight,Butterfly Inversion Right
+TrackElementTool_TK_SP_CobraRollLeft,Cobra Roll Left
+TrackElementTool_TK_SP_CobraRollRight,Cobra Roll Right
+TrackElementTool_TK_SP_Corkscrew_InLeft,Corkscrew Entry Left
+TrackElementTool_TK_SP_Corkscrew_InRight,Corkscrew Entry Right
+TrackElementTool_TK_SP_CorkscrewLeft,Corkscrew Mid-Section Left
+TrackElementTool_TK_SP_Corkscrew_OutLeft,Corkscrew Exit Left
+TrackElementTool_TK_SP_Corkscrew_OutRight,Corkscrew Exit Right
+TrackElementTool_TK_SP_CorkscrewRight,Corkscrew Mid-Section Right
+TrackElementTool_TK_SP_CutbackLeft,Cutback Left
+TrackElementTool_TK_SP_CutbackRight,Cutback Right
+TrackElementTool_TK_SP_DemonicKnotLeft,Demonic Knot Left
+TrackElementTool_TK_SP_DemonicKnotRight,Demonic Knot Right
+TrackElementTool_TK_SP_DiveDropLeft,Dive Drop Left
+TrackElementTool_TK_SP_DiveDropRight,Dive Drop Right
+TrackElementTool_TK_SP_DiveLoopLeft,Dive Loop Left
+TrackElementTool_TK_SP_DiveLoopRight,Dive Loop Right
+TrackElementTool_TK_SP_Figure8HelixLeft,Figure-of-8 Helix Left
+TrackElementTool_TK_SP_Figure8HelixRight,Figure-of-8 Helix Right
+TrackElementTool_TK_SP_HalfHelix_DownLeft,Half Helix Down Left
+TrackElementTool_TK_SP_HalfHelix_DownRight,Half Helix Down Right
+TrackElementTool_TK_SP_HalfHelix_UpLeft,Half Helix Up Left
+TrackElementTool_TK_SP_HalfHelix_UpRight,Half Helix Up Right
+TrackElementTool_TK_SP_HalfLoop_Down,Half Loop Down
+TrackElementTool_TK_SP_HalfLoop_Up,Half Loop Up
+TrackElementTool_TK_SP_HammerHeadTurnLeft,Hammerhead Turn Left
+TrackElementTool_TK_SP_HammerHeadTurnRight,Hammerhead Turn Right
+TrackElementTool_TK_SP_HeartlineRoll_InLeft,Heartline Roll Entry Left
+TrackElementTool_TK_SP_HeartlineRoll_InRight,Heartline Roll Entry Right
+TrackElementTool_TK_SP_HeartlineRollLeft,Heartline Roll Mid-Section Left
+TrackElementTool_TK_SP_HeartlineRoll_OutLeft,Heartline Roll Exit Left
+TrackElementTool_TK_SP_HeartlineRoll_OutRight,Heartline Roll Exit Right
+TrackElementTool_TK_SP_HeartlineRollRight,Heartline Roll Mid-Section Right
+TrackElementTool_TK_SP_Helix_DownLeft,Helix Down Left
+TrackElementTool_TK_SP_Helix_DownRight,Helix Down Right
+TrackElementTool_TK_SP_Helix_UpLeft,Helix Up Left
+TrackElementTool_TK_SP_Helix_UpRight,Helix Up Right
+TrackElementTool_TK_SP_Immelmann_180Left,Immelmann 180° Loop Left
+TrackElementTool_TK_SP_Immelmann_180Right,Immelmann 180° Loop Right
+TrackElementTool_TK_SP_Immelmann_90Left,Sidewinder Left
+TrackElementTool_TK_SP_Immelmann_90Right,Sidewinder Right
+TrackElementTool_TK_SP_InclinedDiveLoopLeft,Inclined Dive Loop Left
+TrackElementTool_TK_SP_InclinedDiveLoopRight,Inclined Dive Loop Right
+TrackElementTool_TK_SP_InclinedLoop_45Left,Inclined 45° Loop Left
+TrackElementTool_TK_SP_InclinedLoop_45Right,Inclined 45° Loop Right
+TrackElementTool_TK_SP_InclinedLoop_80Left,Inclined 80° Loop Left
+TrackElementTool_TK_SP_InclinedLoop_80Right,Inclined 80° Loop Right
+TrackElementTool_TK_SP_InlineRoll_InLeft,Inline Roll Entry Left
+TrackElementTool_TK_SP_InlineRoll_InRight,Inline Roll Entry Right
+TrackElementTool_TK_SP_InlineRollLeft,Inline Roll Mid-Section Left
+TrackElementTool_TK_SP_InlineRoll_OutLeft,Inline Roll Exit Left
+TrackElementTool_TK_SP_InlineRoll_OutRight,Inline Roll Exit Right
+TrackElementTool_TK_SP_InlineRollRight,Inline Roll Mid-Section Right
+TrackElementTool_TK_SP_InlineTwist_InLeft,Inline Twist Entry Left
+TrackElementTool_TK_SP_InlineTwist_InRight,Inline Twist Entry Right
+TrackElementTool_TK_SP_InlineTwistLeft,Inline Twist Mid-Section Left
+TrackElementTool_TK_SP_InlineTwist_OutLeft,Inline Twist Exit Left
+TrackElementTool_TK_SP_InlineTwist_OutRight,Inline Twist Exit Right
+TrackElementTool_TK_SP_InlineTwistRight,Inline Twist Mid-Section Right
+TrackElementTool_TK_SP_NonInvLoopLeft,Non-Inverted Loop Left
+TrackElementTool_TK_SP_NonInvLoopRight,Non-Inverted Loop Right
+TrackElementTool_TK_SP_NorwegianLoopLeft,Norwegian Loop Left
+TrackElementTool_TK_SP_NorwegianLoopRight,Norwegian Loop Right
+TrackElementTool_TK_SP_OverbankedTurnLeft,Overbanked Turn Left
+TrackElementTool_TK_SP_OverbankedTurnRight,Overbanked Turn Right
+TrackElementTool_TK_SP_PretzelKnotLeft,Pretzel Knot Left
+TrackElementTool_TK_SP_PretzelKnotRight,Pretzel Knot Right
+TrackElementTool_TK_SP_PretzelLoopLeft,Pretzel Loop Left
+TrackElementTool_TK_SP_PretzelLoopRight,Pretzel Loop Right
+TrackElementTool_TK_SP_RavenTurn_InvertedLeft,Inverted Raven Turn Left
+TrackElementTool_TK_SP_RavenTurn_InvertedRight,Inverted Raven Turn Right
+TrackElementTool_TK_SP_RavenTurnLeft,Raven Turn Left
+TrackElementTool_TK_SP_RavenTurnRight,Raven Turn Right
+TrackElementTool_TK_SP_SeaSerpentLeft,Sea Serpent Roll Left
+TrackElementTool_TK_SP_SeaSerpentRight,Sea Serpent Roll Right
+TrackElementTool_TK_SP_SnakeDiveLeft,Snake Dive Left
+TrackElementTool_TK_SP_SnakeDiveRight,Snake Dive Right
+TrackElementTool_TK_SP_TopHat,Top Hat
+TrackElementTool_TK_SP_TopHatInverted,Inverted Top Hat
+TrackElementTool_TK_SP_TwistedHorseShoeRollLeft,Twisted Horseshoe Roll Left
+TrackElementTool_TK_SP_TwistedHorseShoeRollRight,Twisted Horseshoe Roll Right
+TrackElementTool_TK_SP_VerticalHeartlineRoll_InLeft,Vertical Heartline Roll Entry Left
+TrackElementTool_TK_SP_VerticalHeartlineRoll_InRight,Vertical Heartline Roll Entry Right
+TrackElementTool_TK_SP_VerticalHeartlineRollLeft,Vertical Heartline Roll Mid-Section Left
+TrackElementTool_TK_SP_VerticalHeartlineRoll_OutLeft,Vertical Heartline Roll Exit Left
+TrackElementTool_TK_SP_VerticalHeartlineRoll_OutRight,Vertical Heartline Roll Exit Right
+TrackElementTool_TK_SP_VerticalHeartlineRollRight,Vertical Heartline Roll Mid-Section Right
+TrackElementTool_TK_SP_VerticalInlineRoll_InLeft,Vertical Inline Roll Entry Left
+TrackElementTool_TK_SP_VerticalInlineRoll_InRight,Vertical Inline Roll Entry Right
+TrackElementTool_TK_SP_VerticalInlineRollLeft,Vertical Inline Roll Mid-Section Left
+TrackElementTool_TK_SP_VerticalInlineRoll_OutLeft,Vertical Inline Roll Exit Left
+TrackElementTool_TK_SP_VerticalInlineRoll_OutRight,Vertical Inline Roll Exit Right
+TrackElementTool_TK_SP_VerticalInlineRollRight,Vertical Inline Roll Mid-Section Right
+TrackElementTool_TK_SP_VerticalInlineTwist_InLeft,Vertical Inline Twist Entry Left
+TrackElementTool_TK_SP_VerticalInlineTwist_InRight,Vertical Inline Twist Entry Right
+TrackElementTool_TK_SP_VerticalInlineTwistLeft,Vertical Inline Twist Mid-Section Left
+TrackElementTool_TK_SP_VerticalInlineTwist_OutLeft,Vertical Inline Twist Exit Left
+TrackElementTool_TK_SP_VerticalInlineTwist_OutRight,Vertical Inline Twist Exit Right
+TrackElementTool_TK_SP_VerticalInlineTwistRight,Vertical Inline Twist Mid-Section Right
+TrackElementTool_TK_SP_VerticalLoopLeft,Vertical Loop Left
+TrackElementTool_TK_SP_VerticalLoopRight,Vertical Loop Right
+TrackElementTool_TK_SP_VerticalLoopWideLeft,Wide Vertical Loop Left
+TrackElementTool_TK_SP_VerticalLoopWideRight,Wide Vertical Loop Right
+TrackElementTool_TK_SP_WrapAroundCorkscrew_InLeft,Wraparound Corkscrew Entry Left
+TrackElementTool_TK_SP_WrapAroundCorkscrew_InRight,Wraparound Corkscrew Entry Right
+TrackElementTool_TK_SP_WrapAroundCorkscrewLeft,Wraparound Corkscrew Left
+TrackElementTool_TK_SP_WrapAroundCorkscrew_OutLeft,Wraparound Corkscrew Exit Left
+TrackElementTool_TK_SP_WrapAroundCorkscrew_OutRight,Wraparound Corkscrew Exit Right
+TrackElementTool_TK_SP_WrapAroundCorkscrewRight,Wraparound Corkscrew Right
+TrackElementTool_TK_SP_ZeroGRollLeft,Zero-G Roll Left
+TrackElementTool_TK_SP_ZeroGRollRight,Zero-G Roll Right
+TrackElementTool_TK_SP_ZeroGStallLeft,Zero-G Stall Left
+TrackElementTool_TK_SP_ZeroGStallRight,Zero-G Stall Right
+TrackElementTool_TorqueTopHat,Tophat Loop
+TrackElementTool_TrimBrakes,<font color='accent'>Trim Brakes</font>
+Used to trim speed of the train mid-run. More versatile than a friction or magnetic brake run, but more expensive.

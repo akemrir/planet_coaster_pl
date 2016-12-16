@@ -1,0 +1,12 @@
+key,translationBuild_Widgets_Cancel,Cancel (Esc)
+Build_Widgets_Confirm,Build/Buy
+Build_Widgets_Duplicate,Duplicate
+Build_Widgets_Exit,Exit Advanced Move
+Build_Widgets_Move,Move
+Build_Widgets_Object_Axis,Use Relative Axes
+Build_Widgets_RequiresMove,This object must be moved before it can be placed.
+Build_Widgets_Reset,Reset Rotation
+Build_Widgets_Rotate,Rotate (X)
+Build_Widgets_SurfaceMove,Surface Move (M)
+Build_Widgets_Translate,Translate (X)
+Build_Widgets_World_Axis,Use World Axes

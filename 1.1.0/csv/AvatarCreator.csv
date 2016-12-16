@@ -1,0 +1,29 @@
+key,translationAvatarCreator_Accept,Accept
+AvatarCreator_AdultCouple,Adult Couple
+AvatarCreator_AdultCoupleDesc,Only 2 adults can be added.
+AvatarCreator_AdultGroup,Adult Group
+AvatarCreator_AdultGroupDesc,Only adults can be added.
+AvatarCreator_Back,Back
+AvatarCreator_CreateAdultCouple,Create Adult Couple
+AvatarCreator_CreateAdultGroup,Create Adult Group
+AvatarCreator_CreateFamilyGroup,Create Family Group
+AvatarCreator_CreateGroup,Create a Group!
+AvatarCreator_CreateGroupDescription,Add and remove Guests from this group. !PLACEHOLDER TEXT!
+AvatarCreator_CreateTeenCouple,Create Teen Couple
+AvatarCreator_CreateTeenGroup,Create Teen Group
+AvatarCreator_DoEditGroup,Edit Your Group
+AvatarCreator_EditGroup,Edit Group
+AvatarCreator_EditGroupDesc,Make changes to your existing group.
+AvatarCreator_FamilyGroup,Family Group
+AvatarCreator_FamilyGroupDesc,Children accompanied by adults can be added.
+AvatarCreator_GroupType,Group Type
+AvatarCreator_InvalidGroup,This group has an invalid set of members.
+AvatarCreator_InvalidGrouptitle,Invalid Group
+AvatarCreator_Name,Enter Name
+AvatarCreator_Randomize,Randomise
+AvatarCreator_RotateLeft,Rotate Left
+AvatarCreator_RotateRight,Rotate Right
+AvatarCreator_TeenCouple,Teen Couple
+AvatarCreator_TeenCoupleDesc,Only 2 teens can be added.
+AvatarCreator_TeenGroup,Teen Group
+AvatarCreator_TeenGroupDesc,Only teens can be added.
