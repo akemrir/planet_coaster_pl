@@ -1,3 +1,5 @@
 lib/
 manager.rb
 Gemfile*
+group_keys.rb
+.ruby-version
