@@ -1,7 +1,7 @@
 ## Ogólne
 
 Ostatnie najaktualniejsze tłumaczenie pobrane z:
-http://cdn.gulpeyrex.com/communitytranslations/sourcedata/1.1.0/StringData.xml
+http://cdn.gulpeyrex.com/communitytranslations/sourcedata/1.1.1/StringData.xml
 
 ## Uruchomienie
 
@@ -9,11 +9,6 @@ http://cdn.gulpeyrex.com/communitytranslations/sourcedata/1.1.0/StringData.xml
 - zmień parametry uruchamiania w steamie
 - dodaj "-translation pl.xml"
 - uruchom grę
-
-## TODO
-
-- synchronizacja z 1.1
-- przygotowanie procesu do tworzenia pl.xml
 
 ## Stan grup z tłumaczeń
 
