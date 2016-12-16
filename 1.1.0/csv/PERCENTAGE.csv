@@ -1,2 +1,2 @@
 key,translation
-PERCENTAGE,{Value:float:decimalPlaces=0}%
+PERCENTAGE,'{Value:float:decimalPlaces=0}%'

@@ -1,41 +1,41 @@
 key,translation
-CoasterEditor_AttachedAndRotateCamera,Attach and Rotate
-CoasterEditor_AttachedCamera,Attach
-CoasterEditor_AttachedGizmoCamera,Dynamic
-CoasterEditor_AttachedRotateGizmoCamera,Dynamic and Rotate
-CoasterEditor_Autocomplete,Autocomplete
-CoasterEditor_AutocompleteCalculating,Autocomplete calculating...
-CoasterEditor_AutocompleteCancel,Cancel
-CoasterEditor_AutocompleteDisabled,Autocomplete not available for this ride
-CoasterEditor_AutocompleteFailed,Autocomplete Failed
-CoasterEditor_Camera,Camera
-CoasterEditor_CarColor,Car Colour
-CoasterEditor_Delete,Delete
-CoasterEditor_ExtraSettings,Utility Settings
-CoasterEditor_FreeCamera,Free
-CoasterEditor_HeatmapG,{VALUE:int} G
-CoasterEditor_Loops,Loops
-CoasterEditor_NonInverted,Non-inverted
-CoasterEditor_ReverseDirection,Reverse Direction
-CoasterEditor_Rolls,Rolls
-CoasterEditor_Scenery,Scenery
-CoasterEditor_Settings,Settings
-CoasterEditor_ShowBank,Show Bank
-CoasterEditor_Smooth,Smooth All
-CoasterEditor_SmoothBanking,Smooth Banking
-CoasterEditor_Speed,Speed
-CoasterEditor_Station,Station
-CoasterEditor_StopTest,Stop Test
-CoasterEditor_SupportColor,Support Colour
-CoasterEditor_Test,Test
-CoasterEditor_Tools,Tools
-CoasterEditor_Tooltip_Autocomplete,Autocomplete
-CoasterEditor_Tooltip_Build,Build
-CoasterEditor_Tooltip_Camera,Camera
-CoasterEditor_Tooltip_Delete,Delete
-CoasterEditor_Tooltip_Test,Test
-CoasterEditor_Track,Track
-CoasterEditor_TrackColor,Track Colour
-CoasterEditor_Trains,Trains
-CoasterEditor_TunnelWidth,Tunnel Width
-CoasterEditor_Utilities,Utilities
+CoasterEditor_AttachedAndRotateCamera,'Attach and Rotate'
+CoasterEditor_AttachedCamera,'Attach'
+CoasterEditor_AttachedGizmoCamera,'Dynamic'
+CoasterEditor_AttachedRotateGizmoCamera,'Dynamic and Rotate'
+CoasterEditor_Autocomplete,'Autocomplete'
+CoasterEditor_AutocompleteCalculating,'Autocomplete calculating...'
+CoasterEditor_AutocompleteCancel,'Cancel'
+CoasterEditor_AutocompleteDisabled,'Autocomplete not available for this ride'
+CoasterEditor_AutocompleteFailed,'Autocomplete Failed'
+CoasterEditor_Camera,'Camera'
+CoasterEditor_CarColor,'Car Colour'
+CoasterEditor_Delete,'Delete'
+CoasterEditor_ExtraSettings,'Utility Settings'
+CoasterEditor_FreeCamera,'Free'
+CoasterEditor_HeatmapG,'{VALUE:int} G'
+CoasterEditor_Loops,'Loops'
+CoasterEditor_NonInverted,'Non-inverted'
+CoasterEditor_ReverseDirection,'Reverse Direction'
+CoasterEditor_Rolls,'Rolls'
+CoasterEditor_Scenery,'Scenery'
+CoasterEditor_Settings,'Settings'
+CoasterEditor_ShowBank,'Show Bank'
+CoasterEditor_Smooth,'Smooth All'
+CoasterEditor_SmoothBanking,'Smooth Banking'
+CoasterEditor_Speed,'Speed'
+CoasterEditor_Station,'Station'
+CoasterEditor_StopTest,'Stop Test'
+CoasterEditor_SupportColor,'Support Colour'
+CoasterEditor_Test,'Test'
+CoasterEditor_Tools,'Tools'
+CoasterEditor_Tooltip_Autocomplete,'Autocomplete'
+CoasterEditor_Tooltip_Build,'Build'
+CoasterEditor_Tooltip_Camera,'Camera'
+CoasterEditor_Tooltip_Delete,'Delete'
+CoasterEditor_Tooltip_Test,'Test'
+CoasterEditor_Track,'Track'
+CoasterEditor_TrackColor,'Track Colour'
+CoasterEditor_Trains,'Trains'
+CoasterEditor_TunnelWidth,'Tunnel Width'
+CoasterEditor_Utilities,'Utilities'

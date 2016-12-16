@@ -1,56 +1,56 @@
 key,translation
-Browser_Cat_Shop_ATM,ATMs
-Browser_Cat_Shop_Decoration,Shop Decorations
-Browser_Cat_Shop_Drink,Drink Shops
-Browser_Cat_Shop_FirstAid,First Aid
-Browser_Cat_Shop_Food,Food Shops
-Browser_Cat_Shop_Gift,Gift Shops
-Browser_Cat_Shop_Info,Information
-Browser_Cat_Shop_Other,Other
-Browser_Cat_Shop_ParkEntrance,Park Entrances
-Browser_Cat_Shop_TicketBooth,Ticket Booths
-Browser_Cat_Shop_Toilet,Toilets
-Browser_SubCat_Attach_Decorations,Window Decorations
-Browser_SubCat_Attach_Doors,Doors
-Browser_SubCat_Attach_Windows,Windows
-Browser_SubCat_Decorations_Flags,Flags
-Browser_SubCat_Decorations_Lights,Lights
-Browser_SubCat_Decorations_Wall,Misc
-Browser_SubCat_Nature_Bush,Bushes
-Browser_SubCat_Nature_Climber,Wall Climbers
-Browser_SubCat_Nature_Misc,Misc
-Browser_SubCat_Nature_Rock,Rocks
-Browser_SubCat_Nature_Topiary,Topiary
-Browser_SubCat_Nature_Tree,Trees
-Browser_SubCat_PathExtra_Bench,Benches
-Browser_SubCat_PathExtra_Bin,Bins
-Browser_SubCat_PathExtra_Misc,Misc
-Browser_SubCat_Primitives_Edges,Hard Edges
-Browser_SubCat_Primitives_Flat,Flat
-Browser_SubCat_Primitives_Round,Rounded
-Browser_SubCat_Props_Animatronic,Animatronics
-Browser_SubCat_Props_Archways,Archways
-Browser_SubCat_Props_Lamps,Lights
-Browser_SubCat_Props_Misc,Misc
-Browser_SubCat_Props_Signs,Signs and Advertising
-Browser_SubCat_Props_Statues,Statues and Centrepieces
-Browser_SubCat_Roof_Decorations,Roof Decorations
-Browser_SubCat_Roof_Flat,Flat Roofs
-Browser_SubCat_Roof_Roof,Pitched Roofs
-Browser_SubCat_Roof_Trim,Roof Trims
-Browser_SubCat_Sign_Facility,Facility Signs
-Browser_SubCat_Sign_Park,Theme Signs
-Browser_SubCat_Sign_Ride,Ride Signs
-Browser_SubCat_Sign_Shape,Misc Signs
-Browser_SubCat_Sign_Shop,Shop Signs
-Browser_SubCat_VFX_Ambient,Ambience
-Browser_SubCat_VFX_Audio,Audio
-Browser_SubCat_VFX_Electric,Electricity
-Browser_SubCat_VFX_Fire,Pyrotechnics
-Browser_SubCat_VFX_Misc,Misc
-Browser_SubCat_VFX_Water,Water
-Browser_SubCat_Walls_Arches,Arches
-Browser_SubCat_Walls_Columns,Columns
-Browser_SubCat_Walls_Framework,Framework
-Browser_SubCat_Walls_Misc,Wall Decorations
-Browser_SubCat_Walls_Walls,Wall Pieces
+Browser_Cat_Shop_ATM,'ATMs'
+Browser_Cat_Shop_Decoration,'Shop Decorations'
+Browser_Cat_Shop_Drink,'Drink Shops'
+Browser_Cat_Shop_FirstAid,'First Aid'
+Browser_Cat_Shop_Food,'Food Shops'
+Browser_Cat_Shop_Gift,'Gift Shops'
+Browser_Cat_Shop_Info,'Information'
+Browser_Cat_Shop_Other,'Other'
+Browser_Cat_Shop_ParkEntrance,'Park Entrances'
+Browser_Cat_Shop_TicketBooth,'Ticket Booths'
+Browser_Cat_Shop_Toilet,'Toilets'
+Browser_SubCat_Attach_Decorations,'Window Decorations'
+Browser_SubCat_Attach_Doors,'Doors'
+Browser_SubCat_Attach_Windows,'Windows'
+Browser_SubCat_Decorations_Flags,'Flags'
+Browser_SubCat_Decorations_Lights,'Lights'
+Browser_SubCat_Decorations_Wall,'Misc'
+Browser_SubCat_Nature_Bush,'Bushes'
+Browser_SubCat_Nature_Climber,'Wall Climbers'
+Browser_SubCat_Nature_Misc,'Misc'
+Browser_SubCat_Nature_Rock,'Rocks'
+Browser_SubCat_Nature_Topiary,'Topiary'
+Browser_SubCat_Nature_Tree,'Trees'
+Browser_SubCat_PathExtra_Bench,'Benches'
+Browser_SubCat_PathExtra_Bin,'Bins'
+Browser_SubCat_PathExtra_Misc,'Misc'
+Browser_SubCat_Primitives_Edges,'Hard Edges'
+Browser_SubCat_Primitives_Flat,'Flat'
+Browser_SubCat_Primitives_Round,'Rounded'
+Browser_SubCat_Props_Animatronic,'Animatronics'
+Browser_SubCat_Props_Archways,'Archways'
+Browser_SubCat_Props_Lamps,'Lights'
+Browser_SubCat_Props_Misc,'Misc'
+Browser_SubCat_Props_Signs,'Signs and Advertising'
+Browser_SubCat_Props_Statues,'Statues and Centrepieces'
+Browser_SubCat_Roof_Decorations,'Roof Decorations'
+Browser_SubCat_Roof_Flat,'Flat Roofs'
+Browser_SubCat_Roof_Roof,'Pitched Roofs'
+Browser_SubCat_Roof_Trim,'Roof Trims'
+Browser_SubCat_Sign_Facility,'Facility Signs'
+Browser_SubCat_Sign_Park,'Theme Signs'
+Browser_SubCat_Sign_Ride,'Ride Signs'
+Browser_SubCat_Sign_Shape,'Misc Signs'
+Browser_SubCat_Sign_Shop,'Shop Signs'
+Browser_SubCat_VFX_Ambient,'Ambience'
+Browser_SubCat_VFX_Audio,'Audio'
+Browser_SubCat_VFX_Electric,'Electricity'
+Browser_SubCat_VFX_Fire,'Pyrotechnics'
+Browser_SubCat_VFX_Misc,'Misc'
+Browser_SubCat_VFX_Water,'Water'
+Browser_SubCat_Walls_Arches,'Arches'
+Browser_SubCat_Walls_Columns,'Columns'
+Browser_SubCat_Walls_Framework,'Framework'
+Browser_SubCat_Walls_Misc,'Wall Decorations'
+Browser_SubCat_Walls_Walls,'Wall Pieces'

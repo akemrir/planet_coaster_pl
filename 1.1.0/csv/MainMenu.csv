@@ -1,36 +1,36 @@
 key,translation
-MainMenu_Build,Build
-MainMenu_Build_Coasters,Coasters
-MainMenu_Build_Facilities,Facilities
-MainMenu_Build_FlatRides,Flat Rides
-MainMenu_Build_Paths,Paths
-MainMenu_Build_Rides,Rides
-MainMenu_Build_Scenery,Scenery
-MainMenu_Build_Scenery_Development,Development
-MainMenu_Build_Scenery_Modular,Modular
-MainMenu_Build_Scenery_Nature,Nature
-MainMenu_Build_Scenery_Props,Props
-MainMenu_Build_Scenery_Standalone,Standalone
-MainMenu_Build_Scenery_Test,Test
-MainMenu_Build_Scenery_WallDecorations,Wall Decorations
-MainMenu_Build_Terrain,Terrain
-MainMenu_Confirm_Confirm,Confirm
-MainMenu_Confirm_Header,Keep these changes?
-MainMenu_Confirm_Label,Reverting in {Value:int}...
-MainMenu_Confirm_Revert,Revert
-MainMenu_Manage,Manage
-MainMenu_Manage_Finance,Finance
-MainMenu_Manage_Guests,Guests
-MainMenu_Manage_Staff,Staff
-MainMenu_Menu,Menu
-MainMenu_Menu_Load,Load Park
-MainMenu_Menu_Quit,Quit Planet Coaster
-MainMenu_Menu_Quit_ConfirmHeader,Quit Planet Coaster
-MainMenu_Menu_Quit_ConfirmLabel,Quit Planet Coaster?  You will lose any unsaved changes.
-MainMenu_Menu_QuitPark_ConfirmCancel,Cancel
-MainMenu_Menu_QuitPark_ConfirmOK,OK
-MainMenu_Menu_Return_To_StartScreen,Exit to Main Menu
-MainMenu_Menu_Return_To_StartScreen_ConfirmHeader,Exit to Main Menu
-MainMenu_Menu_Return_To_StartScreen_ConfirmLabel,Exit to Main Menu?  You will lose any unsaved changes.
-MainMenu_Menu_Save,Save Park
-MainMenu_Settings,Settings
+MainMenu_Build,'Build'
+MainMenu_Build_Coasters,'Coasters'
+MainMenu_Build_Facilities,'Facilities'
+MainMenu_Build_FlatRides,'Flat Rides'
+MainMenu_Build_Paths,'Paths'
+MainMenu_Build_Rides,'Rides'
+MainMenu_Build_Scenery,'Scenery'
+MainMenu_Build_Scenery_Development,'Development'
+MainMenu_Build_Scenery_Modular,'Modular'
+MainMenu_Build_Scenery_Nature,'Nature'
+MainMenu_Build_Scenery_Props,'Props'
+MainMenu_Build_Scenery_Standalone,'Standalone'
+MainMenu_Build_Scenery_Test,'Test'
+MainMenu_Build_Scenery_WallDecorations,'Wall Decorations'
+MainMenu_Build_Terrain,'Terrain'
+MainMenu_Confirm_Confirm,'Confirm'
+MainMenu_Confirm_Header,'Keep these changes?'
+MainMenu_Confirm_Label,'Reverting in {Value:int}...'
+MainMenu_Confirm_Revert,'Revert'
+MainMenu_Manage,'Manage'
+MainMenu_Manage_Finance,'Finance'
+MainMenu_Manage_Guests,'Guests'
+MainMenu_Manage_Staff,'Staff'
+MainMenu_Menu,'Menu'
+MainMenu_Menu_Load,'Load Park'
+MainMenu_Menu_Quit,'Quit Planet Coaster'
+MainMenu_Menu_Quit_ConfirmHeader,'Quit Planet Coaster'
+MainMenu_Menu_Quit_ConfirmLabel,'Quit Planet Coaster?  You will lose any unsaved changes.'
+MainMenu_Menu_QuitPark_ConfirmCancel,'Cancel'
+MainMenu_Menu_QuitPark_ConfirmOK,'OK'
+MainMenu_Menu_Return_To_StartScreen,'Exit to Main Menu'
+MainMenu_Menu_Return_To_StartScreen_ConfirmHeader,'Exit to Main Menu'
+MainMenu_Menu_Return_To_StartScreen_ConfirmLabel,'Exit to Main Menu?  You will lose any unsaved changes.'
+MainMenu_Menu_Save,'Save Park'
+MainMenu_Settings,'Settings'

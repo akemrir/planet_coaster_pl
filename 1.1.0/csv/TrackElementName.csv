@@ -1,205 +1,205 @@
 key,translation
-TrackElementName_BarghestChainLiftBot,Chain Lift Start
-TrackElementName_BarghestChainLiftMid,Chain Lift Mid-Section
-TrackElementName_BarghestChainLiftTop01,Overhanging Chain Lift End
-TrackElementName_BarghestChainLiftTop02,Rounded Chain Lift End
-TrackElementName_BarrelRollLeft,OLD Barrel Roll Left
-TrackElementName_BarrelRollRight,OLD Barrel Roll Right
-TrackElementName_batwingleft,OLD Batwing Left
-TrackElementName_batwingright,OLD Batwing Right
-TrackElementName_BlockSection,Block Section
-TrackElementName_Booster,Drive Tyres
-TrackElementName_Brakes,Friction Brakes
-TrackElementName_CableLift,Cable Lift
-TrackElementName_CableLiftEnd,Cable Lift End
-TrackElementName_CableLiftMid,Cable Lift Mid-Section
-TrackElementName_CableLiftStart,Cable Lift Start
-TrackElementName_ChainLift,Chain Lift
-TrackElementName_ChainLiftBot,Chain Lift Start
-TrackElementName_ChainLiftTop,Chain Lift End
-TrackElementName_cobrarollleft,OLD Cobra Roll Left
-TrackElementName_cobrarollright,OLD Cobra Roll Right
-TrackElementName_DivingLoopLeft,OLD Diving Loop Left
-TrackElementName_DivingLoopRight,OLD Diving Loop Right
-TrackElementName_FlyingSnakeDiveLeft,OLD Flying Snake Dive Left
-TrackElementName_FlyingSnakeDiveRight,OLD Flying Snake Dive Right
-TrackElementName_FrictionWheelLift,Friction Wheel Lift
-TrackElementName_HoldingSection,Dive Drop Holding Section
-TrackElementName_HydraulicLaunch,Hydraulic Launch
-TrackElementName_immelmannleft,OLD Immelmann Left
-TrackElementName_immelmannright,OLD Immelmann Right
-TrackElementName_LogDropEnd,Drop End
-TrackElementName_LogDropMid,Drop Mid-Section
-TrackElementName_LogDropStart,Drop Start
-TrackElementName_LogLiftEnd,Conveyor Belt Lift Hill End
-TrackElementName_LogLiftMid,Conveyor Belt Lift Hill Mid-Section
-TrackElementName_LogLiftStart,Conveyor Belt Lift Hill Start
-TrackElementName_LogSplashEnd,Splashdown End
-TrackElementName_LogSplashMid,Splashdown Mid-Section
-TrackElementName_LogSplashStart,Splashdown Start
-TrackElementName_LoopLeft,OLD Loop Left
-TrackElementName_LoopRight,OLD Loop Right
-TrackElementName_LSM,Linear Synchronous Motor
-TrackElementName_MagneticBrakes,Magnetic Brakes
-TrackElementName_NormalTrack,Standard Track
-TrackElementName_NormalTrackHBeam,H-Beam Styled Standard Track
-TrackElementName_norwegianloopleft,OLD Norwegian Loop Left
-TrackElementName_norwegianloopright,OLD Norwegian Loop Right
-TrackElementName_PhotoSection,Photo Section
-TrackElementName_PretzelKnotLeft,OLD Pretzel Knot Left
-TrackElementName_PretzelKnotRight,OLD Pretzel Knot Right
-TrackElementName_ReverseLaunch,Dual Direction Linear Synchronous Motor
-(with brake function)
-TrackElementName_RiverRapidsStandardRapids,Standard Width Rapids Section
-TrackElementName_RiverRapidsTrack,Standard River Rapids Tube
-TrackElementName_RiverRapidsWideEnd,Wide Section End
-TrackElementName_RiverRapidsWideLeftEnd,Wide Left Section End
-TrackElementName_RiverRapidsWideLeftMid,Wide Left Section
-TrackElementName_RiverRapidsWideLeftRapids,Wide Left Rapids Section
-TrackElementName_RiverRapidsWideLeftStart,Wide Left Section Start
-TrackElementName_RiverRapidsWideMid,Wide Section
-TrackElementName_RiverRapidsWideRapids,Wide Rapids Section
-TrackElementName_RiverRapidsWideRightEnd,Wide Right Section End
-TrackElementName_RiverRapidsWideRightMid,Wide Right Section
-TrackElementName_RiverRapidsWideRightRapids,Wide Right Rapids Section
-TrackElementName_RiverRapidsWideRightStart,Wide Right Section Start
-TrackElementName_RiverRapidsWideStart,Wide Section Start
-TrackElementName_SpinningStart,Unlock Car-Spin
-TrackElementName_SpinningStop,Lock and Centre Car-Spin
-TrackElementName_Station,Station
-TrackElementName_StationLeftLeft,Station
-TrackElementName_StationLeftOff,Station
-TrackElementName_StationLeftOn,Station
-TrackElementName_StationLeftRight,Station
-TrackElementName_StationRightLeft,Station
-TrackElementName_StationRightOff,Station
-TrackElementName_StationRightOn,Station
-TrackElementName_StationRightRight,Station
-TrackElementName_SteepslopeZeroGRollLeft,OLD Steep Slope Zero-G Roll Left
-TrackElementName_SteepslopeZeroGRollRight,OLD Steep Slope Zero-G Roll Right
-TrackElementName_TestCorkscrewLeftIn,OLD Corkscrew Left Entry
-TrackElementName_TestCorkscrewLeftOut,OLD Corkscrew Left Exit
-TrackElementName_TestCorkscrewRightIn,OLD Corkscrew Right Entry
-TrackElementName_TestCorkscrewRightOut,OLD Corkscrew Right Exit
-TrackElementName_TK_SP_BananaRollLeft,Banana Roll Left
-TrackElementName_TK_SP_BananaRollRight,Banana Roll Right
-TrackElementName_TK_SP_BatwingLeft,Batwing Left
-TrackElementName_TK_SP_BatwingRight,Batwing Right
-TrackElementName_TK_SP_BowtieLeft,Bowtie Left
-TrackElementName_TK_SP_BowtieRight,Bowtie Right
-TrackElementName_TK_SP_ButterflyInversionLeft,Butterfly Inversion Left
-TrackElementName_TK_SP_ButterflyInversionRight,Butterfly Inversion Right
-TrackElementName_TK_SP_CobraRollLeft,Cobra Roll Left
-TrackElementName_TK_SP_CobraRollRight,Cobra Roll Right
-TrackElementName_TK_SP_Corkscrew_InLeft,Corkscrew Entry Left
-TrackElementName_TK_SP_Corkscrew_InRight,Corkscrew Entry Right
-TrackElementName_TK_SP_CorkscrewLeft,Corkscrew Mid-Section Left
-TrackElementName_TK_SP_Corkscrew_OutLeft,Corkscrew Exit Left
-TrackElementName_TK_SP_Corkscrew_OutRight,Corkscrew Exit Right
-TrackElementName_TK_SP_CorkscrewRight,Corkscrew Mid-Section Right
-TrackElementName_TK_SP_CutbackLeft,Cutback Left
-TrackElementName_TK_SP_CutbackRight,Cutback Right
-TrackElementName_TK_SP_DemonicKnotLeft,Demonic Knot Left
-TrackElementName_TK_SP_DemonicKnotRight,Demonic Knot Right
-TrackElementName_TK_SP_DiveDropLeft,Dive Drop Left
-TrackElementName_TK_SP_DiveDropRight,Dive Drop Right
-TrackElementName_TK_SP_DiveLoopLeft,Dive Loop Left
-TrackElementName_TK_SP_DiveLoopRight,Dive Loop Right
-TrackElementName_TK_SP_Figure8HelixLeft,Figure-of-8 Helix Left
-TrackElementName_TK_SP_Figure8HelixRight,Figure-of-8 Helix Right
-TrackElementName_TK_SP_HalfHelix_DownLeft,Half Helix Down Left
-TrackElementName_TK_SP_HalfHelix_DownRight,Half Helix Down Right
-TrackElementName_TK_SP_HalfHelix_UpLeft,Half Helix Up Left
-TrackElementName_TK_SP_HalfHelix_UpRight,Half Helix Up Right
-TrackElementName_TK_SP_HalfLoop_Down,Half Loop Down
-TrackElementName_TK_SP_HalfLoop_Up,Half Loop Up
-TrackElementName_TK_SP_HammerHeadTurnLeft,Hammerhead Turn Left
-TrackElementName_TK_SP_HammerHeadTurnRight,Hammerhead Turn Right
-TrackElementName_TK_SP_HeartlineRoll_InLeft,Heartline Roll Entry Left
-TrackElementName_TK_SP_HeartlineRoll_InRight,Heartline Roll Entry Right
-TrackElementName_TK_SP_HeartlineRollLeft,Heartline Roll Mid-Section Left
-TrackElementName_TK_SP_HeartlineRoll_OutLeft,Heartline Roll Exit Left
-TrackElementName_TK_SP_HeartlineRoll_OutRight,Heartline Roll Exit Right
-TrackElementName_TK_SP_HeartlineRollRight,Heartline Roll Mid-Section Right
-TrackElementName_TK_SP_Helix_DownLeft,Helix Down Left
-TrackElementName_TK_SP_Helix_DownRight,Helix Down Right
-TrackElementName_TK_SP_Helix_UpLeft,Helix Up Left
-TrackElementName_TK_SP_Helix_UpRight,Helix Up Right
-TrackElementName_TK_SP_Immelmann_180Left,Immelmann 180° Loop Left
-TrackElementName_TK_SP_Immelmann_180Right,Immelmann 180° Loop Right
-TrackElementName_TK_SP_Immelmann_90Left,Sidewinder Left
-TrackElementName_TK_SP_Immelmann_90Right,Sidewinder Right
-TrackElementName_TK_SP_InclinedDiveLoopLeft,Inclined Dive Loop Left
-TrackElementName_TK_SP_InclinedDiveLoopRight,Inclined Dive Loop Right
-TrackElementName_TK_SP_InclinedLoop_45Left,Inclined 45° Loop Left
-TrackElementName_TK_SP_InclinedLoop_45Right,Inclined 45° Loop Right
-TrackElementName_TK_SP_InclinedLoop_80Left,Inclined 80° Loop Left
-TrackElementName_TK_SP_InclinedLoop_80Right,Inclined 80° Loop Right
-TrackElementName_TK_SP_InlineRoll_InLeft,Inline Roll Entry Left
-TrackElementName_TK_SP_InlineRoll_InRight,Inline Roll Entry Right
-TrackElementName_TK_SP_InlineRollLeft,Inline Roll Mid-Section Left
-TrackElementName_TK_SP_InlineRoll_OutLeft,Inline Roll Exit Left
-TrackElementName_TK_SP_InlineRoll_OutRight,Inline Roll Exit Right
-TrackElementName_TK_SP_InlineRollRight,Inline Roll Mid-Section Right
-TrackElementName_TK_SP_InlineTwist_InLeft,Inline Twist Entry Left
-TrackElementName_TK_SP_InlineTwist_InRight,Inline Twist Entry Right
-TrackElementName_TK_SP_InlineTwistLeft,Inline Twist Mid-Section Left
-TrackElementName_TK_SP_InlineTwist_OutLeft,Inline Twist Exit Left
-TrackElementName_TK_SP_InlineTwist_OutRight,Inline Twist Exit Right
-TrackElementName_TK_SP_InlineTwistRight,Inline Twist Mid-Section Right
-TrackElementName_TK_SP_NonInvLoopLeft,Non-Inverted Loop Left
-TrackElementName_TK_SP_NonInvLoopRight,Non-Inverted Loop Right
-TrackElementName_TK_SP_NorwegianLoopLeft,Norwegian Loop Left
-TrackElementName_TK_SP_NorwegianLoopRight,Norwegian Loop Right
-TrackElementName_TK_SP_OverbankedTurnLeft,Overbanked Turn Left
-TrackElementName_TK_SP_OverbankedTurnRight,Overbanked Turn Right
-TrackElementName_TK_SP_PretzelKnotLeft,Pretzel Knot Left
-TrackElementName_TK_SP_PretzelKnotRight,Pretzel Knot Right
-TrackElementName_TK_SP_PretzelLoopLeft,Pretzel Loop Left
-TrackElementName_TK_SP_PretzelLoopRight,Pretzel Loop Right
-TrackElementName_TK_SP_RavenTurn_InvertedLeft,Inverted Raven Turn Left
-TrackElementName_TK_SP_RavenTurn_InvertedRight,Inverted Raven Turn Right
-TrackElementName_TK_SP_RavenTurnLeft,Raven Turn Left
-TrackElementName_TK_SP_RavenTurnRight,Raven Turn Right
-TrackElementName_TK_SP_SeaSerpentLeft,Sea Serpent Roll Left
-TrackElementName_TK_SP_SeaSerpentRight,Sea Serpent Roll Right
-TrackElementName_TK_SP_SnakeDiveLeft,Snake Dive Left
-TrackElementName_TK_SP_SnakeDiveRight,Snake Dive Right
-TrackElementName_TK_SP_TopHat,Top Hat
-TrackElementName_TK_SP_TopHatInverted,Inverted Top Hat
-TrackElementName_TK_SP_TwistedHorseShoeRollLeft,Twisted Horseshoe Roll Left
-TrackElementName_TK_SP_TwistedHorseShoeRollRight,Twisted Horseshoe Roll Right
-TrackElementName_TK_SP_VerticalHeartlineRoll_InLeft,Vertical Heartline Roll Entry Left
-TrackElementName_TK_SP_VerticalHeartlineRoll_InRight,Vertical Heartline Roll Entry Right
-TrackElementName_TK_SP_VerticalHeartlineRollLeft,Vertical Heartline Roll Mid-Section Left
-TrackElementName_TK_SP_VerticalHeartlineRoll_OutLeft,Vertical Heartline Roll Exit Left
-TrackElementName_TK_SP_VerticalHeartlineRoll_OutRight,Vertical Heartline Roll Exit Right
-TrackElementName_TK_SP_VerticalHeartlineRollRight,Vertical Heartline Roll Mid-Section Right
-TrackElementName_TK_SP_VerticalInlineRoll_InLeft,Vertical Inline Roll Entry Left
-TrackElementName_TK_SP_VerticalInlineRoll_InRight,Vertical Inline Roll Entry Right
-TrackElementName_TK_SP_VerticalInlineRollLeft,Vertical Inline Roll Mid-Section Left
-TrackElementName_TK_SP_VerticalInlineRoll_OutLeft,Vertical Inline Roll Exit Left
-TrackElementName_TK_SP_VerticalInlineRoll_OutRight,Vertical Inline Roll Exit Right
-TrackElementName_TK_SP_VerticalInlineRollRight,Vertical Inline Roll Mid-Section Right
-TrackElementName_TK_SP_VerticalInlineTwist_InLeft,Vertical Inline Twist Entry Left
-TrackElementName_TK_SP_VerticalInlineTwist_InRight,Vertical Inline Twist Entry Right
-TrackElementName_TK_SP_VerticalInlineTwistLeft,Vertical Inline Twist Mid-Section Left
-TrackElementName_TK_SP_VerticalInlineTwist_OutLeft,Vertical Inline Twist Exit Left
-TrackElementName_TK_SP_VerticalInlineTwist_OutRight,Vertical Inline Twist Exit Right
-TrackElementName_TK_SP_VerticalInlineTwistRight,Vertical Inline Twist Mid-Section Right
-TrackElementName_TK_SP_VerticalLoopLeft,Vertical Loop Left
-TrackElementName_TK_SP_VerticalLoopRight,Vertical Loop Right
-TrackElementName_TK_SP_VerticalLoopWideLeft,Wide Vertical Loop Left
-TrackElementName_TK_SP_VerticalLoopWideRight,Wide Vertical Loop Right
-TrackElementName_TK_SP_WrapAroundCorkscrew_InLeft,Wraparound Corkscrew Entry Left
-TrackElementName_TK_SP_WrapAroundCorkscrew_InRight,Wraparound Corkscrew Entry Right
-TrackElementName_TK_SP_WrapAroundCorkscrewLeft,Wraparound Corkscrew Left
-TrackElementName_TK_SP_WrapAroundCorkscrew_OutLeft,Wraparound Corkscrew Exit Left
-TrackElementName_TK_SP_WrapAroundCorkscrew_OutRight,Wraparound Corkscrew Exit Right
-TrackElementName_TK_SP_WrapAroundCorkscrewRight,Wraparound Corkscrew Right
-TrackElementName_TK_SP_ZeroGRollLeft,Zero-G Roll Left
-TrackElementName_TK_SP_ZeroGRollRight,Zero-G Roll Right
-TrackElementName_TK_SP_ZeroGStallLeft,Zero-G Stall Left
-TrackElementName_TK_SP_ZeroGStallRight,Zero-G Stall Right
-TrackElementName_TorqueTopHat,Tophat Loop
-TrackElementName_TrimBrakes,Trim Brakes
+TrackElementName_BarghestChainLiftBot,'Chain Lift Start'
+TrackElementName_BarghestChainLiftMid,'Chain Lift Mid-Section'
+TrackElementName_BarghestChainLiftTop01,'Overhanging Chain Lift End'
+TrackElementName_BarghestChainLiftTop02,'Rounded Chain Lift End'
+TrackElementName_BarrelRollLeft,'OLD Barrel Roll Left'
+TrackElementName_BarrelRollRight,'OLD Barrel Roll Right'
+TrackElementName_batwingleft,'OLD Batwing Left'
+TrackElementName_batwingright,'OLD Batwing Right'
+TrackElementName_BlockSection,'Block Section'
+TrackElementName_Booster,'Drive Tyres'
+TrackElementName_Brakes,'Friction Brakes'
+TrackElementName_CableLift,'Cable Lift'
+TrackElementName_CableLiftEnd,'Cable Lift End'
+TrackElementName_CableLiftMid,'Cable Lift Mid-Section'
+TrackElementName_CableLiftStart,'Cable Lift Start'
+TrackElementName_ChainLift,'Chain Lift'
+TrackElementName_ChainLiftBot,'Chain Lift Start'
+TrackElementName_ChainLiftTop,'Chain Lift End'
+TrackElementName_cobrarollleft,'OLD Cobra Roll Left'
+TrackElementName_cobrarollright,'OLD Cobra Roll Right'
+TrackElementName_DivingLoopLeft,'OLD Diving Loop Left'
+TrackElementName_DivingLoopRight,'OLD Diving Loop Right'
+TrackElementName_FlyingSnakeDiveLeft,'OLD Flying Snake Dive Left'
+TrackElementName_FlyingSnakeDiveRight,'OLD Flying Snake Dive Right'
+TrackElementName_FrictionWheelLift,'Friction Wheel Lift'
+TrackElementName_HoldingSection,'Dive Drop Holding Section'
+TrackElementName_HydraulicLaunch,'Hydraulic Launch'
+TrackElementName_immelmannleft,'OLD Immelmann Left'
+TrackElementName_immelmannright,'OLD Immelmann Right'
+TrackElementName_LogDropEnd,'Drop End'
+TrackElementName_LogDropMid,'Drop Mid-Section'
+TrackElementName_LogDropStart,'Drop Start'
+TrackElementName_LogLiftEnd,'Conveyor Belt Lift Hill End'
+TrackElementName_LogLiftMid,'Conveyor Belt Lift Hill Mid-Section'
+TrackElementName_LogLiftStart,'Conveyor Belt Lift Hill Start'
+TrackElementName_LogSplashEnd,'Splashdown End'
+TrackElementName_LogSplashMid,'Splashdown Mid-Section'
+TrackElementName_LogSplashStart,'Splashdown Start'
+TrackElementName_LoopLeft,'OLD Loop Left'
+TrackElementName_LoopRight,'OLD Loop Right'
+TrackElementName_LSM,'Linear Synchronous Motor'
+TrackElementName_MagneticBrakes,'Magnetic Brakes'
+TrackElementName_NormalTrack,'Standard Track'
+TrackElementName_NormalTrackHBeam,'H-Beam Styled Standard Track'
+TrackElementName_norwegianloopleft,'OLD Norwegian Loop Left'
+TrackElementName_norwegianloopright,'OLD Norwegian Loop Right'
+TrackElementName_PhotoSection,'Photo Section'
+TrackElementName_PretzelKnotLeft,'OLD Pretzel Knot Left'
+TrackElementName_PretzelKnotRight,'OLD Pretzel Knot Right'
+TrackElementName_ReverseLaunch,'Dual Direction Linear Synchronous Motor
+(with brake function)'
+TrackElementName_RiverRapidsStandardRapids,'Standard Width Rapids Section'
+TrackElementName_RiverRapidsTrack,'Standard River Rapids Tube'
+TrackElementName_RiverRapidsWideEnd,'Wide Section End'
+TrackElementName_RiverRapidsWideLeftEnd,'Wide Left Section End'
+TrackElementName_RiverRapidsWideLeftMid,'Wide Left Section'
+TrackElementName_RiverRapidsWideLeftRapids,'Wide Left Rapids Section'
+TrackElementName_RiverRapidsWideLeftStart,'Wide Left Section Start'
+TrackElementName_RiverRapidsWideMid,'Wide Section'
+TrackElementName_RiverRapidsWideRapids,'Wide Rapids Section'
+TrackElementName_RiverRapidsWideRightEnd,'Wide Right Section End'
+TrackElementName_RiverRapidsWideRightMid,'Wide Right Section'
+TrackElementName_RiverRapidsWideRightRapids,'Wide Right Rapids Section'
+TrackElementName_RiverRapidsWideRightStart,'Wide Right Section Start'
+TrackElementName_RiverRapidsWideStart,'Wide Section Start'
+TrackElementName_SpinningStart,'Unlock Car-Spin'
+TrackElementName_SpinningStop,'Lock and Centre Car-Spin'
+TrackElementName_Station,'Station'
+TrackElementName_StationLeftLeft,'Station'
+TrackElementName_StationLeftOff,'Station'
+TrackElementName_StationLeftOn,'Station'
+TrackElementName_StationLeftRight,'Station'
+TrackElementName_StationRightLeft,'Station'
+TrackElementName_StationRightOff,'Station'
+TrackElementName_StationRightOn,'Station'
+TrackElementName_StationRightRight,'Station'
+TrackElementName_SteepslopeZeroGRollLeft,'OLD Steep Slope Zero-G Roll Left'
+TrackElementName_SteepslopeZeroGRollRight,'OLD Steep Slope Zero-G Roll Right'
+TrackElementName_TestCorkscrewLeftIn,'OLD Corkscrew Left Entry'
+TrackElementName_TestCorkscrewLeftOut,'OLD Corkscrew Left Exit'
+TrackElementName_TestCorkscrewRightIn,'OLD Corkscrew Right Entry'
+TrackElementName_TestCorkscrewRightOut,'OLD Corkscrew Right Exit'
+TrackElementName_TK_SP_BananaRollLeft,'Banana Roll Left'
+TrackElementName_TK_SP_BananaRollRight,'Banana Roll Right'
+TrackElementName_TK_SP_BatwingLeft,'Batwing Left'
+TrackElementName_TK_SP_BatwingRight,'Batwing Right'
+TrackElementName_TK_SP_BowtieLeft,'Bowtie Left'
+TrackElementName_TK_SP_BowtieRight,'Bowtie Right'
+TrackElementName_TK_SP_ButterflyInversionLeft,'Butterfly Inversion Left'
+TrackElementName_TK_SP_ButterflyInversionRight,'Butterfly Inversion Right'
+TrackElementName_TK_SP_CobraRollLeft,'Cobra Roll Left'
+TrackElementName_TK_SP_CobraRollRight,'Cobra Roll Right'
+TrackElementName_TK_SP_Corkscrew_InLeft,'Corkscrew Entry Left'
+TrackElementName_TK_SP_Corkscrew_InRight,'Corkscrew Entry Right'
+TrackElementName_TK_SP_CorkscrewLeft,'Corkscrew Mid-Section Left'
+TrackElementName_TK_SP_Corkscrew_OutLeft,'Corkscrew Exit Left'
+TrackElementName_TK_SP_Corkscrew_OutRight,'Corkscrew Exit Right'
+TrackElementName_TK_SP_CorkscrewRight,'Corkscrew Mid-Section Right'
+TrackElementName_TK_SP_CutbackLeft,'Cutback Left'
+TrackElementName_TK_SP_CutbackRight,'Cutback Right'
+TrackElementName_TK_SP_DemonicKnotLeft,'Demonic Knot Left'
+TrackElementName_TK_SP_DemonicKnotRight,'Demonic Knot Right'
+TrackElementName_TK_SP_DiveDropLeft,'Dive Drop Left'
+TrackElementName_TK_SP_DiveDropRight,'Dive Drop Right'
+TrackElementName_TK_SP_DiveLoopLeft,'Dive Loop Left'
+TrackElementName_TK_SP_DiveLoopRight,'Dive Loop Right'
+TrackElementName_TK_SP_Figure8HelixLeft,'Figure-of-8 Helix Left'
+TrackElementName_TK_SP_Figure8HelixRight,'Figure-of-8 Helix Right'
+TrackElementName_TK_SP_HalfHelix_DownLeft,'Half Helix Down Left'
+TrackElementName_TK_SP_HalfHelix_DownRight,'Half Helix Down Right'
+TrackElementName_TK_SP_HalfHelix_UpLeft,'Half Helix Up Left'
+TrackElementName_TK_SP_HalfHelix_UpRight,'Half Helix Up Right'
+TrackElementName_TK_SP_HalfLoop_Down,'Half Loop Down'
+TrackElementName_TK_SP_HalfLoop_Up,'Half Loop Up'
+TrackElementName_TK_SP_HammerHeadTurnLeft,'Hammerhead Turn Left'
+TrackElementName_TK_SP_HammerHeadTurnRight,'Hammerhead Turn Right'
+TrackElementName_TK_SP_HeartlineRoll_InLeft,'Heartline Roll Entry Left'
+TrackElementName_TK_SP_HeartlineRoll_InRight,'Heartline Roll Entry Right'
+TrackElementName_TK_SP_HeartlineRollLeft,'Heartline Roll Mid-Section Left'
+TrackElementName_TK_SP_HeartlineRoll_OutLeft,'Heartline Roll Exit Left'
+TrackElementName_TK_SP_HeartlineRoll_OutRight,'Heartline Roll Exit Right'
+TrackElementName_TK_SP_HeartlineRollRight,'Heartline Roll Mid-Section Right'
+TrackElementName_TK_SP_Helix_DownLeft,'Helix Down Left'
+TrackElementName_TK_SP_Helix_DownRight,'Helix Down Right'
+TrackElementName_TK_SP_Helix_UpLeft,'Helix Up Left'
+TrackElementName_TK_SP_Helix_UpRight,'Helix Up Right'
+TrackElementName_TK_SP_Immelmann_180Left,'Immelmann 180° Loop Left'
+TrackElementName_TK_SP_Immelmann_180Right,'Immelmann 180° Loop Right'
+TrackElementName_TK_SP_Immelmann_90Left,'Sidewinder Left'
+TrackElementName_TK_SP_Immelmann_90Right,'Sidewinder Right'
+TrackElementName_TK_SP_InclinedDiveLoopLeft,'Inclined Dive Loop Left'
+TrackElementName_TK_SP_InclinedDiveLoopRight,'Inclined Dive Loop Right'
+TrackElementName_TK_SP_InclinedLoop_45Left,'Inclined 45° Loop Left'
+TrackElementName_TK_SP_InclinedLoop_45Right,'Inclined 45° Loop Right'
+TrackElementName_TK_SP_InclinedLoop_80Left,'Inclined 80° Loop Left'
+TrackElementName_TK_SP_InclinedLoop_80Right,'Inclined 80° Loop Right'
+TrackElementName_TK_SP_InlineRoll_InLeft,'Inline Roll Entry Left'
+TrackElementName_TK_SP_InlineRoll_InRight,'Inline Roll Entry Right'
+TrackElementName_TK_SP_InlineRollLeft,'Inline Roll Mid-Section Left'
+TrackElementName_TK_SP_InlineRoll_OutLeft,'Inline Roll Exit Left'
+TrackElementName_TK_SP_InlineRoll_OutRight,'Inline Roll Exit Right'
+TrackElementName_TK_SP_InlineRollRight,'Inline Roll Mid-Section Right'
+TrackElementName_TK_SP_InlineTwist_InLeft,'Inline Twist Entry Left'
+TrackElementName_TK_SP_InlineTwist_InRight,'Inline Twist Entry Right'
+TrackElementName_TK_SP_InlineTwistLeft,'Inline Twist Mid-Section Left'
+TrackElementName_TK_SP_InlineTwist_OutLeft,'Inline Twist Exit Left'
+TrackElementName_TK_SP_InlineTwist_OutRight,'Inline Twist Exit Right'
+TrackElementName_TK_SP_InlineTwistRight,'Inline Twist Mid-Section Right'
+TrackElementName_TK_SP_NonInvLoopLeft,'Non-Inverted Loop Left'
+TrackElementName_TK_SP_NonInvLoopRight,'Non-Inverted Loop Right'
+TrackElementName_TK_SP_NorwegianLoopLeft,'Norwegian Loop Left'
+TrackElementName_TK_SP_NorwegianLoopRight,'Norwegian Loop Right'
+TrackElementName_TK_SP_OverbankedTurnLeft,'Overbanked Turn Left'
+TrackElementName_TK_SP_OverbankedTurnRight,'Overbanked Turn Right'
+TrackElementName_TK_SP_PretzelKnotLeft,'Pretzel Knot Left'
+TrackElementName_TK_SP_PretzelKnotRight,'Pretzel Knot Right'
+TrackElementName_TK_SP_PretzelLoopLeft,'Pretzel Loop Left'
+TrackElementName_TK_SP_PretzelLoopRight,'Pretzel Loop Right'
+TrackElementName_TK_SP_RavenTurn_InvertedLeft,'Inverted Raven Turn Left'
+TrackElementName_TK_SP_RavenTurn_InvertedRight,'Inverted Raven Turn Right'
+TrackElementName_TK_SP_RavenTurnLeft,'Raven Turn Left'
+TrackElementName_TK_SP_RavenTurnRight,'Raven Turn Right'
+TrackElementName_TK_SP_SeaSerpentLeft,'Sea Serpent Roll Left'
+TrackElementName_TK_SP_SeaSerpentRight,'Sea Serpent Roll Right'
+TrackElementName_TK_SP_SnakeDiveLeft,'Snake Dive Left'
+TrackElementName_TK_SP_SnakeDiveRight,'Snake Dive Right'
+TrackElementName_TK_SP_TopHat,'Top Hat'
+TrackElementName_TK_SP_TopHatInverted,'Inverted Top Hat'
+TrackElementName_TK_SP_TwistedHorseShoeRollLeft,'Twisted Horseshoe Roll Left'
+TrackElementName_TK_SP_TwistedHorseShoeRollRight,'Twisted Horseshoe Roll Right'
+TrackElementName_TK_SP_VerticalHeartlineRoll_InLeft,'Vertical Heartline Roll Entry Left'
+TrackElementName_TK_SP_VerticalHeartlineRoll_InRight,'Vertical Heartline Roll Entry Right'
+TrackElementName_TK_SP_VerticalHeartlineRollLeft,'Vertical Heartline Roll Mid-Section Left'
+TrackElementName_TK_SP_VerticalHeartlineRoll_OutLeft,'Vertical Heartline Roll Exit Left'
+TrackElementName_TK_SP_VerticalHeartlineRoll_OutRight,'Vertical Heartline Roll Exit Right'
+TrackElementName_TK_SP_VerticalHeartlineRollRight,'Vertical Heartline Roll Mid-Section Right'
+TrackElementName_TK_SP_VerticalInlineRoll_InLeft,'Vertical Inline Roll Entry Left'
+TrackElementName_TK_SP_VerticalInlineRoll_InRight,'Vertical Inline Roll Entry Right'
+TrackElementName_TK_SP_VerticalInlineRollLeft,'Vertical Inline Roll Mid-Section Left'
+TrackElementName_TK_SP_VerticalInlineRoll_OutLeft,'Vertical Inline Roll Exit Left'
+TrackElementName_TK_SP_VerticalInlineRoll_OutRight,'Vertical Inline Roll Exit Right'
+TrackElementName_TK_SP_VerticalInlineRollRight,'Vertical Inline Roll Mid-Section Right'
+TrackElementName_TK_SP_VerticalInlineTwist_InLeft,'Vertical Inline Twist Entry Left'
+TrackElementName_TK_SP_VerticalInlineTwist_InRight,'Vertical Inline Twist Entry Right'
+TrackElementName_TK_SP_VerticalInlineTwistLeft,'Vertical Inline Twist Mid-Section Left'
+TrackElementName_TK_SP_VerticalInlineTwist_OutLeft,'Vertical Inline Twist Exit Left'
+TrackElementName_TK_SP_VerticalInlineTwist_OutRight,'Vertical Inline Twist Exit Right'
+TrackElementName_TK_SP_VerticalInlineTwistRight,'Vertical Inline Twist Mid-Section Right'
+TrackElementName_TK_SP_VerticalLoopLeft,'Vertical Loop Left'
+TrackElementName_TK_SP_VerticalLoopRight,'Vertical Loop Right'
+TrackElementName_TK_SP_VerticalLoopWideLeft,'Wide Vertical Loop Left'
+TrackElementName_TK_SP_VerticalLoopWideRight,'Wide Vertical Loop Right'
+TrackElementName_TK_SP_WrapAroundCorkscrew_InLeft,'Wraparound Corkscrew Entry Left'
+TrackElementName_TK_SP_WrapAroundCorkscrew_InRight,'Wraparound Corkscrew Entry Right'
+TrackElementName_TK_SP_WrapAroundCorkscrewLeft,'Wraparound Corkscrew Left'
+TrackElementName_TK_SP_WrapAroundCorkscrew_OutLeft,'Wraparound Corkscrew Exit Left'
+TrackElementName_TK_SP_WrapAroundCorkscrew_OutRight,'Wraparound Corkscrew Exit Right'
+TrackElementName_TK_SP_WrapAroundCorkscrewRight,'Wraparound Corkscrew Right'
+TrackElementName_TK_SP_ZeroGRollLeft,'Zero-G Roll Left'
+TrackElementName_TK_SP_ZeroGRollRight,'Zero-G Roll Right'
+TrackElementName_TK_SP_ZeroGStallLeft,'Zero-G Stall Left'
+TrackElementName_TK_SP_ZeroGStallRight,'Zero-G Stall Right'
+TrackElementName_TorqueTopHat,'Tophat Loop'
+TrackElementName_TrimBrakes,'Trim Brakes'

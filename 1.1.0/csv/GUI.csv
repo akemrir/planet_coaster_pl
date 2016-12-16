@@ -1,4 +1,4 @@
 key,translation
-GUI_audioFileToken,{Name}
-GUI_CharLimit,({Value:int} character limit)
-GUI_UploadToSteam,Upload to Steam
+GUI_audioFileToken,'{Name}'
+GUI_CharLimit,'({Value:int} character limit)'
+GUI_UploadToSteam,'Upload to Steam'

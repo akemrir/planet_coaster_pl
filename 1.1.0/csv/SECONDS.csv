@@ -1,2 +1,2 @@
 key,translation
-SECONDS_DP,{Value:float:decimalPlaces=1} s
+SECONDS_DP,'{Value:float:decimalPlaces=1} s'

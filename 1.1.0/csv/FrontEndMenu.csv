@@ -1,289 +1,289 @@
 key,translation
-FrontEndMenu_All,All
-FrontEndMenu_AllUploads,View All Uploads
-FrontEndMenu_Alpine,Alpine
-FrontEndMenu_AlpineDescription,Start your park with unlimited money and build in a cold and crisp environment!
-FrontEndMenu_AlpineSimulation,Alpine
-FrontEndMenu_AlpineSimulationDescription,Start your park with limited money and build in a cold and crisp environment!
-FrontEndMenu_Arctic,Arctic
-FrontEndMenu_ArcticDescription,Start your park with unlimited money and build in a winter wonderland!
-FrontEndMenu_ArcticSimulation,Arctic
-FrontEndMenu_ArcticSimulationDescription,Start your park with limited money and build in a winter wonderland!
-FrontEndMenu_AutoSave,Hide Autosaves
-FrontEndMenu_AutosaveNumber,[Autosave] {Number:int:minDigits=1}
-FrontEndMenu_AvatarEditor_InfoLabel,You can now be part of the Planet Coaster universe! Your avatar will be seen by Steam friends and other Planet Coaster players.
+FrontEndMenu_All,'All'
+FrontEndMenu_AllUploads,'View All Uploads'
+FrontEndMenu_Alpine,'Alpine'
+FrontEndMenu_AlpineDescription,'Start your park with unlimited money and build in a cold and crisp environment!'
+FrontEndMenu_AlpineSimulation,'Alpine'
+FrontEndMenu_AlpineSimulationDescription,'Start your park with limited money and build in a cold and crisp environment!'
+FrontEndMenu_Arctic,'Arctic'
+FrontEndMenu_ArcticDescription,'Start your park with unlimited money and build in a winter wonderland!'
+FrontEndMenu_ArcticSimulation,'Arctic'
+FrontEndMenu_ArcticSimulationDescription,'Start your park with limited money and build in a winter wonderland!'
+FrontEndMenu_AutoSave,'Hide Autosaves'
+FrontEndMenu_AutosaveNumber,'[Autosave] {Number:int:minDigits=1}'
+FrontEndMenu_AvatarEditor_InfoLabel,'You can now be part of the Planet Coaster universe! Your avatar will be seen by Steam friends and other Planet Coaster players.
 
-You can edit the avatar appearance later.
-FrontEndMenu_AvatarEditor_InfoTitle,Create your Avatar!
-FrontEndMenu_AvatarGroupInvalid_Title,Invalid Family Group
-FrontEndMenu_AvatarGroup_Reqs_Family,A Family group must contain between one to two adults and one to four children.
-FrontEndMenu_AvatarModerationFailed,Your {AvatarType} submission has been rejected.
-Would you like to open the editor?
-FrontEndMenu_AvatarModerationFailedHeader,Avatar Moderation Failed
-FrontEndMenu_AvatarModerationSent,Your Avatar will be sent to our servers for moderation.
-It may take some time to appear.
-FrontEndMenu_AvatarModerationSentHeader,Avatar Creation Complete
-FrontEndMenu_AvatarNameNeeded,Please name your avatar.
-FrontEndMenu_AvatarNameNeededGroup,Please ensure each member of your group is named.
-FrontEndMenu_AvatarNameNeededHeader,Avatar Name Missing
-FrontEndMenu_AvatarOkButton,OK
-FrontEndMenu_AvatarOptions,Avatar Options
-FrontEndMenu_AvatarType_Group,VIP Group Ticket
-FrontEndMenu_AvatarType_Staff,VIP Staff Pass
-FrontEndMenu_AvatarType_VIP,VIP Single Ticket
-FrontEndMenu_Back,Back
-FrontEndMenu_Blueprints,Blueprints
-FrontEndMenu_Career,Career
-FrontEndMenu_CareerCurrent,{Value:int}
-FrontEndMenu_CareerDescription,Embark on a career in theme park management. Complete varied and increasingly challenging scenarios and see how far you can go!
-FrontEndMenu_CareerLastPlayed,Last Played
-FrontEndMenu_CareerPrevious,My Parks
-FrontEndMenu_CareerPreviousTooltips,Load previous saved parks
-FrontEndMenu_CareerResume,Resume
-FrontEndMenu_CareerSets,Sets
-FrontEndMenu_CareerStartNew,Start New Scenario
-FrontEndMenu_CareerTotal,/{Value:int}
-FrontEndMenu_Celebrity,Featured Creator
-FrontEndMenu_ChangePicture,Change Picture
-FrontEndMenu_Community,Community
-FrontEndMenu_Connecting,Connecting...
-FrontEndMenu_CreatedBy,Created by: {Name}
-FrontEndMenu_Credits,Credits
-FrontEndMenu_CreditsButton,Credits
-FrontEndMenu_Deciduous,Deciduous
-FrontEndMenu_DeciduousDescription,Start your park with unlimited money and build that dream park in this lush environment!
-FrontEndMenu_DeciduousSimulation,Deciduous
-FrontEndMenu_DeciduousSimulationDescription,Start your park with limited money and build that dream park in this lush environment!
-FrontEndMenu_DefaultChallengeParkName,Challenge Park
-FrontEndMenu_DefaultSandboxParkName,Sandbox Park
-FrontEndMenu_DeleteButton,Delete
-FrontEndMenu_Desert,Desert
-FrontEndMenu_DesertDescription,Start your park with unlimited money and build on a sandy expanse!
-FrontEndMenu_DesertSimulation,Desert
-FrontEndMenu_DesertSimulationDescription,Start your park with limited money and build on a sandy expanse!
-FrontEndMenu_Details,Details
-FrontEndMenu_Difficulty,Difficulty
-FrontEndMenu_DifficultyEasy,Easy
-FrontEndMenu_DifficultyEasy_Description,Starting cash: $8000
+You can edit the avatar appearance later.'
+FrontEndMenu_AvatarEditor_InfoTitle,'Create your Avatar!'
+FrontEndMenu_AvatarGroupInvalid_Title,'Invalid Family Group'
+FrontEndMenu_AvatarGroup_Reqs_Family,'A Family group must contain between one to two adults and one to four children.'
+FrontEndMenu_AvatarModerationFailed,'Your {AvatarType} submission has been rejected.
+Would you like to open the editor?'
+FrontEndMenu_AvatarModerationFailedHeader,'Avatar Moderation Failed'
+FrontEndMenu_AvatarModerationSent,'Your Avatar will be sent to our servers for moderation.
+It may take some time to appear.'
+FrontEndMenu_AvatarModerationSentHeader,'Avatar Creation Complete'
+FrontEndMenu_AvatarNameNeeded,'Please name your avatar.'
+FrontEndMenu_AvatarNameNeededGroup,'Please ensure each member of your group is named.'
+FrontEndMenu_AvatarNameNeededHeader,'Avatar Name Missing'
+FrontEndMenu_AvatarOkButton,'OK'
+FrontEndMenu_AvatarOptions,'Avatar Options'
+FrontEndMenu_AvatarType_Group,'VIP Group Ticket'
+FrontEndMenu_AvatarType_Staff,'VIP Staff Pass'
+FrontEndMenu_AvatarType_VIP,'VIP Single Ticket'
+FrontEndMenu_Back,'Back'
+FrontEndMenu_Blueprints,'Blueprints'
+FrontEndMenu_Career,'Career'
+FrontEndMenu_CareerCurrent,'{Value:int}'
+FrontEndMenu_CareerDescription,'Embark on a career in theme park management. Complete varied and increasingly challenging scenarios and see how far you can go!'
+FrontEndMenu_CareerLastPlayed,'Last Played'
+FrontEndMenu_CareerPrevious,'My Parks'
+FrontEndMenu_CareerPreviousTooltips,'Load previous saved parks'
+FrontEndMenu_CareerResume,'Resume'
+FrontEndMenu_CareerSets,'Sets'
+FrontEndMenu_CareerStartNew,'Start New Scenario'
+FrontEndMenu_CareerTotal,'/{Value:int}'
+FrontEndMenu_Celebrity,'Featured Creator'
+FrontEndMenu_ChangePicture,'Change Picture'
+FrontEndMenu_Community,'Community'
+FrontEndMenu_Connecting,'Connecting...'
+FrontEndMenu_CreatedBy,'Created by: {Name}'
+FrontEndMenu_Credits,'Credits'
+FrontEndMenu_CreditsButton,'Credits'
+FrontEndMenu_Deciduous,'Deciduous'
+FrontEndMenu_DeciduousDescription,'Start your park with unlimited money and build that dream park in this lush environment!'
+FrontEndMenu_DeciduousSimulation,'Deciduous'
+FrontEndMenu_DeciduousSimulationDescription,'Start your park with limited money and build that dream park in this lush environment!'
+FrontEndMenu_DefaultChallengeParkName,'Challenge Park'
+FrontEndMenu_DefaultSandboxParkName,'Sandbox Park'
+FrontEndMenu_DeleteButton,'Delete'
+FrontEndMenu_Desert,'Desert'
+FrontEndMenu_DesertDescription,'Start your park with unlimited money and build on a sandy expanse!'
+FrontEndMenu_DesertSimulation,'Desert'
+FrontEndMenu_DesertSimulationDescription,'Start your park with limited money and build on a sandy expanse!'
+FrontEndMenu_Details,'Details'
+FrontEndMenu_Difficulty,'Difficulty'
+FrontEndMenu_DifficultyEasy,'Easy'
+FrontEndMenu_DifficultyEasy_Description,'Starting cash: $8000
 
 - Many items researched
 - Guests Happiness drops slowly
-- Breakdown rate is slow
-FrontEndMenu_DifficultyHard,Hard
-FrontEndMenu_DifficultyHard_Description,Starting cash: $2000
+- Breakdown rate is slow'
+FrontEndMenu_DifficultyHard,'Hard'
+FrontEndMenu_DifficultyHard_Description,'Starting cash: $2000
 
 - Few items researched
 - Guest Happines drops quickly
 - Breakdown rate is fast
-- Ride Reputation declines quickly
-FrontEndMenu_DifficultyHarder,Harder
-FrontEndMenu_DifficultyHarder_Description,Starting cash: $2000
+- Ride Reputation declines quickly'
+FrontEndMenu_DifficultyHarder,'Harder'
+FrontEndMenu_DifficultyHarder_Description,'Starting cash: $2000
 
 - Few items researched
 - Guest Happiness drops very quickly
 - Breakdown rate is fast
 - Ride Reputation declines very quickly
-- Guests are harder to attract
-FrontEndMenu_DifficultyHarder_DescriptionALT,Starting cash: $2000
+- Guests are harder to attract'
+FrontEndMenu_DifficultyHarder_DescriptionALT,'Starting cash: $2000
 
 - Few items researched
 - Guest Happiness drops very quickly
 - Breakdown rate is fast
 - Ride Reputation declines very quickly
-- Guests are harder to attract
-FrontEndMenu_DifficultyMedium,Medium
-FrontEndMenu_DifficultyMedium_Description,Starting cash: $4000
+- Guests are harder to attract'
+FrontEndMenu_DifficultyMedium,'Medium'
+FrontEndMenu_DifficultyMedium_Description,'Starting cash: $4000
 
 - Some items researched
 - Guest Happiness drops steadily
 - Breakdown rate is average
-- Ride Reputation declines steadily
-FrontEndMenu_Disconnected,You are offline! Build {Version}
-FrontEndMenu_Downloads,Downloads
-FrontEndMenu_DownloadsDescription,View your downloaded Parks and Blueprints
-FrontEndMenu_EditAvatar,Edit Avatar
-FrontEndMenu_EditAvatarGroup,Edit VIP Group Ticket
-FrontEndMenu_EditAvatarStaff,Edit VIP Staff Pass
-FrontEndMenu_EditAvatarVIP,Edit VIP Single Ticket
-FrontEndMenu_EnterParkName,Please enter a park name...
-FrontEndMenu_Exit,Quit Planet Coaster
-FrontEndMenu_ExitButton,Quit Planet Coaster
-FrontEndMenu_ExitPrompt_ConfirmCancel,Cancel
-FrontEndMenu_ExitPrompt_ConfirmOK,OK
-FrontEndMenu_ExitPrompt_Header,Quit
-FrontEndMenu_ExitPrompt_Label,Quit Planet Coaster?
-FrontEndMenu_Favourites,Favourites
-FrontEndMenu_Follow,Follow
-FrontEndMenu_Followers,Followers
-FrontEndMenu_Friend,Friend
-FrontEndMenu_FrontierDeveloper,Frontier Developer
-FrontEndMenu_FrontierParks,Frontier Parks
-FrontEndMenu_GlobeFilter_All,All
-FrontEndMenu_GlobeFilter_Celebs,Featured Creators
-FrontEndMenu_GlobeFilter_Friends,Friends
-FrontEndMenu_Grassland,Grassland
-FrontEndMenu_GrasslandDescription,Start your park with unlimited money and build on these rich pastures!
-FrontEndMenu_GrasslandSimulation,Grassland
-FrontEndMenu_GrasslandSimulationDescription,Start your park with limited money and build on these rich pastures!
-FrontEndMenu_GroupEditor_InfoLabel,Send a group out into the parks of the Planet Coaster universe!
-FrontEndMenu_GroupEditor_InfoTitle,Create your VIP Group Ticket!
-FrontEndMenu_HQPlacement_InfoLabel,The HQ is where other players will see your avatar and access any parks or blueprints you have shared.
+- Ride Reputation declines steadily'
+FrontEndMenu_Disconnected,'You are offline! Build {Version}'
+FrontEndMenu_Downloads,'Downloads'
+FrontEndMenu_DownloadsDescription,'View your downloaded Parks and Blueprints'
+FrontEndMenu_EditAvatar,'Edit Avatar'
+FrontEndMenu_EditAvatarGroup,'Edit VIP Group Ticket'
+FrontEndMenu_EditAvatarStaff,'Edit VIP Staff Pass'
+FrontEndMenu_EditAvatarVIP,'Edit VIP Single Ticket'
+FrontEndMenu_EnterParkName,'Please enter a park name...'
+FrontEndMenu_Exit,'Quit Planet Coaster'
+FrontEndMenu_ExitButton,'Quit Planet Coaster'
+FrontEndMenu_ExitPrompt_ConfirmCancel,'Cancel'
+FrontEndMenu_ExitPrompt_ConfirmOK,'OK'
+FrontEndMenu_ExitPrompt_Header,'Quit'
+FrontEndMenu_ExitPrompt_Label,'Quit Planet Coaster?'
+FrontEndMenu_Favourites,'Favourites'
+FrontEndMenu_Follow,'Follow'
+FrontEndMenu_Followers,'Followers'
+FrontEndMenu_Friend,'Friend'
+FrontEndMenu_FrontierDeveloper,'Frontier Developer'
+FrontEndMenu_FrontierParks,'Frontier Parks'
+FrontEndMenu_GlobeFilter_All,'All'
+FrontEndMenu_GlobeFilter_Celebs,'Featured Creators'
+FrontEndMenu_GlobeFilter_Friends,'Friends'
+FrontEndMenu_Grassland,'Grassland'
+FrontEndMenu_GrasslandDescription,'Start your park with unlimited money and build on these rich pastures!'
+FrontEndMenu_GrasslandSimulation,'Grassland'
+FrontEndMenu_GrasslandSimulationDescription,'Start your park with limited money and build on these rich pastures!'
+FrontEndMenu_GroupEditor_InfoLabel,'Send a group out into the parks of the Planet Coaster universe!'
+FrontEndMenu_GroupEditor_InfoTitle,'Create your VIP Group Ticket!'
+FrontEndMenu_HQPlacement_InfoLabel,'The HQ is where other players will see your avatar and access any parks or blueprints you have shared.
 
 Position your avatar anywhere on the globe. You can edit your avatar HQ position later.
 
-(Click and drag to rotate the globe)
-FrontEndMenu_HQPlacement_InfoTitle,Place your Avatar HQ!
-FrontEndMenu_HQPlacement_PromptCancel,No
-FrontEndMenu_HQPlacement_PromptConfrim,Yes
-FrontEndMenu_HQPlacement_PromptLabel,Are you sure?
+(Click and drag to rotate the globe)'
+FrontEndMenu_HQPlacement_InfoTitle,'Place your Avatar HQ!'
+FrontEndMenu_HQPlacement_PromptCancel,'No'
+FrontEndMenu_HQPlacement_PromptConfrim,'Yes'
+FrontEndMenu_HQPlacement_PromptLabel,'Are you sure?
 
-You can edit this later.
-FrontEndMenu_HQPlacement_PromptTitle,HQ Placement
-FrontEndMenu_LastUpdated,Last updated: {Date}
-FrontEndMenu_LevelUnlock,You need to be at least level {Value:int} to unlock this level.
-FrontEndMenu_Load,Load
-FrontEndMenu_LoadDate,{TimeString} - {DateString}
-FrontEndMenu_LoadFailed_Desc,Failed to load the selected save game
-FrontEndMenu_LoadFailed_Ok,OK
-FrontEndMenu_LoadFailed_Title,Load Failed
-FrontEndMenu_LoadItems,Contacting Steam Workshop...
-FrontEndMenu_LoadSaveAsChallenge,Open as Challenge
-FrontEndMenu_LoadSaveAsSandbox,Open as Sandbox
-FrontEndMenu_LoadSaves,Load Saves
-FrontEndMenu_MyDownloads,My Downloads
-FrontEndMenu_MyParks,My Parks
-FrontEndMenu_MyParksDescription,View all your saved parks.
-FrontEndMenu_MyParksSandbox,Load an existing Sandbox Park
-FrontEndMenu_MyParksSimulation,Load an existing Challenge Park
-FrontEndMenu_NewChallenge,New Challenge
-FrontEndMenu_NewSandbox,New Sandbox
-FrontEndMenu_NoUploads,{Name} has no uploads :(
-FrontEndMenu_OpenAs,Open As ...
-FrontEndMenu_OpenAsToolTipEnabled,Open park in another play mode
-FrontEndMenu_ParkName,Park Name
-FrontEndMenu_PinDate,{DateString}
-FrontEndMenu_Play,Play
-FrontEndMenu_PlayButton,Load Park
-FrontEndMenu_PlayDetails,Start a new game in Career, Sandbox or Challenge!
-FrontEndMenu_PlayDownloadAsChallenge,Play as Challenge
-FrontEndMenu_PlayDownloadAsSandbox,Play as Sandbox
-FrontEndMenu_Player,It's You!
-FrontEndMenu_PlayTime,Total play time: {Value:float:decimalPlaces=1} hours
-FrontEndMenu_PromptNo,No
-FrontEndMenu_PromptYes,Yes
-FrontEndMenu_Rating,Rating
-FrontEndMenu_RepositionHQ,Reposition Avatar HQ
-FrontEndMenu_Resume,Resume
-FrontEndMenu_Sandbox,Sandbox
-FrontEndMenu_SandboxDescription,Start a new park on a fresh slate and let your imagination go wild! You are free to build your dream park with no restrictions!
-FrontEndMenu_SaveAuthorGameMode,{Name}, {GameMode}
-FrontEndMenu_SaveParkName,{Name}
-FrontEndMenu_ScenarioDetails_CTKG,Coasters! Building increasingly difficult coasters to satisfy the Coaster King.
-FrontEndMenu_ScenarioDetails_CVRN,An exotic grotto has been discovered, and restricted planning permission grants you the opportunity to create a unique park in this hollowed out habitat!  Building above the cavern is strictly prohibited, and guest numbers are limited, so you’ll need to conquer the depths to ensure this venture is a success.
-FrontEndMenu_ScenarioDetails_GLLY,They said no one could build a theme park at Molly's Gully. Prove them wrong! Keep below the height restriction and bankroll the construction of a colossal coaster!
-FrontEndMenu_ScenarioDetails_GOLM,The enormous golem's rampage has finally come to an end, frozen in eternal battle against the M.U.T.T.s. Our experts claim the creature is dormant, but local staff don't seem convinced; they're demanding a premium to work here! Utilise the monorail to make the most of the space and create a truly unique sci-fi theme park.
-FrontEndMenu_ScenarioDetails_KRKN,Rumours of engineers meeting sticky ends scared off this park's staff, leading to its recent sale. The bargain price presents an irresistible opportunity, so hire some new staff, complete construction of the park and ignore the reports of strange noises underground. I'm sure it's nothing to worry about...
-FrontEndMenu_ScenarioDetails_MNLH,A strange object found in the desert appears to have exerted an unexpected effect on the park’s rides – everything keeps breaking down and we’re running out of cash. Hire some mechanics, utilise work rosters to fix and maintain the rides, combat the Monolith’s power and get the park back in profit.
-FrontEndMenu_ScenarioDetails_NENC,The government recently sold off a tract of restricted land to private buyers, which was promptly snapped up by an ambitious theme park operation. Shortly after their grand opening, this sci-fi themed park's management mysteriously disappeared, along with all their research. Keep this park in the black, earn enough to research new rides and make this strange park a success.
-FrontEndMenu_ScenarioDetails_NOMO,You'll need to be at the top of your game for this one! The former owners have abandoned this park and left it in a real mess; negative cash reserves, a huge loan to pay off, ludicrous layout, and some seriously inefficient amusement rides. If you can turn this around it'll be a miracle.
-FrontEndMenu_ScenarioDetails_ODML,This futuristic park's shop franchisors have questioned their long term commitment after underwhelming financial results. Retain their trust by squeezing as much profit as possible from your shops and facilities. Layout and pricing choices are key, and canny tycoons will make use of the ready-built shopfronts.
-FrontEndMenu_ScenarioDetails_PBTL,Avast me hearties, and welcome to Planet Coaster! Shiver those timbers and take charge of this explosive pirate park. Complete ride construction, draw in the crowds and give your guests a swashbuckling good time!
-FrontEndMenu_ScenarioDetails_PIRT,Former Pirate turned entrepreneur Peg-Leg Pete appears to be struggling somewhat; his loan-addled park is incomplete and lacking in fun (if only he could remember where he buried his treasure... It was around here somewhere). Take the helm and turn things around before this ship capsizes!
-FrontEndMenu_ScenarioDetails_SKLL,The Skull? It appeared one day, rising from the earth in search of vengeance, I reckon. Some say it’s cursed but all I know is that it makes people unhappy. We need your help to counteract the skull’s effect or the park will never recover. Keep guests happy and keep them in the park. Hire entertainers, run marketing campaigns, do what you gotta do to keep the money coming in.
-FrontEndMenu_ScenarioDetails_SSMR,The Silversmith family are opening a theme park in the grounds of their estate to tackle their runaway debts. Your job is to build a successful park and keep the place afloat, with just a few caveats... The Silversmiths are rather old fashioned and will only allow ‘traditional’ attractions, so you may want to aim your Marketing efforts at families and ensure your ride sequences offer value for money. Oh, and build carefully, as the estate will take a percentage of any refunds... Good luck!
-FrontEndMenu_ScenarioDetails_TGTR,They say this tree is the heart of the world. Can you respect mother nature and craft an eco-friendly theme park around the towering tree, or will you sell the woodland for profit and squeeze as much as you can from this verdant environment?
-FrontEndMenu_ScenarioDetails_WNTR,It’s time to unwrap our plans for a festive-themed park in this jolly location. Just remember that your cash is a loan, not a gift! Spruce up your winter wonderland with seasonal scenery and draw in the merry crowds from far around.
-FrontEndMenu_ScenarioName_CTKG,Coaster King
-FrontEndMenu_ScenarioName_CVRN,Cavernous Coasters
-FrontEndMenu_ScenarioName_GLLY,Good Gully Miss Molly
-FrontEndMenu_ScenarioName_GOLM,Golem Rampage
-FrontEndMenu_ScenarioName_KRKN,Creature Awakens
-FrontEndMenu_ScenarioName_MNLH,Monolith
-FrontEndMenu_ScenarioName_NENC,Night Encounters
-FrontEndMenu_ScenarioName_NOMO,Back from the Brink
-FrontEndMenu_ScenarioName_ODML,Shops 'n' Drops
-FrontEndMenu_ScenarioName_PBTL,Pirate Battle
-FrontEndMenu_ScenarioName_PIRT,Pirate Cove
-FrontEndMenu_ScenarioName_SKLL,Skull
-FrontEndMenu_ScenarioName_SSMR,Silversmith Manor
-FrontEndMenu_ScenarioName_TGTR,The Great Tree
-FrontEndMenu_ScenarioName_WNTR,Festive Funlands
-FrontEndMenu_Search,Search
-FrontEndMenu_SearchFollowers,Search your Followers
-FrontEndMenu_SearchParks,Search
-FrontEndMenu_SearchSteam,Search Steam Workshop
-FrontEndMenu_SearchSteamWorkShop,Search Steam Workshop
-FrontEndMenu_SearchUsers,Search for Creators
-FrontEndMenu_SetDescription_CNGL,Bring some cheer to the Festive King Coaster
-FrontEndMenu_SetDescription_DEXR,Science-fiction scenarios with Dex-R
-FrontEndMenu_SetDescription_KNGC,Can your skills impress the King of Coasters?
-FrontEndMenu_SetDescription_PRKG,Plunder through these scenarios with Lockjaw. Arrrrr you ready?
-FrontEndMenu_SetDescription_PSAM,Princess Amelie requests your aid in revitalising her kingdom.
-FrontEndMenu_SetDescription_SHGL,Round up all them stars, partner.
-FrontEndMenu_SetName_CNGL,Festive King Coaster’s Crackers
-FrontEndMenu_SetName_DEXR,Dex-R's Science Shenanigans (Medium)
-FrontEndMenu_SetName_KNGC,King Coaster's Royal Decree (Hard)
-FrontEndMenu_SetName_PRKG,Captain Lockjaw's Buried Treasures (Beginner)
-FrontEndMenu_SetName_PSAM,Princess Amelie's Fairy Tale (Easy)
-FrontEndMenu_SetName_SHGL,Miss Elly's Round Up
-FrontEndMenu_Settings,Options
-FrontEndMenu_SettingsButton,Options
-FrontEndMenu_SetUnlock,You need to be at least level {Value:int} to unlock this level.
-FrontEndMenu_Simulation,Challenge
-FrontEndMenu_SimulationDescription,You'll need to manage your money to succeed in this mode. You'll have limited options to begin with until you earn your way to a bigger park.
-FrontEndMenu_Skip,Skip
-FrontEndMenu_SortBy,Sort By
-FrontEndMenu_SortByLastPlayedAscending,Oldest
-FrontEndMenu_SortByLastPlayedDescending,Newest
-FrontEndMenu_SortByNameAscending,Name A-Z
-FrontEndMenu_SortByNameDescending,Author Z-A
-FrontEndMenu_SortByTimePlayedAscending,Most Played
-FrontEndMenu_SortByTimePlayedDescending,Least Played
-FrontEndMenu_StaffEditor_InfoLabel,Customise a member of staff to appear in other players' games.
-FrontEndMenu_StaffEditor_InfoTitle,Create your VIP Staff Pass!
-FrontEndMenu_StartNew,Start New
-FrontEndMenu_Subscribe,Subscribe
-FrontEndMenu_Subscribers,Subscribers
-FrontEndMenu_TestDetails,Enjoy the fantastic world of Planet Coaster, discover endless possibilities and make the ultimate theme park.
-FrontEndMenu_TestSaveName,Load Park
-FrontEndMenu_themePark,{Name}'s Coaster Park
-FrontEndMenu_Tooltip_Offline,You are offline!
-FrontEndMenu_Tooltip_OldParkSteam,This park is from an old game version. Resave to upload to Steam.
-FrontEndMenu_TrendingUploads,Trending Uploads
-FrontEndMenu_Tropical,Tropical
-FrontEndMenu_TropicalDescription,Start your park with unlimited money and build that dream getaway destination!
-FrontEndMenu_TropicalSimulation,Tropical
-FrontEndMenu_TropicalSimulationDescription,Start your park with limited money and build that dream getaway destination!
-FrontEndMenu_Tutorial,Tutorial Videos
-FrontEndMenu_TutorialDescription,Coming Soon!
-FrontEndMenu_Unfollow,Unfollow
-FrontEndMenu_Unsubscribe,Unsubscribe
-FrontEndMenu_UploadToWorkshop,Upload to Workshop
-FrontEndMenu_UserAway,Away
-FrontEndMenu_UserBusy,Busy
-FrontEndMenu_UserDescription,{Description}
-FrontEndMenu_UserInGame,Playing Planet Coaster
-FrontEndMenu_Username,{Name}
-FrontEndMenu_UserOffline,Offline
-FrontEndMenu_UserOnline,Online
-FrontEndMenu_ViewInDownloads,View in Downloads
-FrontEndMenu_ViewInWorkshop,View in Workshop
-FrontEndMenu_ViewSteamProfile,View All Uploads
-FrontEndMenu_VIPEditor_InfoLabel,Create a guest to visit other players' parks.
-FrontEndMenu_VIPEditor_InfoTitle,Create your VIP Single Ticket!
-FrontEndMenu_Visitors,Visitors
-FrontEndMenu_VisitPark,Visit Park
-FrontEndMenu_Welcome,Welcome!
-FrontEndMenu_WelcomeWindowButtonLabel,Create my Avatar!
-FrontEndMenu_WelcomeWindowLabel,Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!
+You can edit this later.'
+FrontEndMenu_HQPlacement_PromptTitle,'HQ Placement'
+FrontEndMenu_LastUpdated,'Last updated: {Date}'
+FrontEndMenu_LevelUnlock,'You need to be at least level {Value:int} to unlock this level.'
+FrontEndMenu_Load,'Load'
+FrontEndMenu_LoadDate,'{TimeString} - {DateString}'
+FrontEndMenu_LoadFailed_Desc,'Failed to load the selected save game'
+FrontEndMenu_LoadFailed_Ok,'OK'
+FrontEndMenu_LoadFailed_Title,'Load Failed'
+FrontEndMenu_LoadItems,'Contacting Steam Workshop...'
+FrontEndMenu_LoadSaveAsChallenge,'Open as Challenge'
+FrontEndMenu_LoadSaveAsSandbox,'Open as Sandbox'
+FrontEndMenu_LoadSaves,'Load Saves'
+FrontEndMenu_MyDownloads,'My Downloads'
+FrontEndMenu_MyParks,'My Parks'
+FrontEndMenu_MyParksDescription,'View all your saved parks.'
+FrontEndMenu_MyParksSandbox,'Load an existing Sandbox Park'
+FrontEndMenu_MyParksSimulation,'Load an existing Challenge Park'
+FrontEndMenu_NewChallenge,'New Challenge'
+FrontEndMenu_NewSandbox,'New Sandbox'
+FrontEndMenu_NoUploads,'{Name} has no uploads :('
+FrontEndMenu_OpenAs,'Open As ...'
+FrontEndMenu_OpenAsToolTipEnabled,'Open park in another play mode'
+FrontEndMenu_ParkName,'Park Name'
+FrontEndMenu_PinDate,'{DateString}'
+FrontEndMenu_Play,'Play'
+FrontEndMenu_PlayButton,'Load Park'
+FrontEndMenu_PlayDetails,'Start a new game in Career, Sandbox or Challenge!'
+FrontEndMenu_PlayDownloadAsChallenge,'Play as Challenge'
+FrontEndMenu_PlayDownloadAsSandbox,'Play as Sandbox'
+FrontEndMenu_Player,'It's You!'
+FrontEndMenu_PlayTime,'Total play time: {Value:float:decimalPlaces=1} hours'
+FrontEndMenu_PromptNo,'No'
+FrontEndMenu_PromptYes,'Yes'
+FrontEndMenu_Rating,'Rating'
+FrontEndMenu_RepositionHQ,'Reposition Avatar HQ'
+FrontEndMenu_Resume,'Resume'
+FrontEndMenu_Sandbox,'Sandbox'
+FrontEndMenu_SandboxDescription,'Start a new park on a fresh slate and let your imagination go wild! You are free to build your dream park with no restrictions!'
+FrontEndMenu_SaveAuthorGameMode,'{Name}, {GameMode}'
+FrontEndMenu_SaveParkName,'{Name}'
+FrontEndMenu_ScenarioDetails_CTKG,'Coasters! Building increasingly difficult coasters to satisfy the Coaster King.'
+FrontEndMenu_ScenarioDetails_CVRN,'An exotic grotto has been discovered, and restricted planning permission grants you the opportunity to create a unique park in this hollowed out habitat!  Building above the cavern is strictly prohibited, and guest numbers are limited, so you’ll need to conquer the depths to ensure this venture is a success.'
+FrontEndMenu_ScenarioDetails_GLLY,'They said no one could build a theme park at Molly's Gully. Prove them wrong! Keep below the height restriction and bankroll the construction of a colossal coaster!'
+FrontEndMenu_ScenarioDetails_GOLM,'The enormous golem's rampage has finally come to an end, frozen in eternal battle against the M.U.T.T.s. Our experts claim the creature is dormant, but local staff don't seem convinced; they're demanding a premium to work here! Utilise the monorail to make the most of the space and create a truly unique sci-fi theme park.'
+FrontEndMenu_ScenarioDetails_KRKN,'Rumours of engineers meeting sticky ends scared off this park's staff, leading to its recent sale. The bargain price presents an irresistible opportunity, so hire some new staff, complete construction of the park and ignore the reports of strange noises underground. I'm sure it's nothing to worry about...'
+FrontEndMenu_ScenarioDetails_MNLH,'A strange object found in the desert appears to have exerted an unexpected effect on the park’s rides – everything keeps breaking down and we’re running out of cash. Hire some mechanics, utilise work rosters to fix and maintain the rides, combat the Monolith’s power and get the park back in profit.'
+FrontEndMenu_ScenarioDetails_NENC,'The government recently sold off a tract of restricted land to private buyers, which was promptly snapped up by an ambitious theme park operation. Shortly after their grand opening, this sci-fi themed park's management mysteriously disappeared, along with all their research. Keep this park in the black, earn enough to research new rides and make this strange park a success.'
+FrontEndMenu_ScenarioDetails_NOMO,'You'll need to be at the top of your game for this one! The former owners have abandoned this park and left it in a real mess; negative cash reserves, a huge loan to pay off, ludicrous layout, and some seriously inefficient amusement rides. If you can turn this around it'll be a miracle.'
+FrontEndMenu_ScenarioDetails_ODML,'This futuristic park's shop franchisors have questioned their long term commitment after underwhelming financial results. Retain their trust by squeezing as much profit as possible from your shops and facilities. Layout and pricing choices are key, and canny tycoons will make use of the ready-built shopfronts.'
+FrontEndMenu_ScenarioDetails_PBTL,'Avast me hearties, and welcome to Planet Coaster! Shiver those timbers and take charge of this explosive pirate park. Complete ride construction, draw in the crowds and give your guests a swashbuckling good time!'
+FrontEndMenu_ScenarioDetails_PIRT,'Former Pirate turned entrepreneur Peg-Leg Pete appears to be struggling somewhat; his loan-addled park is incomplete and lacking in fun (if only he could remember where he buried his treasure... It was around here somewhere). Take the helm and turn things around before this ship capsizes!'
+FrontEndMenu_ScenarioDetails_SKLL,'The Skull? It appeared one day, rising from the earth in search of vengeance, I reckon. Some say it’s cursed but all I know is that it makes people unhappy. We need your help to counteract the skull’s effect or the park will never recover. Keep guests happy and keep them in the park. Hire entertainers, run marketing campaigns, do what you gotta do to keep the money coming in.'
+FrontEndMenu_ScenarioDetails_SSMR,'The Silversmith family are opening a theme park in the grounds of their estate to tackle their runaway debts. Your job is to build a successful park and keep the place afloat, with just a few caveats... The Silversmiths are rather old fashioned and will only allow ‘traditional’ attractions, so you may want to aim your Marketing efforts at families and ensure your ride sequences offer value for money. Oh, and build carefully, as the estate will take a percentage of any refunds... Good luck!'
+FrontEndMenu_ScenarioDetails_TGTR,'They say this tree is the heart of the world. Can you respect mother nature and craft an eco-friendly theme park around the towering tree, or will you sell the woodland for profit and squeeze as much as you can from this verdant environment?'
+FrontEndMenu_ScenarioDetails_WNTR,'It’s time to unwrap our plans for a festive-themed park in this jolly location. Just remember that your cash is a loan, not a gift! Spruce up your winter wonderland with seasonal scenery and draw in the merry crowds from far around.'
+FrontEndMenu_ScenarioName_CTKG,'Coaster King'
+FrontEndMenu_ScenarioName_CVRN,'Cavernous Coasters'
+FrontEndMenu_ScenarioName_GLLY,'Good Gully Miss Molly'
+FrontEndMenu_ScenarioName_GOLM,'Golem Rampage'
+FrontEndMenu_ScenarioName_KRKN,'Creature Awakens'
+FrontEndMenu_ScenarioName_MNLH,'Monolith'
+FrontEndMenu_ScenarioName_NENC,'Night Encounters'
+FrontEndMenu_ScenarioName_NOMO,'Back from the Brink'
+FrontEndMenu_ScenarioName_ODML,'Shops 'n' Drops'
+FrontEndMenu_ScenarioName_PBTL,'Pirate Battle'
+FrontEndMenu_ScenarioName_PIRT,'Pirate Cove'
+FrontEndMenu_ScenarioName_SKLL,'Skull'
+FrontEndMenu_ScenarioName_SSMR,'Silversmith Manor'
+FrontEndMenu_ScenarioName_TGTR,'The Great Tree'
+FrontEndMenu_ScenarioName_WNTR,'Festive Funlands'
+FrontEndMenu_Search,'Search'
+FrontEndMenu_SearchFollowers,'Search your Followers'
+FrontEndMenu_SearchParks,'Search'
+FrontEndMenu_SearchSteam,'Search Steam Workshop'
+FrontEndMenu_SearchSteamWorkShop,'Search Steam Workshop'
+FrontEndMenu_SearchUsers,'Search for Creators'
+FrontEndMenu_SetDescription_CNGL,'Bring some cheer to the Festive King Coaster'
+FrontEndMenu_SetDescription_DEXR,'Science-fiction scenarios with Dex-R'
+FrontEndMenu_SetDescription_KNGC,'Can your skills impress the King of Coasters?'
+FrontEndMenu_SetDescription_PRKG,'Plunder through these scenarios with Lockjaw. Arrrrr you ready?'
+FrontEndMenu_SetDescription_PSAM,'Princess Amelie requests your aid in revitalising her kingdom.'
+FrontEndMenu_SetDescription_SHGL,'Round up all them stars, partner.'
+FrontEndMenu_SetName_CNGL,'Festive King Coaster’s Crackers'
+FrontEndMenu_SetName_DEXR,'Dex-R's Science Shenanigans (Medium)'
+FrontEndMenu_SetName_KNGC,'King Coaster's Royal Decree (Hard)'
+FrontEndMenu_SetName_PRKG,'Captain Lockjaw's Buried Treasures (Beginner)'
+FrontEndMenu_SetName_PSAM,'Princess Amelie's Fairy Tale (Easy)'
+FrontEndMenu_SetName_SHGL,'Miss Elly's Round Up'
+FrontEndMenu_Settings,'Options'
+FrontEndMenu_SettingsButton,'Options'
+FrontEndMenu_SetUnlock,'You need to be at least level {Value:int} to unlock this level.'
+FrontEndMenu_Simulation,'Challenge'
+FrontEndMenu_SimulationDescription,'You'll need to manage your money to succeed in this mode. You'll have limited options to begin with until you earn your way to a bigger park.'
+FrontEndMenu_Skip,'Skip'
+FrontEndMenu_SortBy,'Sort By'
+FrontEndMenu_SortByLastPlayedAscending,'Oldest'
+FrontEndMenu_SortByLastPlayedDescending,'Newest'
+FrontEndMenu_SortByNameAscending,'Name A-Z'
+FrontEndMenu_SortByNameDescending,'Author Z-A'
+FrontEndMenu_SortByTimePlayedAscending,'Most Played'
+FrontEndMenu_SortByTimePlayedDescending,'Least Played'
+FrontEndMenu_StaffEditor_InfoLabel,'Customise a member of staff to appear in other players' games.'
+FrontEndMenu_StaffEditor_InfoTitle,'Create your VIP Staff Pass!'
+FrontEndMenu_StartNew,'Start New'
+FrontEndMenu_Subscribe,'Subscribe'
+FrontEndMenu_Subscribers,'Subscribers'
+FrontEndMenu_TestDetails,'Enjoy the fantastic world of Planet Coaster, discover endless possibilities and make the ultimate theme park.'
+FrontEndMenu_TestSaveName,'Load Park'
+FrontEndMenu_themePark,'{Name}'s Coaster Park'
+FrontEndMenu_Tooltip_Offline,'You are offline!'
+FrontEndMenu_Tooltip_OldParkSteam,'This park is from an old game version. Resave to upload to Steam.'
+FrontEndMenu_TrendingUploads,'Trending Uploads'
+FrontEndMenu_Tropical,'Tropical'
+FrontEndMenu_TropicalDescription,'Start your park with unlimited money and build that dream getaway destination!'
+FrontEndMenu_TropicalSimulation,'Tropical'
+FrontEndMenu_TropicalSimulationDescription,'Start your park with limited money and build that dream getaway destination!'
+FrontEndMenu_Tutorial,'Tutorial Videos'
+FrontEndMenu_TutorialDescription,'Coming Soon!'
+FrontEndMenu_Unfollow,'Unfollow'
+FrontEndMenu_Unsubscribe,'Unsubscribe'
+FrontEndMenu_UploadToWorkshop,'Upload to Workshop'
+FrontEndMenu_UserAway,'Away'
+FrontEndMenu_UserBusy,'Busy'
+FrontEndMenu_UserDescription,'{Description}'
+FrontEndMenu_UserInGame,'Playing Planet Coaster'
+FrontEndMenu_Username,'{Name}'
+FrontEndMenu_UserOffline,'Offline'
+FrontEndMenu_UserOnline,'Online'
+FrontEndMenu_ViewInDownloads,'View in Downloads'
+FrontEndMenu_ViewInWorkshop,'View in Workshop'
+FrontEndMenu_ViewSteamProfile,'View All Uploads'
+FrontEndMenu_VIPEditor_InfoLabel,'Create a guest to visit other players' parks.'
+FrontEndMenu_VIPEditor_InfoTitle,'Create your VIP Single Ticket!'
+FrontEndMenu_Visitors,'Visitors'
+FrontEndMenu_VisitPark,'Visit Park'
+FrontEndMenu_Welcome,'Welcome!'
+FrontEndMenu_WelcomeWindowButtonLabel,'Create my Avatar!'
+FrontEndMenu_WelcomeWindowLabel,'Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!
 
 First we'll create an avatar of yourself to represent your amazing creations among the Planet Coaster community.
 
-Make sure to create someone your friends will recognise!
-FrontEndMenu_WelcomeWindowTitle,Welcome to Planet Coaster!
-FrontEndMenu_WhatsNew,What's New?
-FrontEndMenu_WhatsNewDescription,Coming Soon!
-FrontEndMenu_WorkshopItemDesc,{Name}
-FrontEndMenu_WorkshopItemName,{Name}
-FrontEndMenu_WorkshopType_Blueprint,Blueprint
-FrontEndMenu_WorkshopType_Park,Shared Park
+Make sure to create someone your friends will recognise!'
+FrontEndMenu_WelcomeWindowTitle,'Welcome to Planet Coaster!'
+FrontEndMenu_WhatsNew,'What's New?'
+FrontEndMenu_WhatsNewDescription,'Coming Soon!'
+FrontEndMenu_WorkshopItemDesc,'{Name}'
+FrontEndMenu_WorkshopItemName,'{Name}'
+FrontEndMenu_WorkshopType_Blueprint,'Blueprint'
+FrontEndMenu_WorkshopType_Park,'Shared Park'

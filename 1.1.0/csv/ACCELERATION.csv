@@ -1,2 +1,2 @@
 key,translation
-ACCELERATION_G,{Value:float:decimalPlaces=2} G
+ACCELERATION_G,'{Value:float:decimalPlaces=2} G'

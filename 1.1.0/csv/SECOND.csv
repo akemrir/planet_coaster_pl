@@ -1,2 +1,2 @@
 key,translation
-SECOND,{Value:float:decimalPlaces=0} s
+SECOND,'{Value:float:decimalPlaces=0} s'

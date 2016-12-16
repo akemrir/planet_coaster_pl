@@ -1,56 +1,56 @@
 key,translation
-LoadingScreen_Input_MouseButtonLeft,left-click
-LoadingScreen_Input_MouseButtonMiddle,middle-click
-LoadingScreen_Input_MouseButtonRight,right-click
-LoadingScreen_Loading,Loading...
-LoadingScreen_Tooltip_1,Wider paths can help reduce crowd congestion
-LoadingScreen_Tooltip_10,Decorations can be added to most surfaces, not just walls
-LoadingScreen_Tooltip_11,You can hold {#LogicalButton.MouseMiddle#} to look around in some Ride Cameras
-LoadingScreen_Tooltip_12,The camera buttons in the Path tool will help you to lay paths quickly and smoothly
-LoadingScreen_Tooltip_13,Angle Snap options in the Path tool allow for smooth curved paths or sharper angles
-LoadingScreen_Tooltip_14,Select a ride and click the Ride Camera button to experience the ride from different perspectives
-LoadingScreen_Tooltip_15,You can press '{#LogicalButton.GameCamera_FreelookMode#}' to toggle the Freelook camera on and off
-LoadingScreen_Tooltip_16,You can redo any action using {#LogicalButton.Editors_Redo#}
-LoadingScreen_Tooltip_17,When building paths, hold '{#LogicalButton.Editors_PathYJunctionModifier#}' to create angled junctions or join to paths at more acute angles
-LoadingScreen_Tooltip_18,When editing a building, {#LogicalButton.MouseLeft#} and drag to select multiple objects
-LoadingScreen_Tooltip_19,When building paths, you can toggle on Curved Elevation to create curved slopes and stairs
-LoadingScreen_Tooltip_2,Build slopes and elevated walkways by dragging the mouse up or down when laying paths
-LoadingScreen_Tooltip_20,You can undo any action using {#LogicalButton.Editors_Undo#}
-LoadingScreen_Tooltip_21,When building a coaster, {#LogicalButton.MouseLeft#} anywhere to lay a track piece
-LoadingScreen_Tooltip_22,Each coaster type has different utilities and special pieces available
-LoadingScreen_Tooltip_23,Surface Lock ensures terrain edits are relative to the surface initially clicked on
-LoadingScreen_Tooltip_24,When editing terrain, hold '{#LogicalButton.Editors_FlipDeformationDirectionModifier#}' to temporarily apply the Pull brush instead of Push, and vice-versa
-LoadingScreen_Tooltip_25,You can get ideas on how to improve your park by reading guest thoughts
-LoadingScreen_Tooltip_26,You can switch between ‘world’ and ‘relative’ controls while using Advanced Move
-LoadingScreen_Tooltip_27,Use “More Filters” to display certain types of Scenery and Building pieces
-LoadingScreen_Tooltip_28,You can manage Shop staff from the Select Vendor button on the Shop’s info panel
-LoadingScreen_Tooltip_29,The Multi Selection tool lets you save a collection of objects as a Blueprint
-LoadingScreen_Tooltip_3,You can adjust camera settings in the Settings menu
-LoadingScreen_Tooltip_30,Save a Blueprint to quickly rebuild a creation in the future or share it with the community
-LoadingScreen_Tooltip_31,While editing a building, you can use the Split button to create a new building from your selection
-LoadingScreen_Tooltip_32,You can download new Blueprints from the Steam Workshop
-LoadingScreen_Tooltip_33,You can upload your own Blueprints to the Steam Workshop and share them with the world!
-LoadingScreen_Tooltip_34,The Settings panel for Building pieces lets you change the Grid Size and Grid Height you are working on
-LoadingScreen_Tooltip_35,You can align paths to a grid by using Select Grid in Paths Settings
-LoadingScreen_Tooltip_36,You can change the ticket price of a ride on its Finance tab
-LoadingScreen_Tooltip_37,Make rides more efficient by tweaking load rules in the Operations tab
-LoadingScreen_Tooltip_38,Try adding a Priority Pass queue from the Operations tab for very popular rides
-LoadingScreen_Tooltip_39,Information Kiosks sell Priority Passes that let guests access all priority queues
-LoadingScreen_Tooltip_4,You can change the colour of the user interface in the Settings menu
-LoadingScreen_Tooltip_40,Many rides and objects allow you to change their default colours
-LoadingScreen_Tooltip_41,Guests will try to go on rides within their Fear and Nausea tolerances
-LoadingScreen_Tooltip_42,The higher your park rating, the more guests will come to your park!
-LoadingScreen_Tooltip_43,You can see the most popular thoughts about a ride on its Overview tab
-LoadingScreen_Tooltip_44,Guests will pay more for rides with good scenery around the queue
-LoadingScreen_Tooltip_45,Moving the ride entrance and exit can improve the time it takes to load and unload guests
-LoadingScreen_Tooltip_46,Coasters with fewer utility pieces have lower running costs
-LoadingScreen_Tooltip_47,Each coaster type has different engineering constraints on its track
-LoadingScreen_Tooltip_48,You can turn coaster supports on or off in the Utility Settings
-LoadingScreen_Tooltip_49,Coasters must complete a test run before guests will ride them
-LoadingScreen_Tooltip_5,The Duplicate button will clone a selected object or building
-LoadingScreen_Tooltip_50,Good coasters need to create some Fear, but not too much!
-LoadingScreen_Tooltip_6,Walls will Auto-Stack when building. Untick this option for precision control
-LoadingScreen_Tooltip_7,You can hold '{#LogicalButton.Editors_UpwardPlacementModifier#}' while building to raise most objects into the air
-LoadingScreen_Tooltip_8,You can undo any action using {#LogicalButton.Editors_Undo#}
-LoadingScreen_Tooltip_9,Use Decorations to make your buildings more attractive
-LoadingScreen_Tooltip_Text,{Text}
+LoadingScreen_Input_MouseButtonLeft,'left-click'
+LoadingScreen_Input_MouseButtonMiddle,'middle-click'
+LoadingScreen_Input_MouseButtonRight,'right-click'
+LoadingScreen_Loading,'Loading...'
+LoadingScreen_Tooltip_1,'Wider paths can help reduce crowd congestion'
+LoadingScreen_Tooltip_10,'Decorations can be added to most surfaces, not just walls'
+LoadingScreen_Tooltip_11,'You can hold {#LogicalButton.MouseMiddle#} to look around in some Ride Cameras'
+LoadingScreen_Tooltip_12,'The camera buttons in the Path tool will help you to lay paths quickly and smoothly'
+LoadingScreen_Tooltip_13,'Angle Snap options in the Path tool allow for smooth curved paths or sharper angles'
+LoadingScreen_Tooltip_14,'Select a ride and click the Ride Camera button to experience the ride from different perspectives'
+LoadingScreen_Tooltip_15,'You can press '{#LogicalButton.GameCamera_FreelookMode#}' to toggle the Freelook camera on and off'
+LoadingScreen_Tooltip_16,'You can redo any action using {#LogicalButton.Editors_Redo#}'
+LoadingScreen_Tooltip_17,'When building paths, hold '{#LogicalButton.Editors_PathYJunctionModifier#}' to create angled junctions or join to paths at more acute angles'
+LoadingScreen_Tooltip_18,'When editing a building, {#LogicalButton.MouseLeft#} and drag to select multiple objects'
+LoadingScreen_Tooltip_19,'When building paths, you can toggle on Curved Elevation to create curved slopes and stairs'
+LoadingScreen_Tooltip_2,'Build slopes and elevated walkways by dragging the mouse up or down when laying paths'
+LoadingScreen_Tooltip_20,'You can undo any action using {#LogicalButton.Editors_Undo#}'
+LoadingScreen_Tooltip_21,'When building a coaster, {#LogicalButton.MouseLeft#} anywhere to lay a track piece'
+LoadingScreen_Tooltip_22,'Each coaster type has different utilities and special pieces available'
+LoadingScreen_Tooltip_23,'Surface Lock ensures terrain edits are relative to the surface initially clicked on'
+LoadingScreen_Tooltip_24,'When editing terrain, hold '{#LogicalButton.Editors_FlipDeformationDirectionModifier#}' to temporarily apply the Pull brush instead of Push, and vice-versa'
+LoadingScreen_Tooltip_25,'You can get ideas on how to improve your park by reading guest thoughts'
+LoadingScreen_Tooltip_26,'You can switch between ‘world’ and ‘relative’ controls while using Advanced Move'
+LoadingScreen_Tooltip_27,'Use “More Filters” to display certain types of Scenery and Building pieces'
+LoadingScreen_Tooltip_28,'You can manage Shop staff from the Select Vendor button on the Shop’s info panel'
+LoadingScreen_Tooltip_29,'The Multi Selection tool lets you save a collection of objects as a Blueprint'
+LoadingScreen_Tooltip_3,'You can adjust camera settings in the Settings menu'
+LoadingScreen_Tooltip_30,'Save a Blueprint to quickly rebuild a creation in the future or share it with the community'
+LoadingScreen_Tooltip_31,'While editing a building, you can use the Split button to create a new building from your selection'
+LoadingScreen_Tooltip_32,'You can download new Blueprints from the Steam Workshop'
+LoadingScreen_Tooltip_33,'You can upload your own Blueprints to the Steam Workshop and share them with the world!'
+LoadingScreen_Tooltip_34,'The Settings panel for Building pieces lets you change the Grid Size and Grid Height you are working on'
+LoadingScreen_Tooltip_35,'You can align paths to a grid by using Select Grid in Paths Settings'
+LoadingScreen_Tooltip_36,'You can change the ticket price of a ride on its Finance tab'
+LoadingScreen_Tooltip_37,'Make rides more efficient by tweaking load rules in the Operations tab'
+LoadingScreen_Tooltip_38,'Try adding a Priority Pass queue from the Operations tab for very popular rides'
+LoadingScreen_Tooltip_39,'Information Kiosks sell Priority Passes that let guests access all priority queues'
+LoadingScreen_Tooltip_4,'You can change the colour of the user interface in the Settings menu'
+LoadingScreen_Tooltip_40,'Many rides and objects allow you to change their default colours'
+LoadingScreen_Tooltip_41,'Guests will try to go on rides within their Fear and Nausea tolerances'
+LoadingScreen_Tooltip_42,'The higher your park rating, the more guests will come to your park!'
+LoadingScreen_Tooltip_43,'You can see the most popular thoughts about a ride on its Overview tab'
+LoadingScreen_Tooltip_44,'Guests will pay more for rides with good scenery around the queue'
+LoadingScreen_Tooltip_45,'Moving the ride entrance and exit can improve the time it takes to load and unload guests'
+LoadingScreen_Tooltip_46,'Coasters with fewer utility pieces have lower running costs'
+LoadingScreen_Tooltip_47,'Each coaster type has different engineering constraints on its track'
+LoadingScreen_Tooltip_48,'You can turn coaster supports on or off in the Utility Settings'
+LoadingScreen_Tooltip_49,'Coasters must complete a test run before guests will ride them'
+LoadingScreen_Tooltip_5,'The Duplicate button will clone a selected object or building'
+LoadingScreen_Tooltip_50,'Good coasters need to create some Fear, but not too much!'
+LoadingScreen_Tooltip_6,'Walls will Auto-Stack when building. Untick this option for precision control'
+LoadingScreen_Tooltip_7,'You can hold '{#LogicalButton.Editors_UpwardPlacementModifier#}' while building to raise most objects into the air'
+LoadingScreen_Tooltip_8,'You can undo any action using {#LogicalButton.Editors_Undo#}'
+LoadingScreen_Tooltip_9,'Use Decorations to make your buildings more attractive'
+LoadingScreen_Tooltip_Text,'{Text}'

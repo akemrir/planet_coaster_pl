@@ -1,29 +1,29 @@
 key,translation
-Set_Bakery,Gingerbread Bakery
-Set_Brick,Modern Brick
-Set_Castle,Castle
-Set_Concrete,Concrete
-Set_Fibreglass,Fibreglass
-Set_Futuristic,Futuristic
-Set_Gingerbread,Gingerbread
-Set_Glass,Glass
-Set_Industrial,Industrial
-Set_LimePlaster,Lime Plaster
-Set_Limestone,Limestone
-Set_Metal,Metal
-Set_Modern,Modern
-Set_OldBrick,Classic Brick
-Set_OldWest,Old West
-Set_Plastic,Vinyl Plastic
-Set_RenderWalls,Stucco
-Set_RoughBrick,Rough Brick
-Set_Rustic,Rustic
-Set_Snow,Artificial Snow
-Set_StoneWalls,Sandstone
-Set_Thatch,Thatch
-Set_TileFlat,Flat Tile
-Set_TileRidge,Ridge Tile
-Set_WesternWood,Wood Plank
-Set_Wooden,Modern Wood
-Set_WoodenSlat,Wood Batten
-Set_WoodTile,Wood Tile
+Set_Bakery,'Gingerbread Bakery'
+Set_Brick,'Modern Brick'
+Set_Castle,'Castle'
+Set_Concrete,'Concrete'
+Set_Fibreglass,'Fibreglass'
+Set_Futuristic,'Futuristic'
+Set_Gingerbread,'Gingerbread'
+Set_Glass,'Glass'
+Set_Industrial,'Industrial'
+Set_LimePlaster,'Lime Plaster'
+Set_Limestone,'Limestone'
+Set_Metal,'Metal'
+Set_Modern,'Modern'
+Set_OldBrick,'Classic Brick'
+Set_OldWest,'Old West'
+Set_Plastic,'Vinyl Plastic'
+Set_RenderWalls,'Stucco'
+Set_RoughBrick,'Rough Brick'
+Set_Rustic,'Rustic'
+Set_Snow,'Artificial Snow'
+Set_StoneWalls,'Sandstone'
+Set_Thatch,'Thatch'
+Set_TileFlat,'Flat Tile'
+Set_TileRidge,'Ridge Tile'
+Set_WesternWood,'Wood Plank'
+Set_Wooden,'Modern Wood'
+Set_WoodenSlat,'Wood Batten'
+Set_WoodTile,'Wood Tile'

@@ -1,113 +1,113 @@
 key,translation
-ShopItem_Balloon_01,Red Balloon
-ShopItem_Balloon_02,Orange Balloon
-ShopItem_Balloon_03,Green Balloon
-ShopItem_Balloon_04,Yellow Balloon
-ShopItem_Balloon_05,Pink Balloon
-ShopItem_Drink_Coffee_01,Americano
-ShopItem_Drink_Coffee_02,Double Espresso
-ShopItem_Drink_Coffee_03,Cappuccino
-ShopItem_Drink_Coffee_04,Mocha
-ShopItem_Drink_Coffee_05,Decaf
-ShopItem_Drink_Cola,Strawberry Cosmic Shake
-ShopItem_Drink_Cola_02,Vanilla Cosmic Shake
-ShopItem_Drink_Cola_03,Chocolate Cosmic Shake
-ShopItem_Drink_Energy_01,Gulpee Energy
-ShopItem_Drink_Energy_02,Gulpee Energy XL
-ShopItem_Drink_Juice_01,Blackcurrant Juice
-ShopItem_Drink_Juice_02,Orange Juice
-ShopItem_Drink_Juice_03,Summer Fruits Juice
-ShopItem_Drink_Slush_01,Pink Slush
-ShopItem_Drink_Slush_02,Blue Slush
-ShopItem_Drink_Slush_03,Orange Slush
-ShopItem_Drink_Slush_04,Green Slush
-ShopItem_Drink_Smoothie_01,Tropical Smoothie
-ShopItem_Drink_Smoothie_02,Summer Berry Smoothie
-ShopItem_Drink_Smoothie_03,Orange Sunshine Smoothie
-ShopItem_Drink_Smoothie_04,Green Kale Smoothie
-ShopItem_Drink_Soda_01,Gulpee
-ShopItem_Drink_Soda_02,Gulpee Guava
-ShopItem_Drink_Soda_03,Gulpee 0 Cal
-ShopItem_Drink_Soda_04,Gulpee Watermelon
-ShopItem_Drink_Water_01,Mineral Water
-ShopItem_Drink_Water_02,Mineral Water XL
-ShopItem_Extra_Anchovies,Anchovies
-ShopItem_Extra_BurgerCheese,Cheese
-ShopItem_Extra_Chilli,Chilli Sauce
-ShopItem_Extra_ChocolateSauce,Chocolate Sauce
-ShopItem_Extra_CoconutFlakes,Coconut Flakes
-ShopItem_Extra_Cream,Cream
-ShopItem_Extra_Fruit,Fruit Pieces
-ShopItem_Extra_FudgePieces,Fudge Pieces
-ShopItem_Extra_Gherkins,Gherkins
-ShopItem_Extra_Guacamole,Guacamole
-ShopItem_Extra_Ice,Ice
-ShopItem_Extra_IceCream,Ice Cream
-ShopItem_Extra_Jalepenos,Jalapeños
-ShopItem_Extra_Ketchup,Ketchup
-ShopItem_Extra_Lettuce,Lettuce
-ShopItem_Extra_Marshmallows,Marshmallows
-ShopItem_Extra_Mayo,Mayonnaise
-ShopItem_Extra_Milk,Milk
-ShopItem_Extra_Mustard,Mustard
-ShopItem_Extra_Onions,Onions
-ShopItem_Extra_Peppers,Peppers
-ShopItem_Extra_PizzaCheese,Extra Cheese
-ShopItem_ExtraQuantity1,A little
-ShopItem_ExtraQuantity2,Some
-ShopItem_ExtraQuantity3,A lot
-ShopItem_Extra_Salsa,Salsa
-ShopItem_Extra_Salt,Salt
-ShopItem_Extra_SourCream,Sour Cream
-ShopItem_Extra_Sprinkles,Sprinkles
-ShopItem_Extra_StrawberrySauce,Strawberry Sauce
-ShopItem_Extra_Sugar,Sugar
-ShopItem_Extra_Vinegar,Vinegar
-ShopItem_Extra_WhippedCream,Whipped Cream
-ShopItem_Food_Burger,Chief Burger
-ShopItem_Food_Burger_XL,Chief Burger XL
-ShopItem_Food_Chicken_01,Spicy Chicken
-ShopItem_Food_Chicken_02,Plain Chicken
-ShopItem_Food_Chicken_03,Coconut Chicken
-ShopItem_Food_Chicken_04,Hot Wings
-ShopItem_Food_Dough_01,Doughnuts (Small Box)
-ShopItem_Food_Dough_02,Doughnuts (Medium Box)
-ShopItem_Food_Dough_03,Doughnuts (Large Box)
-ShopItem_Food_Dough_04,Doughnuts (Jumbo Box)
-ShopItem_Food_Fries_01,Small Fries
-ShopItem_Food_Fries_02,Medium Fries
-ShopItem_Food_Fries_03,Large Fries
-ShopItem_Food_Fries_04,Extra Large Fries
-ShopItem_Food_Hotdog_01,Hotdog
-ShopItem_Food_Hotdog_02,Jumbo Hotdog
-ShopItem_Food_Hotdog_03,Mac Cheese and Bacon Hotdog
-ShopItem_Food_Hotdog_04,Chilli Hotdog
-ShopItem_Food_IceCream_01,Moon Dust Vanilla Ice Cream
-ShopItem_Food_IceCream_02,Solar Flare Strawberry Ice Cream
-ShopItem_Food_IceCream_03,Comet Tail Bubblegum Ice Cream
-ShopItem_Food_IceCream_04,Green Goo Mint Ice Cream
-ShopItem_Food_Mexican_01,Taco
-ShopItem_Food_Mexican_02,Taco Grande
-ShopItem_Food_PizzaSlice_01,Margherita Pizza Slice
-ShopItem_Food_PizzaSlice_02,Pepperoni Pizza Slice
-ShopItem_Food_PizzaSlice_03,Hawaiian Pizza Slice
-ShopItem_Food_PizzaSlice_04,Four Cheese Pizza Slice
-ShopItem_Generic,Price
-ShopItem_Hat_04,Sci-Fi Helmet
-ShopItem_Hat_05,Cowboy Hat
-ShopItem_Hat_06,Archer Hat
-ShopItem_Hat_Baseball,Baseball Cap
-ShopItem_Hat_Crown,Crown
-ShopItem_Hat_Elf,Elf Hat
-ShopItem_Hat_Gold,Golden Hat
-ShopItem_Hat_GoldHelmet,Golden Helmet
-ShopItem_Hat_Pirate,Pirate Hat
-ShopItem_Hat_Reindeer,Reindeer Hat
-ShopItem_Misc_DrinkLitter,Litter
-ShopItem_Misc_FirstAidKit,First Aid
-ShopItem_Misc_FoodLitter,Litter
-ShopItem_Misc_PriorityPass,Priority Pass
-ShopItem_Misc_Toilet,A moment's peace
-ShopItem_Souvenir_01,Snowglobe
-ShopItem_Souvenir_02,Crystal Ball
-ShopItem_Souvenir_03,Sci-Fi Radio
+ShopItem_Balloon_01,'Red Balloon'
+ShopItem_Balloon_02,'Orange Balloon'
+ShopItem_Balloon_03,'Green Balloon'
+ShopItem_Balloon_04,'Yellow Balloon'
+ShopItem_Balloon_05,'Pink Balloon'
+ShopItem_Drink_Coffee_01,'Americano'
+ShopItem_Drink_Coffee_02,'Double Espresso'
+ShopItem_Drink_Coffee_03,'Cappuccino'
+ShopItem_Drink_Coffee_04,'Mocha'
+ShopItem_Drink_Coffee_05,'Decaf'
+ShopItem_Drink_Cola,'Strawberry Cosmic Shake'
+ShopItem_Drink_Cola_02,'Vanilla Cosmic Shake'
+ShopItem_Drink_Cola_03,'Chocolate Cosmic Shake'
+ShopItem_Drink_Energy_01,'Gulpee Energy'
+ShopItem_Drink_Energy_02,'Gulpee Energy XL'
+ShopItem_Drink_Juice_01,'Blackcurrant Juice'
+ShopItem_Drink_Juice_02,'Orange Juice'
+ShopItem_Drink_Juice_03,'Summer Fruits Juice'
+ShopItem_Drink_Slush_01,'Pink Slush'
+ShopItem_Drink_Slush_02,'Blue Slush'
+ShopItem_Drink_Slush_03,'Orange Slush'
+ShopItem_Drink_Slush_04,'Green Slush'
+ShopItem_Drink_Smoothie_01,'Tropical Smoothie'
+ShopItem_Drink_Smoothie_02,'Summer Berry Smoothie'
+ShopItem_Drink_Smoothie_03,'Orange Sunshine Smoothie'
+ShopItem_Drink_Smoothie_04,'Green Kale Smoothie'
+ShopItem_Drink_Soda_01,'Gulpee'
+ShopItem_Drink_Soda_02,'Gulpee Guava'
+ShopItem_Drink_Soda_03,'Gulpee 0 Cal'
+ShopItem_Drink_Soda_04,'Gulpee Watermelon'
+ShopItem_Drink_Water_01,'Mineral Water'
+ShopItem_Drink_Water_02,'Mineral Water XL'
+ShopItem_Extra_Anchovies,'Anchovies'
+ShopItem_Extra_BurgerCheese,'Cheese'
+ShopItem_Extra_Chilli,'Chilli Sauce'
+ShopItem_Extra_ChocolateSauce,'Chocolate Sauce'
+ShopItem_Extra_CoconutFlakes,'Coconut Flakes'
+ShopItem_Extra_Cream,'Cream'
+ShopItem_Extra_Fruit,'Fruit Pieces'
+ShopItem_Extra_FudgePieces,'Fudge Pieces'
+ShopItem_Extra_Gherkins,'Gherkins'
+ShopItem_Extra_Guacamole,'Guacamole'
+ShopItem_Extra_Ice,'Ice'
+ShopItem_Extra_IceCream,'Ice Cream'
+ShopItem_Extra_Jalepenos,'Jalapeños'
+ShopItem_Extra_Ketchup,'Ketchup'
+ShopItem_Extra_Lettuce,'Lettuce'
+ShopItem_Extra_Marshmallows,'Marshmallows'
+ShopItem_Extra_Mayo,'Mayonnaise'
+ShopItem_Extra_Milk,'Milk'
+ShopItem_Extra_Mustard,'Mustard'
+ShopItem_Extra_Onions,'Onions'
+ShopItem_Extra_Peppers,'Peppers'
+ShopItem_Extra_PizzaCheese,'Extra Cheese'
+ShopItem_ExtraQuantity1,'A little'
+ShopItem_ExtraQuantity2,'Some'
+ShopItem_ExtraQuantity3,'A lot'
+ShopItem_Extra_Salsa,'Salsa'
+ShopItem_Extra_Salt,'Salt'
+ShopItem_Extra_SourCream,'Sour Cream'
+ShopItem_Extra_Sprinkles,'Sprinkles'
+ShopItem_Extra_StrawberrySauce,'Strawberry Sauce'
+ShopItem_Extra_Sugar,'Sugar'
+ShopItem_Extra_Vinegar,'Vinegar'
+ShopItem_Extra_WhippedCream,'Whipped Cream'
+ShopItem_Food_Burger,'Chief Burger'
+ShopItem_Food_Burger_XL,'Chief Burger XL'
+ShopItem_Food_Chicken_01,'Spicy Chicken'
+ShopItem_Food_Chicken_02,'Plain Chicken'
+ShopItem_Food_Chicken_03,'Coconut Chicken'
+ShopItem_Food_Chicken_04,'Hot Wings'
+ShopItem_Food_Dough_01,'Doughnuts (Small Box)'
+ShopItem_Food_Dough_02,'Doughnuts (Medium Box)'
+ShopItem_Food_Dough_03,'Doughnuts (Large Box)'
+ShopItem_Food_Dough_04,'Doughnuts (Jumbo Box)'
+ShopItem_Food_Fries_01,'Small Fries'
+ShopItem_Food_Fries_02,'Medium Fries'
+ShopItem_Food_Fries_03,'Large Fries'
+ShopItem_Food_Fries_04,'Extra Large Fries'
+ShopItem_Food_Hotdog_01,'Hotdog'
+ShopItem_Food_Hotdog_02,'Jumbo Hotdog'
+ShopItem_Food_Hotdog_03,'Mac Cheese and Bacon Hotdog'
+ShopItem_Food_Hotdog_04,'Chilli Hotdog'
+ShopItem_Food_IceCream_01,'Moon Dust Vanilla Ice Cream'
+ShopItem_Food_IceCream_02,'Solar Flare Strawberry Ice Cream'
+ShopItem_Food_IceCream_03,'Comet Tail Bubblegum Ice Cream'
+ShopItem_Food_IceCream_04,'Green Goo Mint Ice Cream'
+ShopItem_Food_Mexican_01,'Taco'
+ShopItem_Food_Mexican_02,'Taco Grande'
+ShopItem_Food_PizzaSlice_01,'Margherita Pizza Slice'
+ShopItem_Food_PizzaSlice_02,'Pepperoni Pizza Slice'
+ShopItem_Food_PizzaSlice_03,'Hawaiian Pizza Slice'
+ShopItem_Food_PizzaSlice_04,'Four Cheese Pizza Slice'
+ShopItem_Generic,'Price'
+ShopItem_Hat_04,'Sci-Fi Helmet'
+ShopItem_Hat_05,'Cowboy Hat'
+ShopItem_Hat_06,'Archer Hat'
+ShopItem_Hat_Baseball,'Baseball Cap'
+ShopItem_Hat_Crown,'Crown'
+ShopItem_Hat_Elf,'Elf Hat'
+ShopItem_Hat_Gold,'Golden Hat'
+ShopItem_Hat_GoldHelmet,'Golden Helmet'
+ShopItem_Hat_Pirate,'Pirate Hat'
+ShopItem_Hat_Reindeer,'Reindeer Hat'
+ShopItem_Misc_DrinkLitter,'Litter'
+ShopItem_Misc_FirstAidKit,'First Aid'
+ShopItem_Misc_FoodLitter,'Litter'
+ShopItem_Misc_PriorityPass,'Priority Pass'
+ShopItem_Misc_Toilet,'A moment's peace'
+ShopItem_Souvenir_01,'Snowglobe'
+ShopItem_Souvenir_02,'Crystal Ball'
+ShopItem_Souvenir_03,'Sci-Fi Radio'

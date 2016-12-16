@@ -1,3 +1,3 @@
 key,translation
-DATE,{Day:int} {Month}, Yr {Year:int}
-DATE_AND_TIME,{Date} {Time}
+DATE,'{Day:int} {Month}, Yr {Year:int}'
+DATE_AND_TIME,'{Date} {Time}'

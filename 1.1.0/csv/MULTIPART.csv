@@ -1,23 +1,23 @@
 key,translation
-MULTIPART_Adult,Adult
-MULTIPART_Category_Accessories,Accessories
-MULTIPART_Category_Beards,Facial Hair
-MULTIPART_Category_Bodies,Bodies
-MULTIPART_Category_Hair,Hair
-MULTIPART_Category_Hats,Hats
-MULTIPART_Category_Heads,Heads
-MULTIPART_Category_Legs,Legs
-MULTIPART_Category_Skin,Skin
-MULTIPART_Child,Child
-MULTIPART_Female,Female
-MULTIPART_Group_AF,[MULTIPART_Adult] [MULTIPART_Female]
-MULTIPART_Group_AM,[MULTIPART_Adult] [MULTIPART_Male]
-MULTIPART_Group_CF,[MULTIPART_Child] [MULTIPART_Female]
-MULTIPART_Group_CM,[MULTIPART_Child] [MULTIPART_Male]
-MULTIPART_Group_TF,[MULTIPART_Teen] [MULTIPART_Female]
-MULTIPART_Group_TM,[MULTIPART_Teen] [MULTIPART_Male]
-MULTIPART_Male,Male
-MULTIPART_Model_None,None
-MULTIPART_Teen,Teen
-MULTIPART_Variant_Large,Large
-MULTIPART_Variant_Regular,Slim
+MULTIPART_Adult,'Adult'
+MULTIPART_Category_Accessories,'Accessories'
+MULTIPART_Category_Beards,'Facial Hair'
+MULTIPART_Category_Bodies,'Bodies'
+MULTIPART_Category_Hair,'Hair'
+MULTIPART_Category_Hats,'Hats'
+MULTIPART_Category_Heads,'Heads'
+MULTIPART_Category_Legs,'Legs'
+MULTIPART_Category_Skin,'Skin'
+MULTIPART_Child,'Child'
+MULTIPART_Female,'Female'
+MULTIPART_Group_AF,'[MULTIPART_Adult] [MULTIPART_Female]'
+MULTIPART_Group_AM,'[MULTIPART_Adult] [MULTIPART_Male]'
+MULTIPART_Group_CF,'[MULTIPART_Child] [MULTIPART_Female]'
+MULTIPART_Group_CM,'[MULTIPART_Child] [MULTIPART_Male]'
+MULTIPART_Group_TF,'[MULTIPART_Teen] [MULTIPART_Female]'
+MULTIPART_Group_TM,'[MULTIPART_Teen] [MULTIPART_Male]'
+MULTIPART_Male,'Male'
+MULTIPART_Model_None,'None'
+MULTIPART_Teen,'Teen'
+MULTIPART_Variant_Large,'Large'
+MULTIPART_Variant_Regular,'Slim'
