@@ -13553,41 +13553,41 @@
     <entry key="LoadingScreen_Tooltip_9" translation="Use Decorations to make your buildings more attractive"/>
     <entry key="LoadingScreen_Tooltip_Text" translation="{Text}"/>
     <entry key="Low" translation="Low"/>
-    <entry key="MainMenu_Build" translation="Build"/>
-    <entry key="MainMenu_Build_Coasters" translation="Coasters"/>
-    <entry key="MainMenu_Build_Facilities" translation="Facilities"/>
-    <entry key="MainMenu_Build_FlatRides" translation="Flat Rides"/>
-    <entry key="MainMenu_Build_Paths" translation="Paths"/>
-    <entry key="MainMenu_Build_Rides" translation="Rides"/>
-    <entry key="MainMenu_Build_Scenery" translation="Scenery"/>
-    <entry key="MainMenu_Build_Scenery_Development" translation="Development"/>
-    <entry key="MainMenu_Build_Scenery_Modular" translation="Modular"/>
-    <entry key="MainMenu_Build_Scenery_Nature" translation="Nature"/>
-    <entry key="MainMenu_Build_Scenery_Props" translation="Props"/>
-    <entry key="MainMenu_Build_Scenery_Standalone" translation="Standalone"/>
+    <entry key="MainMenu_Build" translation="Buduj"/>
+    <entry key="MainMenu_Build_Coasters" translation="Kolejki górskie"/>
+    <entry key="MainMenu_Build_Facilities" translation="Udogodnienia"/>
+    <entry key="MainMenu_Build_FlatRides" translation="Płaskie przejażdżki"/>
+    <entry key="MainMenu_Build_Paths" translation="Ścieżki"/>
+    <entry key="MainMenu_Build_Rides" translation="Przejażdżki"/>
+    <entry key="MainMenu_Build_Scenery" translation="Sceneria"/>
+    <entry key="MainMenu_Build_Scenery_Development" translation="Rozwój"/>
+    <entry key="MainMenu_Build_Scenery_Modular" translation="Modularne"/>
+    <entry key="MainMenu_Build_Scenery_Nature" translation="Natura"/>
+    <entry key="MainMenu_Build_Scenery_Props" translation="Rekwizyty"/>
+    <entry key="MainMenu_Build_Scenery_Standalone" translation="Samodzielne"/>
     <entry key="MainMenu_Build_Scenery_Test" translation="Test"/>
-    <entry key="MainMenu_Build_Scenery_WallDecorations" translation="Wall Decorations"/>
-    <entry key="MainMenu_Build_Terrain" translation="Terrain"/>
-    <entry key="MainMenu_Confirm_Confirm" translation="Confirm"/>
-    <entry key="MainMenu_Confirm_Header" translation="Keep these changes?"/>
-    <entry key="MainMenu_Confirm_Label" translation="Reverting in {Value:int}..."/>
-    <entry key="MainMenu_Confirm_Revert" translation="Revert"/>
-    <entry key="MainMenu_Manage" translation="Manage"/>
-    <entry key="MainMenu_Manage_Finance" translation="Finance"/>
-    <entry key="MainMenu_Manage_Guests" translation="Guests"/>
-    <entry key="MainMenu_Manage_Staff" translation="Staff"/>
+    <entry key="MainMenu_Build_Scenery_WallDecorations" translation="Dekoracje murów"/>
+    <entry key="MainMenu_Build_Terrain" translation="Teren"/>
+    <entry key="MainMenu_Confirm_Confirm" translation="Potwierdź"/>
+    <entry key="MainMenu_Confirm_Header" translation="Zachować te zmiany?"/>
+    <entry key="MainMenu_Confirm_Label" translation="Przywrócenie za {Value:int}..."/>
+    <entry key="MainMenu_Confirm_Revert" translation="Przywróć"/>
+    <entry key="MainMenu_Manage" translation="Zarządzaj"/>
+    <entry key="MainMenu_Manage_Finance" translation="Finanse"/>
+    <entry key="MainMenu_Manage_Guests" translation="Goście"/>
+    <entry key="MainMenu_Manage_Staff" translation="Pracownicy"/>
     <entry key="MainMenu_Menu" translation="Menu"/>
-    <entry key="MainMenu_Menu_Load" translation="Load Park"/>
-    <entry key="MainMenu_Menu_Quit" translation="Quit Planet Coaster"/>
-    <entry key="MainMenu_Menu_Quit_ConfirmHeader" translation="Quit Planet Coaster"/>
-    <entry key="MainMenu_Menu_Quit_ConfirmLabel" translation="Quit Planet Coaster?  You will lose any unsaved changes."/>
-    <entry key="MainMenu_Menu_QuitPark_ConfirmCancel" translation="Cancel"/>
+    <entry key="MainMenu_Menu_Load" translation="Załaduj park"/>
+    <entry key="MainMenu_Menu_Quit" translation="Wyjdź z Planet Coaster"/>
+    <entry key="MainMenu_Menu_Quit_ConfirmHeader" translation="Wyjdź z Planet Coaster"/>
+    <entry key="MainMenu_Menu_Quit_ConfirmLabel" translation="Wyjść z Planet Coaster?  Stracisz wszystkie niezapisane zmiany."/>
+    <entry key="MainMenu_Menu_QuitPark_ConfirmCancel" translation="Anuluj"/>
     <entry key="MainMenu_Menu_QuitPark_ConfirmOK" translation="OK"/>
-    <entry key="MainMenu_Menu_Return_To_StartScreen" translation="Exit to Main Menu"/>
-    <entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmHeader" translation="Exit to Main Menu"/>
-    <entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmLabel" translation="Exit to Main Menu?  You will lose any unsaved changes."/>
-    <entry key="MainMenu_Menu_Save" translation="Save Park"/>
-    <entry key="MainMenu_Settings" translation="Settings"/>
+    <entry key="MainMenu_Menu_Return_To_StartScreen" translation="Wyjdź do głównego menu"/>
+    <entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmHeader" translation="Wyjdź do głównego menu"/>
+    <entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmLabel" translation="Wyjść do głównego menu?  Stracisz wszystkie niezapisane zmiany."/>
+    <entry key="MainMenu_Menu_Save" translation="Zapisz park"/>
+    <entry key="MainMenu_Settings" translation="Ustawienia"/>
     <entry key="MalformedPathPart" translation="Malformed Path Part"/>
     <entry key="Marketing_HighImpact_Adult_Info" translation="High impact marketing.&#10;Attracts lots of adult groups."/>
     <entry key="Marketing_HighImpact_Adult_Name" translation="TV Commercials: Late-Night Talk Show"/>
