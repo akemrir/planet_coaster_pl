@@ -1,4 +1,5 @@
-key,translationTrackElementTool_BarghestChainLiftBot,<font color='accent'>Chain Lift Start</font>
+key,translation
+TrackElementTool_BarghestChainLiftBot,<font color='accent'>Chain Lift Start</font>
 Pulls trains up an incline.
 
 EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.

@@ -1,4 +1,5 @@
-key,translationBuild_Widgets_Cancel,Cancel (Esc)
+key,translation
+Build_Widgets_Cancel,Cancel (Esc)
 Build_Widgets_Confirm,Build/Buy
 Build_Widgets_Duplicate,Duplicate
 Build_Widgets_Exit,Exit Advanced Move

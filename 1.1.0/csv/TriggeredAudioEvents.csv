@@ -1,4 +1,5 @@
-key,translationTriggeredAudioEvents_Event_Default_Triggered_Audio_Event,Silent
+key,translation
+TriggeredAudioEvents_Event_Default_Triggered_Audio_Event,Silent
 TriggeredAudioEvents_Events,Triggered Audio Event
 TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_01,Alarm 1
 TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_02,Alarm 2

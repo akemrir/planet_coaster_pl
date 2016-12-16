@@ -1,4 +1,5 @@
-key,translationStation_Type_station_leftleft,Station with left entry and left exit
+key,translation
+Station_Type_station_leftleft,Station with left entry and left exit
 Station_Type_station_LeftRight,Station with left entry and right exit
 Station_Type_station_log_leftleft,Station with left entry and left exit
 Station_Type_station_log_LeftRight,Station with left entry and right exit

@@ -1,3 +1,4 @@
-key,translationEXPLICITLY_POSITIVE_COST,+{Value:currency}
+key,translation
+EXPLICITLY_POSITIVE_COST,+{Value:currency}
 EXPLICITLY_POSITIVE_INT_VALUE,+{Value:int}
 EXPLICITLY_POSITIVE_PERCENTAGE,+{Value:float:decimalPlaces=0}%

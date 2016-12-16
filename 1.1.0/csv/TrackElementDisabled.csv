@@ -1,4 +1,5 @@
-key,translationTrackElementDisabled_CannotPlace,Cannot place here.
+key,translation
+TrackElementDisabled_CannotPlace,Cannot place here.
 TrackElementDisabled_CannotPlaceOnBanked,Can only be placed on unbanked track.
 TrackElementDisabled_CannotPlaceOnBankedOrSloped,Can only be placed on flat and unbanked track.
 TrackElementDisabled_CannotPlaceOnCurvedOrBanked,Can only be placed on straight and unbanked track.

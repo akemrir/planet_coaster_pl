@@ -1,1 +1,2 @@
-key,translationFEET_PER_SEC,{Value:float:decimalPlaces=0} ft/s
+key,translation
+FEET_PER_SEC,{Value:float:decimalPlaces=0} ft/s

@@ -1,1 +1,2 @@
-key,translationTIME,{Hours:int}:{Minutes:int:minDigits=2}
+key,translation
+TIME,{Hours:int}:{Minutes:int:minDigits=2}

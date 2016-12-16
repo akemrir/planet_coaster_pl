@@ -1,1 +1,2 @@
-key,translationVALUE,{Value:float:decimalPlaces=0}
+key,translation
+VALUE,{Value:float:decimalPlaces=0}

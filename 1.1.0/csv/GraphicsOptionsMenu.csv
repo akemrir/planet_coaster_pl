@@ -1,4 +1,5 @@
-key,translationGraphicsOptionsMenu_Adapter,Adapter
+key,translation
+GraphicsOptionsMenu_Adapter,Adapter
 GraphicsOptionsMenu_AdapterOption,{ADAPTER}
 GraphicsOptionsMenu_AO,Ambient Occlusion
 GraphicsOptionsMenu_AO_Q1,Off

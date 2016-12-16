@@ -1,4 +1,5 @@
-key,translationGuestName_Default,{Forename} {Surname}
+key,translation
+GuestName_Default,{Forename} {Surname}
 GuestName_Forename_Female_00001,Abbie
 GuestName_Forename_Female_00002,Abby
 GuestName_Forename_Female_00003,Abigail

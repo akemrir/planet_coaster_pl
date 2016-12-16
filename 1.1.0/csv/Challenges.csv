@@ -1,4 +1,5 @@
-key,translationChallenges_BuildCoaster_AverageSpeed,Build a Coaster with an Average Speed of at least {Target}
+key,translation
+Challenges_BuildCoaster_AverageSpeed,Build a Coaster with an Average Speed of at least {Target}
 Challenges_BuildCoaster_CycleTime,Build a Coaster that lasts at least {Target:float:decimalPlaces=0} seconds
 Challenges_BuildCoaster_Excitement,Build a Coaster with at least {Target:float:decimalPlaces=1} Excitement
 Challenges_BuildCoaster_Label,Coaster Challenge

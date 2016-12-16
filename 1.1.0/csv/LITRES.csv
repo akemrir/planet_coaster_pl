@@ -1,1 +1,2 @@
-key,translationLITRES,{Value:float:decimalPlaces=0} litres
+key,translation
+LITRES,{Value:float:decimalPlaces=0} litres

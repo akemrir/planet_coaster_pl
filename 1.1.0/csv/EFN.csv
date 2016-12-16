@@ -1,2 +1,3 @@
-key,translationEFN,{Value:float:decimalPlaces=2}
+key,translation
+EFN,{Value:float:decimalPlaces=2}
 EFN_LABEL,{Name} {Value:float:decimalPlaces=2}

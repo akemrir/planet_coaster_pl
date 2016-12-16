@@ -1,2 +1,3 @@
-key,translationMETER_PER_SEC,{Value:float:decimalPlaces=0} m/s
+key,translation
+METER_PER_SEC,{Value:float:decimalPlaces=0} m/s
 METER_PER_SEC_SQUARED,{Value:float:decimalPlaces=0} m/s&amp;#178;

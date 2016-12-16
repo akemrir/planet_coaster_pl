@@ -1,1 +1,2 @@
-key,translationDURATION,{Value:float:decimalPlaces=1} s
+key,translation
+DURATION,{Value:float:decimalPlaces=1} s

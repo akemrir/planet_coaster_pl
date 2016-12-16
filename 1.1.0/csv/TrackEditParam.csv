@@ -1,4 +1,5 @@
-key,translationTrackEditParam_BankingRangeDegrees,Banking Range Degrees
+key,translation
+TrackEditParam_BankingRangeDegrees,Banking Range Degrees
 TrackEditParam_BankPivotRange,Banking Offset
 TrackEditParam_BlockBrakeMinSpeed,Brake Target Speed
 TrackEditParam_BlockSectionMaxSpeed,Target Speed

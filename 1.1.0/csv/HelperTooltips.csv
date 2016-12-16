@@ -1,4 +1,5 @@
-key,translationHelperTooltips_ActiveGroup,Editing {NAME}
+key,translation
+HelperTooltips_ActiveGroup,Editing {NAME}
 HelperTooltips_AddToGroup,Add To {NAME}
 HelperTooltips_AllowOverlapping,Allow overlapping
 HelperTooltips_ChangeGroup,Edit {NAME}

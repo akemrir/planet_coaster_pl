@@ -1,4 +1,5 @@
-key,translationGuests_PlayerDefinedName,{GUESTNAME}
+key,translation
+Guests_PlayerDefinedName,{GUESTNAME}
 Guests_Status_Bench,Finding A Bench
 Guests_Status_Bin,Finding a bin
 Guests_Status_EnterPark,Arriving

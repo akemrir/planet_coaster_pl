@@ -1,4 +1,5 @@
-key,translationNotification_ChallengeAvailable,Challenge available
+key,translation
+Notification_ChallengeAvailable,Challenge available
 Notification_ChallengeAvailableStacked,Multiple Challenges available
 Notification_ChallengeButton,View Challenges
 Notification_ChallengeCompleted,Challenge complete

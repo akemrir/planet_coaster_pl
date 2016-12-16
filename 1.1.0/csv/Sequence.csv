@@ -1,4 +1,5 @@
-key,translationSequence_Forge_BigDrop,Big Drop
+key,translation
+Sequence_Forge_BigDrop,Big Drop
 Sequence_Forge_CentrifugeBottom,Spin Fast Bottom
 Sequence_Forge_CentrifugeTop,Spin Fast Top
 Sequence_Forge_FakeOut,Fakeout Drop

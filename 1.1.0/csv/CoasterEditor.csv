@@ -1,4 +1,5 @@
-key,translationCoasterEditor_AttachedAndRotateCamera,Attach and Rotate
+key,translation
+CoasterEditor_AttachedAndRotateCamera,Attach and Rotate
 CoasterEditor_AttachedCamera,Attach
 CoasterEditor_AttachedGizmoCamera,Dynamic
 CoasterEditor_AttachedRotateGizmoCamera,Dynamic and Rotate

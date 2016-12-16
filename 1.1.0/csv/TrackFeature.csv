@@ -1,4 +1,5 @@
-key,translationTrackFeature_CableLift,- Cable Lift
+key,translation
+TrackFeature_CableLift,- Cable Lift
 TrackFeature_CanInvert,- Can Invert
 TrackFeature_CannotInvert,- Cannot Invert
 TrackFeature_CanPartiallyInvert,- Can Partially Invert

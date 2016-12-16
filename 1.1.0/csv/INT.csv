@@ -1,1 +1,2 @@
-key,translationINT_VALUE,{Value:int}
+key,translation
+INT_VALUE,{Value:int}

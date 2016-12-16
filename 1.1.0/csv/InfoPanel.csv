@@ -1,4 +1,5 @@
-key,translationInfoPanel_Close,X
+key,translation
+InfoPanel_Close,X
 InfoPanel_Date_PrestigeStateTooltip,Ride Reputation
 This reflects the age and popularity of a ride
 It decreases as a ride gets older and affects the Ride Prestige

@@ -1,4 +1,5 @@
-key,translationCOST,{Value:currency}
+key,translation
+COST,{Value:currency}
 COST_HINT_TEXT,$ -
 COST_PER_DAY,{Value:currency} per day
 COST_PER_MONTH,{Value:currency} per month

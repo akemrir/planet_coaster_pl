@@ -1,4 +1,5 @@
-key,translationPathEdit_AngleSnap,Angle Snap
+key,translation
+PathEdit_AngleSnap,Angle Snap
 PathEdit_Build,Build
 PathEdit_Camera,Camera
 PathEdit_CurvedElevated,Curved Slopes

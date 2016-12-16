@@ -1,4 +1,5 @@
-key,translationGlobalToolBox_Title,Tools
+key,translation
+GlobalToolBox_Title,Tools
 GlobalToolBox_ToolTip_ColorPicker,Open Colourpicker
 GlobalToolBox_ToolTip_Copy,Copy selection
 GlobalToolBox_ToolTip_Delete,Delete selection
