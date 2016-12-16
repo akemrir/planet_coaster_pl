@@ -1,4 +1,3 @@
-key,translation
 InfoPanel_Close,'X'
 InfoPanel_Date_PrestigeStateTooltip,'Ride Reputation<newline>This reflects the age and popularity of a ride<newline>It decreases as a ride gets older and affects the Ride Prestige<newline><newline>(Ride opened on {dateOpened})'
 InfoPanel_Date_PrestigeStateTooltipUnopen,'Ride Reputation<newline>This reflects the age and popularity of a ride<newline>It decreases as a ride gets older and affects the Ride Prestige<newline><newline>(Ride unopened)'

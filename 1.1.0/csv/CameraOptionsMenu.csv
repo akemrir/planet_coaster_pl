@@ -1,4 +1,3 @@
-key,translation
 CameraOptionsMenu_EdgePan,'Edge Scrolling'
 CameraOptionsMenu_EdgePanSpeed,'Edge Scroll Speed'
 CameraOptionsMenu_EdgePan_ToolTip,'Moves the camera when the cursor is at the edge of the screen.'

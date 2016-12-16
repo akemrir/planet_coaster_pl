@@ -1,4 +1,3 @@
-key,translation
 TrackElementTool_BarghestChainLiftBot,'<font color='accent'>Chain Lift Start</font><newline>Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
 TrackElementTool_BarghestChainLiftMid,'<font color='accent'>Chain Lift Mid_Section</font><newline>Pulls trains up an incline.<newline><newline>EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride.'
 TrackElementTool_BarghestChainLiftTop01,'<font color='accent'>Overhanging Chain Lift End</font><newline>Pulls a train up and over an incline, holds the train then releases it down an overdive drop.'

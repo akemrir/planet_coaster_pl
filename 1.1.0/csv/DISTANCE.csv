@@ -1,4 +1,3 @@
-key,translation
 DISTANCE_FEET,'{Value:float:decimalPlaces=0} ft'
 DISTANCE_FEET_2DP,'{Value:float:decimalPlaces=2} ft'
 DISTANCE_KM,'{Value:float:decimalPlaces=0} km'

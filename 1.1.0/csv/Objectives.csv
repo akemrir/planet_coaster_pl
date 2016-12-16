@@ -1,4 +1,3 @@
-key,translation
 Objectives_AverageSpeedMax,'An Average Speed of at most {Value}'
 Objectives_AverageSpeedMin,'An Average Speed of at least {Value}'
 Objectives_BuildFlatRides_View,'Build {Value:int} Rides'

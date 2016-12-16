@@ -1,4 +1,3 @@
-key,translation
 GAMEDATE_DAY_MONTH,'{Day:int:minDigits=2} {MonthName}'
 GAMEDATE_DAY_MONTH_YEAR,'{Day:int:minDigits=2} {MonthName}, Year {Year:int}'
 GAMEDATE_MONTH_YEAR,'{MonthName}, Year {Year:int}'
