@@ -13,8 +13,9 @@ http://cdn.gulpeyrex.com/communitytranslations/sourcedata/1.1.0/StringData.xml
 ## TODO
 
 - synchronizacja z 1.1
+- przygotowanie procesu do tworzenia pl.xml
 
-## Stan
+## Stan grup z tłumaczeń
 
 | Sekcja | Stan |
 | --- | --- |
