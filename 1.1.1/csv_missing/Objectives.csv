@@ -1,53 +1,53 @@
-Objectives_AverageSpeedMax,'An Average Speed of at most {Value}'
-Objectives_AverageSpeedMin,'An Average Speed of at least {Value}'
-Objectives_BuildFlatRides_View,'Build {Value:int} Rides'
-Objectives_BuildFlatRides_ViewSingular,'Build a Ride'
-Objectives_BuildRides_View,'Build {Value:int} Rides'
-Objectives_BuildRides_ViewSingular,'Build a Ride'
-Objectives_BuildTrackedRides_View,'Build {Value:int} Coasters'
-Objectives_BuildTrackedRides_ViewSingular,'Build a Coaster'
-Objectives_CashProfitAll_View,'Reach a Monthly Profit of {Value:currency}'
-Objectives_CashProfitCoasters_View,'Reach a Monthly Profit from Coasters of {Value:currency}'
-Objectives_CashProfitOverTimeAll_View,'Sustain a Monthly Profit of {Value:currency} for {Months:int} months'
-Objectives_CashProfitOverTimeCoasters_View,'Sustain a Monthly Profit from Coasters of {Value:currency} for {Months:int} months'
-Objectives_CashProfitOverTimeRides_View,'Sustain a Monthly Profit from Rides of {Value:currency} for {Months:int} months'
-Objectives_CashProfitOverTimeShopsFacilities_View,'Sustain a Monthly Profit from Shops and Facilities of {Value:currency} for {Months:int} months'
-Objectives_CashProfitRides_View,'Reach a Monthly Profit from Rides of {Value:currency}'
-Objectives_CashProfitShopsFacilities_View,'Reach a Monthly Profit from Shops and Facilities of {Value:currency}'
-Objectives_CashTotal_View,'Acquire {Value:currency}'
-Objectives_ClearLoans_View,'Pay off all Loans'
-Objectives_CompanyValue_View,'Achieve a Company Value of {Value:currency}'
-Objectives_CompletedDifficulty1,'Easy objectives complete'
-Objectives_CompletedDifficulty2,'Medium objectives complete'
-Objectives_CompletedDifficulty3,'Hard objectives complete'
-Objectives_CycleTimeMax,'Lasts at most {Value:float:decimalPlaces=0} s'
-Objectives_CycleTimeMin,'Lasts at least {Value:float:decimalPlaces=0} s'
-Objectives_Difficulty1,'Easy'
-Objectives_Difficulty2,'Medium'
-Objectives_Difficulty3,'Hard'
-Objectives_ExcitementMin,'At least {Value:float:decimalPlaces=1} Excitement'
-Objectives_FearMax,'At most {Value:float:decimalPlaces=1} Fear'
-Objectives_FearMin,'At least {Value:float:decimalPlaces=1} Fear'
-Objectives_GuestCount_View,'Attract {Value:int} Guests'
-Objectives_HireStaff_View,'Hire {Value:int} {StaffTypes}'
-Objectives_LengthMax,'At most {Value} long'
-Objectives_LengthMin,'At least {Value} long'
-Objectives_MaxDropMax,'No Drops more than {Value}'
-Objectives_MaxDropMin,'A Biggest Drop of at least {Value}'
-Objectives_MaxSpeedMax,'Doesn't exceed {Value}'
-Objectives_MaxSpeedMin,'Reaches {Value}'
-Objectives_NauseaMax,'At most {Value:float:decimalPlaces=1} Nausea'
-Objectives_NumAirTimeMax,'At most {Value:float:decimalPlaces=0} sections of Air Time'
-Objectives_NumAirTimeMin,'At least {Value:float:decimalPlaces=0} sections of Air Time'
-Objectives_NumInversionsMax,'At most {Value:float:decimalPlaces=0} Inversions'
-Objectives_NumInversionsMin,'At least {Value:float:decimalPlaces=0} Inversions'
-Objectives_ParkRatingAll_View,'Achieve a Park Rating of {Value:int}'
-Objectives_ParkRatingRides_View,'Achieve a Ride Rating of {Value:int}'
-Objectives_ParkRatingScenery_View,'Achieve a Scenery Rating of {Value:int}'
-Objectives_ParkValue_View,'Achieve a Park Value of {Value:currency}'
-Objectives_ResearchPack_View,'Research Pack {Value:int}'
-Objectives_TierName1,'Bronze'
-Objectives_TierName2,'Silver'
-Objectives_TierName3,'Gold'
-Objectives_TotalAirTimeMax,'At most {Value:float:decimalPlaces=0} seconds of Air Time'
-Objectives_TotalAirTimeMin,'At least {Value:float:decimalPlaces=0} seconds of Air Time'
+Objectives_AverageSpeedMax,"An Average Speed of at most {Value}"
+Objectives_AverageSpeedMin,"An Average Speed of at least {Value}"
+Objectives_BuildFlatRides_View,"Build {Value:int} Rides"
+Objectives_BuildFlatRides_ViewSingular,"Build a Ride"
+Objectives_BuildRides_View,"Build {Value:int} Rides"
+Objectives_BuildRides_ViewSingular,"Build a Ride"
+Objectives_BuildTrackedRides_View,"Build {Value:int} Coasters"
+Objectives_BuildTrackedRides_ViewSingular,"Build a Coaster"
+Objectives_CashProfitAll_View,"Reach a Monthly Profit of {Value:currency}"
+Objectives_CashProfitCoasters_View,"Reach a Monthly Profit from Coasters of {Value:currency}"
+Objectives_CashProfitOverTimeAll_View,"Sustain a Monthly Profit of {Value:currency} for {Months:int} months"
+Objectives_CashProfitOverTimeCoasters_View,"Sustain a Monthly Profit from Coasters of {Value:currency} for {Months:int} months"
+Objectives_CashProfitOverTimeRides_View,"Sustain a Monthly Profit from Rides of {Value:currency} for {Months:int} months"
+Objectives_CashProfitOverTimeShopsFacilities_View,"Sustain a Monthly Profit from Shops and Facilities of {Value:currency} for {Months:int} months"
+Objectives_CashProfitRides_View,"Reach a Monthly Profit from Rides of {Value:currency}"
+Objectives_CashProfitShopsFacilities_View,"Reach a Monthly Profit from Shops and Facilities of {Value:currency}"
+Objectives_CashTotal_View,"Acquire {Value:currency}"
+Objectives_ClearLoans_View,"Pay off all Loans"
+Objectives_CompanyValue_View,"Achieve a Company Value of {Value:currency}"
+Objectives_CompletedDifficulty1,"Easy objectives complete"
+Objectives_CompletedDifficulty2,"Medium objectives complete"
+Objectives_CompletedDifficulty3,"Hard objectives complete"
+Objectives_CycleTimeMax,"Lasts at most {Value:float:decimalPlaces=0} s"
+Objectives_CycleTimeMin,"Lasts at least {Value:float:decimalPlaces=0} s"
+Objectives_Difficulty1,"Easy"
+Objectives_Difficulty2,"Medium"
+Objectives_Difficulty3,"Hard"
+Objectives_ExcitementMin,"At least {Value:float:decimalPlaces=1} Excitement"
+Objectives_FearMax,"At most {Value:float:decimalPlaces=1} Fear"
+Objectives_FearMin,"At least {Value:float:decimalPlaces=1} Fear"
+Objectives_GuestCount_View,"Attract {Value:int} Guests"
+Objectives_HireStaff_View,"Hire {Value:int} {StaffTypes}"
+Objectives_LengthMax,"At most {Value} long"
+Objectives_LengthMin,"At least {Value} long"
+Objectives_MaxDropMax,"No Drops more than {Value}"
+Objectives_MaxDropMin,"A Biggest Drop of at least {Value}"
+Objectives_MaxSpeedMax,"Doesn't exceed {Value}"
+Objectives_MaxSpeedMin,"Reaches {Value}"
+Objectives_NauseaMax,"At most {Value:float:decimalPlaces=1} Nausea"
+Objectives_NumAirTimeMax,"At most {Value:float:decimalPlaces=0} sections of Air Time"
+Objectives_NumAirTimeMin,"At least {Value:float:decimalPlaces=0} sections of Air Time"
+Objectives_NumInversionsMax,"At most {Value:float:decimalPlaces=0} Inversions"
+Objectives_NumInversionsMin,"At least {Value:float:decimalPlaces=0} Inversions"
+Objectives_ParkRatingAll_View,"Achieve a Park Rating of {Value:int}"
+Objectives_ParkRatingRides_View,"Achieve a Ride Rating of {Value:int}"
+Objectives_ParkRatingScenery_View,"Achieve a Scenery Rating of {Value:int}"
+Objectives_ParkValue_View,"Achieve a Park Value of {Value:currency}"
+Objectives_ResearchPack_View,"Research Pack {Value:int}"
+Objectives_TierName1,"Bronze"
+Objectives_TierName2,"Silver"
+Objectives_TierName3,"Gold"
+Objectives_TotalAirTimeMax,"At most {Value:float:decimalPlaces=0} seconds of Air Time"
+Objectives_TotalAirTimeMin,"At least {Value:float:decimalPlaces=0} seconds of Air Time"

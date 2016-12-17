@@ -1,129 +1,129 @@
-ObjectBrowser_AdvancedSettings,'Advanced Settings'
-ObjectBrowser_All,'All'
-ObjectBrowser_Amusements,'Amusements'
-ObjectBrowser_AngleSnap_Tooltip,'Snap rotation to certain angles'
-ObjectBrowser_Ascending,'Ascending'
-ObjectBrowser_Blueprint_Description,'{DESC}'
-ObjectBrowser_Blueprints_AllBlueprints,'All Blueprints'
-ObjectBrowser_Blueprints_DeleteItem,'Delete Blueprint'
-ObjectBrowser_Blueprints_RecentBlueprints,'Recent Blueprints'
-ObjectBrowser_Blueprints_UnsubscribeFromSteam,'Unsubscribe from Workshop item'
-ObjectBrowser_Blueprints_UploadToSteam,'Upload To Steam Workshop'
-ObjectBrowser_Blueprints_ViewOnSteam,'View On Steam Workshop'
-ObjectBrowser_Blueprint_Title,'{NAME}'
-ObjectBrowser_Category_Blueprint,'Blueprint'
-ObjectBrowser_Category_BreadCrumb,'{CATEGORY} -'
-ObjectBrowser_Category_Custom,'Custom'
-ObjectBrowser_Coaster,'Roller Coaster'
-ObjectBrowser_CoasterBlueprint,'Blueprints'
-ObjectBrowser_CoasterCustom,'Custom'
-ObjectBrowser_Coaster_HybridParent,'Hybrid Coasters'
-ObjectBrowser_Coaster_Steel4D,'X-Dimension'
-ObjectBrowser_Coaster_SteelEuro,'Typhoon'
-ObjectBrowser_Coaster_SteelFamily,'Family'
-ObjectBrowser_Coaster_SteelGiga,'Giga'
-ObjectBrowser_Coaster_SteelHyper,'Hypercoaster'
-ObjectBrowser_Coaster_SteelInverted,'Inverted'
-ObjectBrowser_Coaster_SteelMisc,'Other'
-ObjectBrowser_Coaster_SteelParent,'Steel Coasters'
-ObjectBrowser_Coaster_SteelPoweredLaunch,'Launched'
-ObjectBrowser_Coaster_SteelWing,'Wing'
-ObjectBrowser_Coaster_WoodenParent,'Wooden Coasters'
-ObjectBrowser_Descending,'Descending'
-ObjectBrowser_Drink,'Drink Stalls'
-ObjectBrowser_EFN_EmptyLabel,'-'
-ObjectBrowser_EFN_Excitement_ToolTip,'Excitement'
-ObjectBrowser_EFN_Fear_ToolTip,'Fear'
-ObjectBrowser_EFN_Label,'{Value:float:decimalPlaces=2}'
-ObjectBrowser_EFN_Nausea_ToolTip,'Nausea'
-ObjectBrowser_EmptySearch,'Type to Search'
-ObjectBrowser_Excitement,'Excitement'
-ObjectBrowser_Facility,'Facilities'
-ObjectBrowser_Fear,'Fear'
-ObjectBrowser_FilterAccept,'Apply'
-ObjectBrowser_FilterButton,'More Filters'
-ObjectBrowser_FilterButtonOn,'Filter On'
-ObjectBrowser_FilterFairytail,'Fairytale'
-ObjectBrowser_FilterPirate,'Pirate'
-ObjectBrowser_FilterReset,'Reset Filters'
-ObjectBrowser_FilterScifi,'Sci-Fi'
-ObjectBrowser_FilterTags,'Tags'
-ObjectBrowser_FilterTheme,'Scenery Theme'
-ObjectBrowser_FilterTitle,'More Filters'
-ObjectBrowser_FilterWestern,'Western'
-ObjectBrowser_Food,'Food Stalls'
-ObjectBrowser_Gentle,'Gentle Rides'
-ObjectBrowser_Help,'Help'
-ObjectBrowser_HelpLabel_Blueprints,'Subscribe to thousands of blueprints on Steam Workshop!'
-ObjectBrowser_HelpLabel_BuildCoasters,'Select a Coaster Blueprint to place in your park, or build your own from the Custom tab.'
-ObjectBrowser_HelpLabel_Buildings,'Select a Building Blueprint to place in your park, or build your own from pieces in the Custom tab.'
-ObjectBrowser_HelpLabel_BuildTrackedRides,'Select a Track Ride Blueprint to place in your park, or build your own from the Custom tab.'
-ObjectBrowser_HelpLabel_ButtonSteamWorkshop,'Go to Steam Workshop'
-ObjectBrowser_HelpLabel_Coasters,'Select a Coaster Blueprint to place in your park, or build your own from the Custom tab.'
-ObjectBrowser_HelpLabel_ResearchBuildings,'More Scenery is available to research.'
-ObjectBrowser_HelpLabel_ResearchButton,'Start Research'
-ObjectBrowser_HelpLabel_ResearchCoasters,'More Coasters are available to research.'
-ObjectBrowser_HelpLabel_ResearchRides,'More Rides are available to research.'
-ObjectBrowser_HelpLabel_ResearchScenery,'More Scenery is available to research.'
-ObjectBrowser_HelpLabel_ResearchShops,'More Shops and Facilities are available to research.'
-ObjectBrowser_HelpLabel_ResearchTrackedRides,'More Track Rides are available to research.'
-ObjectBrowser_HelpLabel_Rides,'Select a Ride to place in your park.'
-ObjectBrowser_HelpLabel_Scenery,'Select a Scenery Blueprint to place in your park, or place individual objects from the Custom tab.'
-ObjectBrowser_HelpLabel_Shops,'Select a Shop or Facility Blueprint to place in your park, or place one from the Custom tab and build around it using Building pieces.'
-ObjectBrowser_HelpLabel_Staff,'Select a Staff member to place in your park.'
-ObjectBrowser_HelpLabel_TrackedRides,'Select a Track Ride Blueprint to place in your park, or build your own from the Custom tab.'
-ObjectBrowser_Info,'Info'
-ObjectBrowser_InfoItem_Author,'Author'
-ObjectBrowser_InfoItem_Description,'Description'
-ObjectBrowser_Nausea,'Nausea'
-ObjectBrowser_Overview,'Overview'
-ObjectBrowser_Powered,'Powered Rides'
-ObjectBrowser_PriceHigh,'Price High'
-ObjectBrowser_PriceLow,'Price Low'
-ObjectBrowser_Recent,'Recent'
-ObjectBrowser_Scenery_AddToBuilding,'Add To Building'
-ObjectBrowser_Scenery_AddToBuildingHint,'Adds object to existing Building'
-ObjectBrowser_Scenery_AlignSurface,'Align To Surface'
-ObjectBrowser_Scenery_AlignSurfaceHint,'Rotates objects based on the underlying objects and terrain'
-ObjectBrowser_Scenery_AutoStack,'Auto Stacking'
-ObjectBrowser_Scenery_AutoStackHint,'Raises new object to stack on existing grid objects'
-ObjectBrowser_Scenery_FlattenTerrain,'Flatten Terrain'
-ObjectBrowser_Scenery_GridSizeXZ,'Grid Size'
-ObjectBrowser_Scenery_GridSizeXZToolTip,'Advanced control of position'
-ObjectBrowser_Scenery_GridSizeY,'Grid Height'
-ObjectBrowser_Scenery_GridSizeYToolTip,'Advanced control of elevation'
-ObjectBrowser_Scenery_PickGrid,'Grid Reference'
-ObjectBrowser_Scenery_PickGridButton_Off,'Select Grid'
-ObjectBrowser_Scenery_PickGridToolTip,'Click on an existing building piece to set Grid Size and Grid Height'
-ObjectBrowser_Scenery_PickPrompt,'Select an object from this building to use its grid settings.'
-ObjectBrowser_Scenery_RotationSnapSize,'Angle Snap'
-ObjectBrowser_Settings,'Settings'
-ObjectBrowser_SortBy,'Sort By'
-ObjectBrowser_SortBy_Name,'Name'
-ObjectBrowser_Stats,'Stats'
-ObjectBrowser_TestDescription,'A place holder for future informative item descriptions.'
-ObjectBrowser_TestStat,'Grid Size'
-ObjectBrowser_TestTitle,'A lovely Item'
-ObjectBrowser_TestValue,'Actual Size'
-ObjectBrowser_Thrill,'Thrill Rides'
-ObjectBrowser_Tooltip_Filter,'Limit view to specific groups of items.'
-ObjectBrowser_Tooltip_Items,'{ITEM_NAME}<newline>{COST}'
-ObjectBrowser_Tooltip_Items_Advanced,'{ITEM_NAME}<newline>{COST}<newline>{TYPE}'
-ObjectBrowser_Tooltip_Items_Expensive,'{ITEM_NAME}<newline><font color='#FF0000'>{COST}</font>'
-ObjectBrowser_Tooltip_Items_PerMetre,'{ITEM_NAME}<newline>{COST} per metre'
-ObjectBrowser_Tooltip_Offline,'You are offline'
-ObjectBrowser_Tooltip_OldBlueprint,'This blueprint is from an old version and cannot be checked if it has researched parts yet. Consider resaving it in sandbox'
-ObjectBrowser_Tooltip_OldBlueprintSteam,'This blueprint is from an old game version. Resave to upload to Steam.'
-ObjectBrowser_Tooltip_ResearchLocked,'This blueprint contains parts that haven't been researched yet'
-ObjectBrowser_Tooltip_Search,'Search'
-ObjectBrowser_Tooltip_SortBy,'Sort By'
-ObjectBrowser_Tooltip_ViewMode_Big,'View mode grid'
-ObjectBrowser_Tooltip_ViewMode_Small,'View mode small grid'
-ObjectBrowser_Track_MaxBankingAngle,'Max Banking Angle'
-ObjectBrowser_Track_MaxCurveAngle,'Max Turning Angle'
-ObjectBrowser_Track_MaxDropAngle,'Max Drop Angle'
-ObjectBrowser_Track_MaxInclineAngle,'Max Incline Angle'
-ObjectBrowser_Track_MaxTrackHeight,'Max Track Height'
-ObjectBrowser_Transport,'Transport Rides'
-ObjectBrowser_Type,'Type'
-ObjectBrowser_Water,'Water Rides'
+ObjectBrowser_AdvancedSettings,"Advanced Settings"
+ObjectBrowser_All,"All"
+ObjectBrowser_Amusements,"Amusements"
+ObjectBrowser_AngleSnap_Tooltip,"Snap rotation to certain angles"
+ObjectBrowser_Ascending,"Ascending"
+ObjectBrowser_Blueprint_Description,"{DESC}"
+ObjectBrowser_Blueprints_AllBlueprints,"All Blueprints"
+ObjectBrowser_Blueprints_DeleteItem,"Delete Blueprint"
+ObjectBrowser_Blueprints_RecentBlueprints,"Recent Blueprints"
+ObjectBrowser_Blueprints_UnsubscribeFromSteam,"Unsubscribe from Workshop item"
+ObjectBrowser_Blueprints_UploadToSteam,"Upload To Steam Workshop"
+ObjectBrowser_Blueprints_ViewOnSteam,"View On Steam Workshop"
+ObjectBrowser_Blueprint_Title,"{NAME}"
+ObjectBrowser_Category_Blueprint,"Blueprint"
+ObjectBrowser_Category_BreadCrumb,"{CATEGORY} -"
+ObjectBrowser_Category_Custom,"Custom"
+ObjectBrowser_Coaster,"Roller Coaster"
+ObjectBrowser_CoasterBlueprint,"Blueprints"
+ObjectBrowser_CoasterCustom,"Custom"
+ObjectBrowser_Coaster_HybridParent,"Hybrid Coasters"
+ObjectBrowser_Coaster_Steel4D,"X-Dimension"
+ObjectBrowser_Coaster_SteelEuro,"Typhoon"
+ObjectBrowser_Coaster_SteelFamily,"Family"
+ObjectBrowser_Coaster_SteelGiga,"Giga"
+ObjectBrowser_Coaster_SteelHyper,"Hypercoaster"
+ObjectBrowser_Coaster_SteelInverted,"Inverted"
+ObjectBrowser_Coaster_SteelMisc,"Other"
+ObjectBrowser_Coaster_SteelParent,"Steel Coasters"
+ObjectBrowser_Coaster_SteelPoweredLaunch,"Launched"
+ObjectBrowser_Coaster_SteelWing,"Wing"
+ObjectBrowser_Coaster_WoodenParent,"Wooden Coasters"
+ObjectBrowser_Descending,"Descending"
+ObjectBrowser_Drink,"Drink Stalls"
+ObjectBrowser_EFN_EmptyLabel,"-"
+ObjectBrowser_EFN_Excitement_ToolTip,"Excitement"
+ObjectBrowser_EFN_Fear_ToolTip,"Fear"
+ObjectBrowser_EFN_Label,"{Value:float:decimalPlaces=2}"
+ObjectBrowser_EFN_Nausea_ToolTip,"Nausea"
+ObjectBrowser_EmptySearch,"Type to Search"
+ObjectBrowser_Excitement,"Excitement"
+ObjectBrowser_Facility,"Facilities"
+ObjectBrowser_Fear,"Fear"
+ObjectBrowser_FilterAccept,"Apply"
+ObjectBrowser_FilterButton,"More Filters"
+ObjectBrowser_FilterButtonOn,"Filter On"
+ObjectBrowser_FilterFairytail,"Fairytale"
+ObjectBrowser_FilterPirate,"Pirate"
+ObjectBrowser_FilterReset,"Reset Filters"
+ObjectBrowser_FilterScifi,"Sci-Fi"
+ObjectBrowser_FilterTags,"Tags"
+ObjectBrowser_FilterTheme,"Scenery Theme"
+ObjectBrowser_FilterTitle,"More Filters"
+ObjectBrowser_FilterWestern,"Western"
+ObjectBrowser_Food,"Food Stalls"
+ObjectBrowser_Gentle,"Gentle Rides"
+ObjectBrowser_Help,"Help"
+ObjectBrowser_HelpLabel_Blueprints,"Subscribe to thousands of blueprints on Steam Workshop!"
+ObjectBrowser_HelpLabel_BuildCoasters,"Select a Coaster Blueprint to place in your park, or build your own from the Custom tab."
+ObjectBrowser_HelpLabel_Buildings,"Select a Building Blueprint to place in your park, or build your own from pieces in the Custom tab."
+ObjectBrowser_HelpLabel_BuildTrackedRides,"Select a Track Ride Blueprint to place in your park, or build your own from the Custom tab."
+ObjectBrowser_HelpLabel_ButtonSteamWorkshop,"Go to Steam Workshop"
+ObjectBrowser_HelpLabel_Coasters,"Select a Coaster Blueprint to place in your park, or build your own from the Custom tab."
+ObjectBrowser_HelpLabel_ResearchBuildings,"More Scenery is available to research."
+ObjectBrowser_HelpLabel_ResearchButton,"Start Research"
+ObjectBrowser_HelpLabel_ResearchCoasters,"More Coasters are available to research."
+ObjectBrowser_HelpLabel_ResearchRides,"More Rides are available to research."
+ObjectBrowser_HelpLabel_ResearchScenery,"More Scenery is available to research."
+ObjectBrowser_HelpLabel_ResearchShops,"More Shops and Facilities are available to research."
+ObjectBrowser_HelpLabel_ResearchTrackedRides,"More Track Rides are available to research."
+ObjectBrowser_HelpLabel_Rides,"Select a Ride to place in your park."
+ObjectBrowser_HelpLabel_Scenery,"Select a Scenery Blueprint to place in your park, or place individual objects from the Custom tab."
+ObjectBrowser_HelpLabel_Shops,"Select a Shop or Facility Blueprint to place in your park, or place one from the Custom tab and build around it using Building pieces."
+ObjectBrowser_HelpLabel_Staff,"Select a Staff member to place in your park."
+ObjectBrowser_HelpLabel_TrackedRides,"Select a Track Ride Blueprint to place in your park, or build your own from the Custom tab."
+ObjectBrowser_Info,"Info"
+ObjectBrowser_InfoItem_Author,"Author"
+ObjectBrowser_InfoItem_Description,"Description"
+ObjectBrowser_Nausea,"Nausea"
+ObjectBrowser_Overview,"Overview"
+ObjectBrowser_Powered,"Powered Rides"
+ObjectBrowser_PriceHigh,"Price High"
+ObjectBrowser_PriceLow,"Price Low"
+ObjectBrowser_Recent,"Recent"
+ObjectBrowser_Scenery_AddToBuilding,"Add To Building"
+ObjectBrowser_Scenery_AddToBuildingHint,"Adds object to existing Building"
+ObjectBrowser_Scenery_AlignSurface,"Align To Surface"
+ObjectBrowser_Scenery_AlignSurfaceHint,"Rotates objects based on the underlying objects and terrain"
+ObjectBrowser_Scenery_AutoStack,"Auto Stacking"
+ObjectBrowser_Scenery_AutoStackHint,"Raises new object to stack on existing grid objects"
+ObjectBrowser_Scenery_FlattenTerrain,"Flatten Terrain"
+ObjectBrowser_Scenery_GridSizeXZ,"Grid Size"
+ObjectBrowser_Scenery_GridSizeXZToolTip,"Advanced control of position"
+ObjectBrowser_Scenery_GridSizeY,"Grid Height"
+ObjectBrowser_Scenery_GridSizeYToolTip,"Advanced control of elevation"
+ObjectBrowser_Scenery_PickGrid,"Grid Reference"
+ObjectBrowser_Scenery_PickGridButton_Off,"Select Grid"
+ObjectBrowser_Scenery_PickGridToolTip,"Click on an existing building piece to set Grid Size and Grid Height"
+ObjectBrowser_Scenery_PickPrompt,"Select an object from this building to use its grid settings."
+ObjectBrowser_Scenery_RotationSnapSize,"Angle Snap"
+ObjectBrowser_Settings,"Settings"
+ObjectBrowser_SortBy,"Sort By"
+ObjectBrowser_SortBy_Name,"Name"
+ObjectBrowser_Stats,"Stats"
+ObjectBrowser_TestDescription,"A place holder for future informative item descriptions."
+ObjectBrowser_TestStat,"Grid Size"
+ObjectBrowser_TestTitle,"A lovely Item"
+ObjectBrowser_TestValue,"Actual Size"
+ObjectBrowser_Thrill,"Thrill Rides"
+ObjectBrowser_Tooltip_Filter,"Limit view to specific groups of items."
+ObjectBrowser_Tooltip_Items,"{ITEM_NAME}<newline>{COST}"
+ObjectBrowser_Tooltip_Items_Advanced,"{ITEM_NAME}<newline>{COST}<newline>{TYPE}"
+ObjectBrowser_Tooltip_Items_Expensive,"{ITEM_NAME}<newline><font color='#FF0000'>{COST}</font>"
+ObjectBrowser_Tooltip_Items_PerMetre,"{ITEM_NAME}<newline>{COST} per metre"
+ObjectBrowser_Tooltip_Offline,"You are offline"
+ObjectBrowser_Tooltip_OldBlueprint,"This blueprint is from an old version and cannot be checked if it has researched parts yet. Consider resaving it in sandbox"
+ObjectBrowser_Tooltip_OldBlueprintSteam,"This blueprint is from an old game version. Resave to upload to Steam."
+ObjectBrowser_Tooltip_ResearchLocked,"This blueprint contains parts that haven't been researched yet"
+ObjectBrowser_Tooltip_Search,"Search"
+ObjectBrowser_Tooltip_SortBy,"Sort By"
+ObjectBrowser_Tooltip_ViewMode_Big,"View mode grid"
+ObjectBrowser_Tooltip_ViewMode_Small,"View mode small grid"
+ObjectBrowser_Track_MaxBankingAngle,"Max Banking Angle"
+ObjectBrowser_Track_MaxCurveAngle,"Max Turning Angle"
+ObjectBrowser_Track_MaxDropAngle,"Max Drop Angle"
+ObjectBrowser_Track_MaxInclineAngle,"Max Incline Angle"
+ObjectBrowser_Track_MaxTrackHeight,"Max Track Height"
+ObjectBrowser_Transport,"Transport Rides"
+ObjectBrowser_Type,"Type"
+ObjectBrowser_Water,"Water Rides"

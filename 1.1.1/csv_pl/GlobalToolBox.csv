@@ -1,10 +1,10 @@
-GlobalToolBox_Title,'Narzędzia'
-GlobalToolBox_ToolTip_ColorPicker,'Otwórz wybór kolorów'
-GlobalToolBox_ToolTip_Copy,'Kopiuj zaznaczenie'
-GlobalToolBox_ToolTip_Delete,'Usuń zaznaczenie'
-GlobalToolBox_ToolTip_Multiselect_Active,'Wyłącz zaznaczanie wielu'
-GlobalToolBox_ToolTip_Multiselect_Inactive,'Włącz zaznaczanie wielu'
-GlobalToolBox_ToolTip_Paste,'Wklej obiekt'
-GlobalToolBox_ToolTip_Redo,'Ponów ostatnią akcję'
-GlobalToolBox_ToolTip_SaveBlueprint,'Zapisz plan'
-GlobalToolBox_ToolTip_Undo,'Cofnij ostatnią akcję'
+GlobalToolBox_Title,"Narzędzia"
+GlobalToolBox_ToolTip_ColorPicker,"Otwórz wybór kolorów"
+GlobalToolBox_ToolTip_Copy,"Kopiuj zaznaczenie"
+GlobalToolBox_ToolTip_Delete,"Usuń zaznaczenie"
+GlobalToolBox_ToolTip_Multiselect_Active,"Wyłącz zaznaczanie wielu"
+GlobalToolBox_ToolTip_Multiselect_Inactive,"Włącz zaznaczanie wielu"
+GlobalToolBox_ToolTip_Paste,"Wklej obiekt"
+GlobalToolBox_ToolTip_Redo,"Ponów ostatnią akcję"
+GlobalToolBox_ToolTip_SaveBlueprint,"Zapisz plan"
+GlobalToolBox_ToolTip_Undo,"Cofnij ostatnią akcję"

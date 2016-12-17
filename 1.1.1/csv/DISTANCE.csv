@@ -1,8 +1,8 @@
-DISTANCE_FEET,'{Value:float:decimalPlaces=0} ft'
-DISTANCE_FEET_2DP,'{Value:float:decimalPlaces=2} ft'
-DISTANCE_KM,'{Value:float:decimalPlaces=0} km'
-DISTANCE_METERS,'{Value:float:decimalPlaces=0} m'
-DISTANCE_METERS_2DP,'{Value:float:decimalPlaces=2} m'
-DISTANCE_MILES,'{Value:float:decimalPlaces=0} mi'
-DISTANCE_YARDS,'{Value:float:decimalPlaces=0} yd'
-DISTANCE_YARDS_2DP,'{Value:float:decimalPlaces=2} yd'
+DISTANCE_FEET,"{Value:float:decimalPlaces=0} ft"
+DISTANCE_FEET_2DP,"{Value:float:decimalPlaces=2} ft"
+DISTANCE_KM,"{Value:float:decimalPlaces=0} km"
+DISTANCE_METERS,"{Value:float:decimalPlaces=0} m"
+DISTANCE_METERS_2DP,"{Value:float:decimalPlaces=2} m"
+DISTANCE_MILES,"{Value:float:decimalPlaces=0} mi"
+DISTANCE_YARDS,"{Value:float:decimalPlaces=0} yd"
+DISTANCE_YARDS_2DP,"{Value:float:decimalPlaces=2} yd"

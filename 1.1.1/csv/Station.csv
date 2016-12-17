@@ -1,8 +1,0 @@
-Station_Type_station_leftleft,'Station with left entry and left exit'
-Station_Type_station_LeftRight,'Station with left entry and right exit'
-Station_Type_station_log_leftleft,'Station with left entry and left exit'
-Station_Type_station_log_LeftRight,'Station with left entry and right exit'
-Station_Type_station_log_RightLeft,'Station with right entry and left exit'
-Station_Type_station_log_RightRight,'Station with right entry and right exit'
-Station_Type_station_RightLeft,'Station with right entry and left exit'
-Station_Type_station_RightRight,'Station with right entry and right exit'

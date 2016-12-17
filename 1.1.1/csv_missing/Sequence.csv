@@ -1,113 +1,113 @@
-Sequence_Forge_BigDrop,'Big Drop'
-Sequence_Forge_CentrifugeBottom,'Spin Fast Bottom'
-Sequence_Forge_CentrifugeTop,'Spin Fast Top'
-Sequence_Forge_FakeOut,'Fakeout Drop'
-Sequence_Forge_FreeFall,'Inverted Drop'
-Sequence_Forge_ReachSky,'Inverted Spin'
-Sequence_Forge_SpinBottom,'Spin Bottom'
-Sequence_Forge_SpinDive,'Spin Dive'
-Sequence_Forge_SpinTop,'Spin Top'
-Sequence_Forge_TakeFlight,'Slow Rise'
-Sequence_Forge_TumbleFall,'Staged Fall'
-Sequence_FR_360PWR_HalfSwing,'Halfswing'
-Sequence_FR_360PWR_Loop,'Loop'
-Sequence_FR_360PWR_ReverseHalfSwing,'Reverse Half Swing'
-Sequence_FR_360PWR_ReverseLoop,'Reverse Loop'
-Sequence_FR_360PWR_ReverseStall,'Reverse Stall'
-Sequence_FR_360PWR_ReverseStallLoop,'Reverse Stall Loop'
-Sequence_FR_360PWR_Stall,'Stall'
-Sequence_FR_360PWR_StallLoop,'Stall Loop'
-Sequence_FR_BDerby_MainSequence,'Bump Around'
-Sequence_FR_Caro_Spin,'Spin'
-Sequence_FR_Caro_SpinFast,'Spin Fast'
-Sequence_FR_Collider_Loop_Ground,'Clockwise Loop Ground'
-Sequence_FR_Collider_Loop_High,'Clockwise Loop High'
-Sequence_FR_COP_CenterSpin,'Flat Spin'
-Sequence_FR_COP_LeftSpin,'Left Tilt Spin'
-Sequence_FR_COP_RightSpin,'Right Tilt Spin'
-Sequence_FR_COP_RollAroundCCW,'Anticlockwise Tilt Spin'
-Sequence_FR_COP_RollAroundCW,'Clockwise Tilt Spin'
-Sequence_FR_Cube_AllSpin,'All Spin'
-Sequence_FR_Cube_ForwardFlip,'Forward Flip'
-Sequence_FR_Cube_LockedTurnOver,'Locked Turn Over'
-Sequence_FR_Cube_ReverseAllSpin,'Reverse All Spin'
-Sequence_FR_Cube_TurnAround,'Turn Around'
-Sequence_FR_Demonic_BackwardDive,'Backward Dive'
-Sequence_FR_Demonic_BackwardDiveFlip,'Backward Dive Flip'
-Sequence_FR_Demonic_BackwardLoop,'Backward Loop'
-Sequence_FR_Demonic_BigFrontFlips,'Big Front Flips'
-Sequence_FR_Demonic_ForwardDive,'Forward Dive'
-Sequence_FR_Demonic_ForwardDiveFlip,'Forward Dive Flip'
-Sequence_FR_Demonic_ForwardLoop,'Forward Loop'
-Sequence_FR_Demonic_HoldInverted,'Hold Inverted'
-Sequence_FR_Demonic_HoldTop,'Hold Top'
-Sequence_FR_Demonic_InvertedTwist,'Inverted Twist'
-Sequence_FR_Demonic_TiltedLoop,'Tilted Loop'
-Sequence_FR_Demonic_Twist,'Twist'
-Sequence_FR_Demonic_TwistedFlips,'Twisted Flips'
-Sequence_FR_Gondola_Spin,'Spin'
-Sequence_FR_Gondola_SpinFast,'Spin Fast'
-Sequence_FR_Gondola_SpinFastTilt,'Spin Fast Tilt'
-Sequence_FR_Gondola_SpinTilt,'Spin Tilt'
-Sequence_FR_HRing_Loop,'Forward Loop'
-Sequence_FR_HRing_ReverseLoop,'Backward Loop'
-Sequence_FR_HRing_StallSwing,'Stall Swing'
-Sequence_FR_HRing_Swing,'Swing'
-Sequence_FR_HSwing_SwingHigh,'Swing High'
-Sequence_FR_HSwing_SwingLow,'Swing Low'
-Sequence_FR_Insan_DoubleLoop,'Double Loop'
-Sequence_FR_Insan_DoubleReverseLoop,'Reverse Double Loop'
-Sequence_FR_Insan_Loop,'Loop'
-Sequence_FR_Insan_ReverseLoop,'Reverse Loop'
-Sequence_FR_Insan_ReverseStallLoop,'Reverse Stall Loop'
-Sequence_FR_Insan_ReverseSwing,'Reverse Swing'
-Sequence_FR_Insan_StallLoop,'Stall Loop'
-Sequence_FR_Insan_Swing,'Swing'
-Sequence_FR_Kick_BackwardSpin,'Backward Spin'
-Sequence_FR_Kick_BackwardStall,'Backward Stall'
-Sequence_FR_Kick_BackwardSwitch,'Backward Switch'
-Sequence_FR_Kick_ForwardSpin,'Forward Spin'
-Sequence_FR_Kick_ForwardStall,'Forward Stall'
-Sequence_FR_Kick_ForwardSwitch,'Forward Switch'
-Sequence_FR_Looper_BarrelRoll,'Barrel Roll'
-Sequence_FR_Looper_BarrelRoll_Reversed,'Barrel Roll Reversed'
-Sequence_FR_Looper_FastLoop,'Fast Loop'
-Sequence_FR_Looper_FastLoop_Reversed,'Fast Loop Reversed'
-Sequence_FR_Looper_SlowTumble,'Slow Tumble'
-Sequence_FR_Looper_SlowTumble_Reversed,'Slow Tumble Reversed'
-Sequence_FR_Magtrl_Main,'Main Sequence'
-Sequence_FR_Orb_Loop,'Main Sequence'
-Sequence_FR_Overpower_BackwardDive,'Backward Loop'
-Sequence_FR_Overpower_BackwardDiveLocked,'Backward Locked'
-Sequence_FR_Overpower_BackwardSpin,'Backward Intense Flips'
-Sequence_FR_Overpower_BottomHoldSpin,'Forward Dive Flips 2'
-Sequence_FR_Overpower_ForwardDive,'Forward Loop'
-Sequence_FR_Overpower_ForwardDiveLocked,'Forward Locked'
-Sequence_FR_Overpower_ForwardHold,'Forward Dive Flips 1'
-Sequence_FR_Overpower_ForwardHoldLocked,'Forward Hold Locked'
-Sequence_FR_Overpower_ForwardSpin,'Forward Intense Flips'
-Sequence_FR_Overpower_Swing,'Low Swing'
-Sequence_FR_Overpower_TopHoldSpin,'Backward Dive Flips'
-Sequence_FR_Scream_Loop,'Tower Drop'
-Sequence_FR_SFlare_Spin,'Spin High'
-Sequence_FR_SKFR_Main,'Main Sequence'
-Sequence_FR_StarW_Main,'Main Sequence'
-Sequence_FR_Sundial_LoopCCW,'Anticlockwise'
-Sequence_FR_Sundial_LoopCW,'Clockwise'
-Sequence_FR_TAW_Loop,'Anticlockwise'
-Sequence_FR_TAW_Loop_Reversed,'Clockwise'
-Sequence_FR_TeaCups_ClockwiseLoop,'Clockwise'
-Sequence_FR_TeaCups_CounterClockwiseLoop,'Anticlockwise'
-Sequence_FR_TnyFrsWhl_RotCCW,'Anticlockwise'
-Sequence_FR_TnyFrsWhl_RotCW,'Clockwise'
-Sequence_FR_Victory_Swing,'Swing'
-Sequence_FR_WBlue_Loop,'Main Sequence'
-Sequence_Genie_AirGrab,'Stall Spin Middle'
-Sequence_Genie_Drifting,'Drifting Spin'
-Sequence_Genie_RailSlide,'Stall Spin Long'
-Sequence_Genie_StallTurn,'Stall Spin End'
-Sequence_Genie_Standard,'Standard Spin'
-Sequence_MindBender_Loop,'Main Sequence'
-Sequence_Polyp_MegaBounce,'Bounce Sequence'
-Sequence_Polyp_Oscillate,'Wave Sequence'
-Sequence_Polyp_SpinLow,'Spin Sequence'
+Sequence_Forge_BigDrop,"Big Drop"
+Sequence_Forge_CentrifugeBottom,"Spin Fast Bottom"
+Sequence_Forge_CentrifugeTop,"Spin Fast Top"
+Sequence_Forge_FakeOut,"Fakeout Drop"
+Sequence_Forge_FreeFall,"Inverted Drop"
+Sequence_Forge_ReachSky,"Inverted Spin"
+Sequence_Forge_SpinBottom,"Spin Bottom"
+Sequence_Forge_SpinDive,"Spin Dive"
+Sequence_Forge_SpinTop,"Spin Top"
+Sequence_Forge_TakeFlight,"Slow Rise"
+Sequence_Forge_TumbleFall,"Staged Fall"
+Sequence_FR_360PWR_HalfSwing,"Halfswing"
+Sequence_FR_360PWR_Loop,"Loop"
+Sequence_FR_360PWR_ReverseHalfSwing,"Reverse Half Swing"
+Sequence_FR_360PWR_ReverseLoop,"Reverse Loop"
+Sequence_FR_360PWR_ReverseStall,"Reverse Stall"
+Sequence_FR_360PWR_ReverseStallLoop,"Reverse Stall Loop"
+Sequence_FR_360PWR_Stall,"Stall"
+Sequence_FR_360PWR_StallLoop,"Stall Loop"
+Sequence_FR_BDerby_MainSequence,"Bump Around"
+Sequence_FR_Caro_Spin,"Spin"
+Sequence_FR_Caro_SpinFast,"Spin Fast"
+Sequence_FR_Collider_Loop_Ground,"Clockwise Loop Ground"
+Sequence_FR_Collider_Loop_High,"Clockwise Loop High"
+Sequence_FR_COP_CenterSpin,"Flat Spin"
+Sequence_FR_COP_LeftSpin,"Left Tilt Spin"
+Sequence_FR_COP_RightSpin,"Right Tilt Spin"
+Sequence_FR_COP_RollAroundCCW,"Anticlockwise Tilt Spin"
+Sequence_FR_COP_RollAroundCW,"Clockwise Tilt Spin"
+Sequence_FR_Cube_AllSpin,"All Spin"
+Sequence_FR_Cube_ForwardFlip,"Forward Flip"
+Sequence_FR_Cube_LockedTurnOver,"Locked Turn Over"
+Sequence_FR_Cube_ReverseAllSpin,"Reverse All Spin"
+Sequence_FR_Cube_TurnAround,"Turn Around"
+Sequence_FR_Demonic_BackwardDive,"Backward Dive"
+Sequence_FR_Demonic_BackwardDiveFlip,"Backward Dive Flip"
+Sequence_FR_Demonic_BackwardLoop,"Backward Loop"
+Sequence_FR_Demonic_BigFrontFlips,"Big Front Flips"
+Sequence_FR_Demonic_ForwardDive,"Forward Dive"
+Sequence_FR_Demonic_ForwardDiveFlip,"Forward Dive Flip"
+Sequence_FR_Demonic_ForwardLoop,"Forward Loop"
+Sequence_FR_Demonic_HoldInverted,"Hold Inverted"
+Sequence_FR_Demonic_HoldTop,"Hold Top"
+Sequence_FR_Demonic_InvertedTwist,"Inverted Twist"
+Sequence_FR_Demonic_TiltedLoop,"Tilted Loop"
+Sequence_FR_Demonic_Twist,"Twist"
+Sequence_FR_Demonic_TwistedFlips,"Twisted Flips"
+Sequence_FR_Gondola_Spin,"Spin"
+Sequence_FR_Gondola_SpinFast,"Spin Fast"
+Sequence_FR_Gondola_SpinFastTilt,"Spin Fast Tilt"
+Sequence_FR_Gondola_SpinTilt,"Spin Tilt"
+Sequence_FR_HRing_Loop,"Forward Loop"
+Sequence_FR_HRing_ReverseLoop,"Backward Loop"
+Sequence_FR_HRing_StallSwing,"Stall Swing"
+Sequence_FR_HRing_Swing,"Swing"
+Sequence_FR_HSwing_SwingHigh,"Swing High"
+Sequence_FR_HSwing_SwingLow,"Swing Low"
+Sequence_FR_Insan_DoubleLoop,"Double Loop"
+Sequence_FR_Insan_DoubleReverseLoop,"Reverse Double Loop"
+Sequence_FR_Insan_Loop,"Loop"
+Sequence_FR_Insan_ReverseLoop,"Reverse Loop"
+Sequence_FR_Insan_ReverseStallLoop,"Reverse Stall Loop"
+Sequence_FR_Insan_ReverseSwing,"Reverse Swing"
+Sequence_FR_Insan_StallLoop,"Stall Loop"
+Sequence_FR_Insan_Swing,"Swing"
+Sequence_FR_Kick_BackwardSpin,"Backward Spin"
+Sequence_FR_Kick_BackwardStall,"Backward Stall"
+Sequence_FR_Kick_BackwardSwitch,"Backward Switch"
+Sequence_FR_Kick_ForwardSpin,"Forward Spin"
+Sequence_FR_Kick_ForwardStall,"Forward Stall"
+Sequence_FR_Kick_ForwardSwitch,"Forward Switch"
+Sequence_FR_Looper_BarrelRoll,"Barrel Roll"
+Sequence_FR_Looper_BarrelRoll_Reversed,"Barrel Roll Reversed"
+Sequence_FR_Looper_FastLoop,"Fast Loop"
+Sequence_FR_Looper_FastLoop_Reversed,"Fast Loop Reversed"
+Sequence_FR_Looper_SlowTumble,"Slow Tumble"
+Sequence_FR_Looper_SlowTumble_Reversed,"Slow Tumble Reversed"
+Sequence_FR_Magtrl_Main,"Main Sequence"
+Sequence_FR_Orb_Loop,"Main Sequence"
+Sequence_FR_Overpower_BackwardDive,"Backward Loop"
+Sequence_FR_Overpower_BackwardDiveLocked,"Backward Locked"
+Sequence_FR_Overpower_BackwardSpin,"Backward Intense Flips"
+Sequence_FR_Overpower_BottomHoldSpin,"Forward Dive Flips 2"
+Sequence_FR_Overpower_ForwardDive,"Forward Loop"
+Sequence_FR_Overpower_ForwardDiveLocked,"Forward Locked"
+Sequence_FR_Overpower_ForwardHold,"Forward Dive Flips 1"
+Sequence_FR_Overpower_ForwardHoldLocked,"Forward Hold Locked"
+Sequence_FR_Overpower_ForwardSpin,"Forward Intense Flips"
+Sequence_FR_Overpower_Swing,"Low Swing"
+Sequence_FR_Overpower_TopHoldSpin,"Backward Dive Flips"
+Sequence_FR_Scream_Loop,"Tower Drop"
+Sequence_FR_SFlare_Spin,"Spin High"
+Sequence_FR_SKFR_Main,"Main Sequence"
+Sequence_FR_StarW_Main,"Main Sequence"
+Sequence_FR_Sundial_LoopCCW,"Anticlockwise"
+Sequence_FR_Sundial_LoopCW,"Clockwise"
+Sequence_FR_TAW_Loop,"Anticlockwise"
+Sequence_FR_TAW_Loop_Reversed,"Clockwise"
+Sequence_FR_TeaCups_ClockwiseLoop,"Clockwise"
+Sequence_FR_TeaCups_CounterClockwiseLoop,"Anticlockwise"
+Sequence_FR_TnyFrsWhl_RotCCW,"Anticlockwise"
+Sequence_FR_TnyFrsWhl_RotCW,"Clockwise"
+Sequence_FR_Victory_Swing,"Swing"
+Sequence_FR_WBlue_Loop,"Main Sequence"
+Sequence_Genie_AirGrab,"Stall Spin Middle"
+Sequence_Genie_Drifting,"Drifting Spin"
+Sequence_Genie_RailSlide,"Stall Spin Long"
+Sequence_Genie_StallTurn,"Stall Spin End"
+Sequence_Genie_Standard,"Standard Spin"
+Sequence_MindBender_Loop,"Main Sequence"
+Sequence_Polyp_MegaBounce,"Bounce Sequence"
+Sequence_Polyp_Oscillate,"Wave Sequence"
+Sequence_Polyp_SpinLow,"Spin Sequence"

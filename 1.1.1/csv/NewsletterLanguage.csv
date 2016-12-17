@@ -1,28 +1,28 @@
-NewsletterLanguage_ar,'Arabic'
-NewsletterLanguage_bg,'Bulgarian'
-NewsletterLanguage_cs,'Czech'
-NewsletterLanguage_da,'Danish'
-NewsletterLanguage_de,'German'
-NewsletterLanguage_el,'Greek'
-NewsletterLanguage_en,'English'
-NewsletterLanguage_es,'Spanish'
-NewsletterLanguage_fi,'Finnish'
-NewsletterLanguage_fr,'French'
-NewsletterLanguage_hu,'Hungarian'
-NewsletterLanguage_it,'Italian'
-NewsletterLanguage_ja,'Japanese'
-NewsletterLanguage_ko,'Korean'
-NewsletterLanguage_nl,'Dutch'
-NewsletterLanguage_no,'Norwegian'
-NewsletterLanguage_other,'Other'
-NewsletterLanguage_pl,'Polish'
-NewsletterLanguage_pt,'Portuguese'
-NewsletterLanguage_pt-br,'Portuguese Brazil'
-NewsletterLanguage_ro,'Romanian'
-NewsletterLanguage_ru,'Russian'
-NewsletterLanguage_sv,'Swedish'
-NewsletterLanguage_th,'Thai'
-NewsletterLanguage_tr,'Turkish'
-NewsletterLanguage_uk,'Ukrainian'
-NewsletterLanguage_zh-Hans,'Simplified Chinese'
-NewsletterLanguage_zh-Hant,'Traditional Chinese'
+NewsletterLanguage_ar,"Arabic"
+NewsletterLanguage_bg,"Bulgarian"
+NewsletterLanguage_cs,"Czech"
+NewsletterLanguage_da,"Danish"
+NewsletterLanguage_de,"German"
+NewsletterLanguage_el,"Greek"
+NewsletterLanguage_en,"English"
+NewsletterLanguage_es,"Spanish"
+NewsletterLanguage_fi,"Finnish"
+NewsletterLanguage_fr,"French"
+NewsletterLanguage_hu,"Hungarian"
+NewsletterLanguage_it,"Italian"
+NewsletterLanguage_ja,"Japanese"
+NewsletterLanguage_ko,"Korean"
+NewsletterLanguage_nl,"Dutch"
+NewsletterLanguage_no,"Norwegian"
+NewsletterLanguage_other,"Other"
+NewsletterLanguage_pl,"Polish"
+NewsletterLanguage_pt,"Portuguese"
+NewsletterLanguage_pt-br,"Portuguese Brazil"
+NewsletterLanguage_ro,"Romanian"
+NewsletterLanguage_ru,"Russian"
+NewsletterLanguage_sv,"Swedish"
+NewsletterLanguage_th,"Thai"
+NewsletterLanguage_tr,"Turkish"
+NewsletterLanguage_uk,"Ukrainian"
+NewsletterLanguage_zh-Hans,"Simplified Chinese"
+NewsletterLanguage_zh-Hant,"Traditional Chinese"

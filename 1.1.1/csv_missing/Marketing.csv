@@ -1,18 +1,18 @@
-Marketing_HighImpact_Adult_Info,'High impact marketing.<newline>Attracts lots of adult groups.'
-Marketing_HighImpact_Adult_Name,'TV Commercials: Late-Night Talk Show'
-Marketing_HighImpact_Family_Info,'High impact marketing.<newline>Attracts lots of families.'
-Marketing_HighImpact_Family_Name,'TV Commercials: Family Hour'
-Marketing_HighImpact_Teen_Info,'High impact marketing.<newline>Attracts lots of teenagers.'
-Marketing_HighImpact_Teen_Name,'TV Commercials: Comedy Show'
-Marketing_LowImpact_Adult_Info,'Low impact marketing.<newline>Attract more adult groups'
-Marketing_LowImpact_Adult_Name,'Print: Newspaper Adverts'
-Marketing_LowImpact_Family_Info,'Low impact marketing.<newline>Attract more families.'
-Marketing_LowImpact_Family_Name,'Print: Cereal Box Adverts'
-Marketing_LowImpact_Teen_Info,'Low impact marketing.<newline>Attract more groups of teenagers.'
-Marketing_LowImpact_Teen_Name,'Print: Poster Campaign'
-Marketing_Targeted_Adult_Info,'Divisive appeal.<newline>Attracts more adults, but fewer families'
-Marketing_Targeted_Adult_Name,'Online Campaign: Banner Adverts'
-Marketing_Targeted_Family_Info,'Divisive appeal.<newline>Attracts more families, but fewer teenagers'
-Marketing_Targeted_Family_Name,'Online Campaign: Gulpee Videos'
-Marketing_Targeted_Teen_Info,'Divisive appeal.<newline>Attracts more teens, but fewer adults.'
-Marketing_Targeted_Teen_Name,'Online Campaign: Viral Videos'
+Marketing_HighImpact_Adult_Info,"High impact marketing.<newline>Attracts lots of adult groups."
+Marketing_HighImpact_Adult_Name,"TV Commercials: Late-Night Talk Show"
+Marketing_HighImpact_Family_Info,"High impact marketing.<newline>Attracts lots of families."
+Marketing_HighImpact_Family_Name,"TV Commercials: Family Hour"
+Marketing_HighImpact_Teen_Info,"High impact marketing.<newline>Attracts lots of teenagers."
+Marketing_HighImpact_Teen_Name,"TV Commercials: Comedy Show"
+Marketing_LowImpact_Adult_Info,"Low impact marketing.<newline>Attract more adult groups"
+Marketing_LowImpact_Adult_Name,"Print: Newspaper Adverts"
+Marketing_LowImpact_Family_Info,"Low impact marketing.<newline>Attract more families."
+Marketing_LowImpact_Family_Name,"Print: Cereal Box Adverts"
+Marketing_LowImpact_Teen_Info,"Low impact marketing.<newline>Attract more groups of teenagers."
+Marketing_LowImpact_Teen_Name,"Print: Poster Campaign"
+Marketing_Targeted_Adult_Info,"Divisive appeal.<newline>Attracts more adults, but fewer families"
+Marketing_Targeted_Adult_Name,"Online Campaign: Banner Adverts"
+Marketing_Targeted_Family_Info,"Divisive appeal.<newline>Attracts more families, but fewer teenagers"
+Marketing_Targeted_Family_Name,"Online Campaign: Gulpee Videos"
+Marketing_Targeted_Teen_Info,"Divisive appeal.<newline>Attracts more teens, but fewer adults."
+Marketing_Targeted_Teen_Name,"Online Campaign: Viral Videos"

@@ -1,2 +1,2 @@
-EFN,'{Value:float:decimalPlaces=2}'
-EFN_LABEL,'{Name} {Value:float:decimalPlaces=2}'
+EFN,"{Value:float:decimalPlaces=2}"
+EFN_LABEL,"{Name} {Value:float:decimalPlaces=2}"

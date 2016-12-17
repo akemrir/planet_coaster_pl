@@ -1,18 +1,18 @@
-Guests_PlayerDefinedName,'{GUESTNAME}'
-Guests_Status_Bench,'Finding A Bench'
-Guests_Status_Bin,'Finding a bin'
-Guests_Status_EnterPark,'Arriving'
-Guests_Status_GuestDestination_AtBench,'Resting'
-Guests_Status_GuestDestination_AtEntertainer,'Watching'
-Guests_Status_GuestDestination_AtShop,'Visiting'
-Guests_Status_GuestDestination_Exiting,'Exiting'
-Guests_Status_GuestDestination_Lost,'Lost'
-Guests_Status_GuestDestination_Navigating,'Heading to'
-Guests_Status_GuestDestination_OnRide,'Riding'
-Guests_Status_GuestDestination_Queueing,'Queueing for'
-Guests_Status_Idle,'Idling'
-Guests_Status_LeavePark,'Going home'
-Guests_Status_Physics,'Hit By a Coaster Car'
-Guests_Status_Suspended,'Carried around'
-Guests_Status_Trapped,'Trapped'
-Guests_Status_Wander,'Wandering'
+Guests_PlayerDefinedName,"{GUESTNAME}"
+Guests_Status_Bench,"Finding A Bench"
+Guests_Status_Bin,"Finding a bin"
+Guests_Status_EnterPark,"Arriving"
+Guests_Status_GuestDestination_AtBench,"Resting"
+Guests_Status_GuestDestination_AtEntertainer,"Watching"
+Guests_Status_GuestDestination_AtShop,"Visiting"
+Guests_Status_GuestDestination_Exiting,"Exiting"
+Guests_Status_GuestDestination_Lost,"Lost"
+Guests_Status_GuestDestination_Navigating,"Heading to"
+Guests_Status_GuestDestination_OnRide,"Riding"
+Guests_Status_GuestDestination_Queueing,"Queueing for"
+Guests_Status_Idle,"Idling"
+Guests_Status_LeavePark,"Going home"
+Guests_Status_Physics,"Hit By a Coaster Car"
+Guests_Status_Suspended,"Carried around"
+Guests_Status_Trapped,"Trapped"
+Guests_Status_Wander,"Wandering"

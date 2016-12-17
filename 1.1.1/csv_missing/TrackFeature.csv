@@ -1,19 +1,19 @@
-TrackFeature_CableLift,'- Cable Lift'
-TrackFeature_CanInvert,'- Can Invert'
-TrackFeature_CannotInvert,'- Cannot Invert'
-TrackFeature_CanPartiallyInvert,'- Can Partially Invert'
-TrackFeature_ChainLift,'- Chain Lift'
-TrackFeature_CompressedAirLaunch,'- Compressed Air Launch'
-TrackFeature_ConveyerBeltLift,'- Conveyer Belt Lift'
-TrackFeature_ForAdultsAndTeensOnly,'- For Adults and Teens Only'
-TrackFeature_ForEveryone,'- For All Ages'
-TrackFeature_FrictionWheelLift,'- Friction Wheel Lift'
-TrackFeature_HydraulicLaunch,'- Hydraulic Launch'
-TrackFeature_LiftWithCatchCar,'- Lift With Catch Car'
-TrackFeature_LinearInductionMotor,'- Linear Induction Motor'
-TrackFeature_LinearSyncronousMotor,'- Linear Syncronous Motor'
-TrackFeature_PoweredCar,'- Powered Car'
-TrackFeature_PoweredTrain,'- Powered Train'
-TrackFeature_TrackInvertsRidersDont,'- Track Inverts, Riders Don't'
-TrackFeature_VerticalChainLift,'- Vertical Chain Lift'
-TrackFeature_VerticalChainLiftAndLinearSyncronousMotor,'- Vertical Chain Lift and LSM'
+TrackFeature_CableLift,"- Cable Lift"
+TrackFeature_CanInvert,"- Can Invert"
+TrackFeature_CannotInvert,"- Cannot Invert"
+TrackFeature_CanPartiallyInvert,"- Can Partially Invert"
+TrackFeature_ChainLift,"- Chain Lift"
+TrackFeature_CompressedAirLaunch,"- Compressed Air Launch"
+TrackFeature_ConveyerBeltLift,"- Conveyer Belt Lift"
+TrackFeature_ForAdultsAndTeensOnly,"- For Adults and Teens Only"
+TrackFeature_ForEveryone,"- For All Ages"
+TrackFeature_FrictionWheelLift,"- Friction Wheel Lift"
+TrackFeature_HydraulicLaunch,"- Hydraulic Launch"
+TrackFeature_LiftWithCatchCar,"- Lift With Catch Car"
+TrackFeature_LinearInductionMotor,"- Linear Induction Motor"
+TrackFeature_LinearSyncronousMotor,"- Linear Syncronous Motor"
+TrackFeature_PoweredCar,"- Powered Car"
+TrackFeature_PoweredTrain,"- Powered Train"
+TrackFeature_TrackInvertsRidersDont,"- Track Inverts, Riders Don't"
+TrackFeature_VerticalChainLift,"- Vertical Chain Lift"
+TrackFeature_VerticalChainLiftAndLinearSyncronousMotor,"- Vertical Chain Lift and LSM"

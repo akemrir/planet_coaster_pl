@@ -1,90 +1,90 @@
-FR_360PWR,'360 Power'
-FR_360PWR_Desc,'Turn every which way on this ferocious giant pendulum.<newline>Thrill Ride'
-FR_360PWR_Prefix,'360 Power'
-FR_BDerby,'Bumpin Derby'
-FR_BDerby_Desc,'Bash your way to victory on this classic fairground ride!<newline>Gentle Ride'
-FR_BDerby_Prefix,'Bumpin Derby'
-FR_Caro,'Venetian Carousel'
-FR_Caro_Desc,'A traditional Victorian carousel brought back to life.<newline>Gentle Ride'
-FR_Caro_Prefix,'Venetian Carousel'
-FR_Collider,'Collider'
-FR_Collider_Desc,'Defy gravity on this magnificent inverting gondola ride.<newline>Gentle Ride'
-FR_Collider_Prefix,'Collider'
-FR_COP,'Chair-O-Plane'
-FR_COP_Desc,'Join the sky on this traditional suspended carousel.<newline>Gentle Ride'
-FR_COP_Prefix,'Chair-O-Plane'
-FR_Cube,'The Cube'
-FR_Cube_Desc,'Behold the tumbling terror of geometry!<newline>Thrill Ride'
-FR_Cube_Prefix,'The Cube'
-FR_Demonic,'Gears of Fear'
-FR_Demonic_Desc,'Enjoy the machinations of this topsy-turvy top spin.<newline>Thrill Ride'
-FR_Demonic_Prefix,'Gears of Fear'
-FR_Forge,'Forge'
-FR_Forge_Desc,'Spin, rock and drop on this giant jumping machine.<newline>Thrill Ride'
-FR_Forge_Prefix,'Forge'
-FR_Genie,'Genie'
-FR_Genie_Desc,'Enjoy a wild flight with the Genie skater coaster.<newline>Gentle Ride'
-FR_Genie_Prefix,'Genie'
-FR_Gondola,'The Aeronauts'
-FR_Gondola_Desc,'Take in the majesty of the sky in this glorious balloon ride.<newline>Gentle Ride'
-FR_Gondola_Prefix,'The Aeronauts'
-FR_HRing,'Hellion Ring'
-FR_HRing_Desc,'Get ready to riot on this giant looping ride!<newline>Thrill Ride'
-FR_HRing_Prefix,'Hellion Ring'
-FR_HSwing,'Hammer Swing'
-FR_HSwing_Desc,'Scream and swing on this giant pendulum ride!<newline>Thrill Ride'
-FR_HSwing_Prefix,'Hammer Swing'
-FR_Insan,'Insanity'
-FR_Insan_Desc,'Hold onto your seats! This looping hammer ride is escaping reality!<newline>Thrill Ride'
-FR_Insan_Prefix,'Insanity'
-FR_Kick,'Kick-Flip'
-FR_Kick_Desc,'A modern take on a fairground classic.<newline>Thrill Ride'
-FR_Kick_Prefix,'Kick-Flip'
-FR_Looper,'Looper'
-FR_Looper_Desc,'An enormous high speed looping ride that pushes the limits of human endurance!<newline>Thrill Ride'
-FR_Looper_Prefix,'Looper'
-FR_Magtrl,'Magic Twirl'
-FR_Magtrl_Desc,'A bewitching aerial carousel for all the family.<newline>Gentle Ride'
-FR_Magtrl_Prefix,'Magic Twirl'
-FR_MindB,'Psychola'
-FR_MindB_Desc,'This undulating track will roll your body and mind!<newline>Thrill Ride'
-FR_MindB_Prefix,'Psychola'
-FR_Orb,'Radius'
-FR_Orb_Desc,'It's hard to beat the view from this giant hubless observation wheel.<newline>Gentle Ride'
-FR_Orb_Prefix,'Radius'
-FR_Overpower,'Overpower'
-FR_Overpower_Desc,'Guests love this modern theme park staple.<newline>Thrill Ride'
-FR_Overpower_Prefix,'Overpower'
-FR_Polyp,'Rocktopus'
-FR_Polyp_Desc,'This rockin' octopus ride has some wild dance moves.<newline>Gentle Ride'
-FR_Polyp_Prefix,'Rocktopus'
-FR_Scream,'The Screaminator'
-FR_Scream_Desc,'This huge drop tower will leave you breathless.<newline>Thrill Ride'
-FR_Scream_Prefix,'The Screaminator'
-FR_SFlare,'Sun Flare'
-FR_SFlare_Desc,'There's nothing between you and the sky on this towering chair swing.<newline>Thrill Ride'
-FR_SFlare_Prefix,'Sun Flare'
-FR_SKFR,'Sky Ace'
-FR_SKFR_Desc,'Soar into the air and experience acrobatic aeroplane flight.<newline>Thrill Ride'
-FR_SKFR_Prefix,'Sky Ace'
-FR_StarW,'Star Wheel'
-FR_StarW_Desc,'This eccentric Ferris wheel has some swinging surprises in store.<newline>Gentle Ride'
-FR_StarW_Prefix,'Star Wheel'
-FR_Sundial,'Sundial'
-FR_Sundial_Desc,'This giant pendulum will make your stomach drop!<newline>Thrill Ride'
-FR_Sundial_Prefix,'Sundial'
-FR_TAW,'Hyperspin'
-FR_TAW_Desc,'Spin back to the 1920s on this fabulous family ride!<newline>Gentle Ride'
-FR_TAW_Prefix,'Hyperspin'
-FR_TeaCups,'Teacups'
-FR_TeaCups_Desc,'Take a spin on this fairground staple.<newline>Gentle Ride'
-FR_TeaCups_Prefix,'Teacups'
-FR_TnyFrsWhl,'Whirly Rig'
-FR_TnyFrsWhl_Desc,'Enjoy a relaxing journey on this floating ocean Ferris wheel.<newline>Gentle Ride'
-FR_TnyFrsWhl_Prefix,'Whirly Rig'
-FR_Victory,'Victory'
-FR_Victory_Desc,'Plunge into the high seas aboard this swinging ship.<newline>Gentle Ride'
-FR_Victory_Prefix,'Victory'
-FR_WBlue,'Wild Blue'
-FR_WBlue_Desc,'Flip and tumble as the stars of this glorious air show.<newline>Thrill Ride'
-FR_WBlue_Prefix,'Wild Blue'
+FR_360PWR,"360 Power"
+FR_360PWR_Desc,"Turn every which way on this ferocious giant pendulum.<newline>Thrill Ride"
+FR_360PWR_Prefix,"360 Power"
+FR_BDerby,"Bumpin Derby"
+FR_BDerby_Desc,"Bash your way to victory on this classic fairground ride!<newline>Gentle Ride"
+FR_BDerby_Prefix,"Bumpin Derby"
+FR_Caro,"Venetian Carousel"
+FR_Caro_Desc,"A traditional Victorian carousel brought back to life.<newline>Gentle Ride"
+FR_Caro_Prefix,"Venetian Carousel"
+FR_Collider,"Collider"
+FR_Collider_Desc,"Defy gravity on this magnificent inverting gondola ride.<newline>Gentle Ride"
+FR_Collider_Prefix,"Collider"
+FR_COP,"Chair-O-Plane"
+FR_COP_Desc,"Join the sky on this traditional suspended carousel.<newline>Gentle Ride"
+FR_COP_Prefix,"Chair-O-Plane"
+FR_Cube,"The Cube"
+FR_Cube_Desc,"Behold the tumbling terror of geometry!<newline>Thrill Ride"
+FR_Cube_Prefix,"The Cube"
+FR_Demonic,"Gears of Fear"
+FR_Demonic_Desc,"Enjoy the machinations of this topsy-turvy top spin.<newline>Thrill Ride"
+FR_Demonic_Prefix,"Gears of Fear"
+FR_Forge,"Forge"
+FR_Forge_Desc,"Spin, rock and drop on this giant jumping machine.<newline>Thrill Ride"
+FR_Forge_Prefix,"Forge"
+FR_Genie,"Genie"
+FR_Genie_Desc,"Enjoy a wild flight with the Genie skater coaster.<newline>Gentle Ride"
+FR_Genie_Prefix,"Genie"
+FR_Gondola,"The Aeronauts"
+FR_Gondola_Desc,"Take in the majesty of the sky in this glorious balloon ride.<newline>Gentle Ride"
+FR_Gondola_Prefix,"The Aeronauts"
+FR_HRing,"Hellion Ring"
+FR_HRing_Desc,"Get ready to riot on this giant looping ride!<newline>Thrill Ride"
+FR_HRing_Prefix,"Hellion Ring"
+FR_HSwing,"Hammer Swing"
+FR_HSwing_Desc,"Scream and swing on this giant pendulum ride!<newline>Thrill Ride"
+FR_HSwing_Prefix,"Hammer Swing"
+FR_Insan,"Insanity"
+FR_Insan_Desc,"Hold onto your seats! This looping hammer ride is escaping reality!<newline>Thrill Ride"
+FR_Insan_Prefix,"Insanity"
+FR_Kick,"Kick-Flip"
+FR_Kick_Desc,"A modern take on a fairground classic.<newline>Thrill Ride"
+FR_Kick_Prefix,"Kick-Flip"
+FR_Looper,"Looper"
+FR_Looper_Desc,"An enormous high speed looping ride that pushes the limits of human endurance!<newline>Thrill Ride"
+FR_Looper_Prefix,"Looper"
+FR_Magtrl,"Magic Twirl"
+FR_Magtrl_Desc,"A bewitching aerial carousel for all the family.<newline>Gentle Ride"
+FR_Magtrl_Prefix,"Magic Twirl"
+FR_MindB,"Psychola"
+FR_MindB_Desc,"This undulating track will roll your body and mind!<newline>Thrill Ride"
+FR_MindB_Prefix,"Psychola"
+FR_Orb,"Radius"
+FR_Orb_Desc,"It's hard to beat the view from this giant hubless observation wheel.<newline>Gentle Ride"
+FR_Orb_Prefix,"Radius"
+FR_Overpower,"Overpower"
+FR_Overpower_Desc,"Guests love this modern theme park staple.<newline>Thrill Ride"
+FR_Overpower_Prefix,"Overpower"
+FR_Polyp,"Rocktopus"
+FR_Polyp_Desc,"This rockin' octopus ride has some wild dance moves.<newline>Gentle Ride"
+FR_Polyp_Prefix,"Rocktopus"
+FR_Scream,"The Screaminator"
+FR_Scream_Desc,"This huge drop tower will leave you breathless.<newline>Thrill Ride"
+FR_Scream_Prefix,"The Screaminator"
+FR_SFlare,"Sun Flare"
+FR_SFlare_Desc,"There's nothing between you and the sky on this towering chair swing.<newline>Thrill Ride"
+FR_SFlare_Prefix,"Sun Flare"
+FR_SKFR,"Sky Ace"
+FR_SKFR_Desc,"Soar into the air and experience acrobatic aeroplane flight.<newline>Thrill Ride"
+FR_SKFR_Prefix,"Sky Ace"
+FR_StarW,"Star Wheel"
+FR_StarW_Desc,"This eccentric Ferris wheel has some swinging surprises in store.<newline>Gentle Ride"
+FR_StarW_Prefix,"Star Wheel"
+FR_Sundial,"Sundial"
+FR_Sundial_Desc,"This giant pendulum will make your stomach drop!<newline>Thrill Ride"
+FR_Sundial_Prefix,"Sundial"
+FR_TAW,"Hyperspin"
+FR_TAW_Desc,"Spin back to the 1920s on this fabulous family ride!<newline>Gentle Ride"
+FR_TAW_Prefix,"Hyperspin"
+FR_TeaCups,"Teacups"
+FR_TeaCups_Desc,"Take a spin on this fairground staple.<newline>Gentle Ride"
+FR_TeaCups_Prefix,"Teacups"
+FR_TnyFrsWhl,"Whirly Rig"
+FR_TnyFrsWhl_Desc,"Enjoy a relaxing journey on this floating ocean Ferris wheel.<newline>Gentle Ride"
+FR_TnyFrsWhl_Prefix,"Whirly Rig"
+FR_Victory,"Victory"
+FR_Victory_Desc,"Plunge into the high seas aboard this swinging ship.<newline>Gentle Ride"
+FR_Victory_Prefix,"Victory"
+FR_WBlue,"Wild Blue"
+FR_WBlue_Desc,"Flip and tumble as the stars of this glorious air show.<newline>Thrill Ride"
+FR_WBlue_Prefix,"Wild Blue"

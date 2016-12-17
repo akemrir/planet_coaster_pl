@@ -1,97 +1,97 @@
-Notification_ChallengeAvailable,'Challenge available'
-Notification_ChallengeAvailableStacked,'Multiple Challenges available'
-Notification_ChallengeButton,'View Challenges'
-Notification_ChallengeCompleted,'Challenge complete'
-Notification_ChallengeCompletedStacked,'Multiple Challenges complete'
-Notification_EntrancesNotConnectedToSpawn,'The Park Entrance is not accessible from the outside world'
-Notification_GuestsHappiness,'Many guests are very unhappy'
-Notification_GuestsHappinessDropping,'Average Guest Happiness is declining'
-Notification_GuestsHungry,'Many guests are hungry'
-Notification_GuestsThirsty,'Many guests are thirsty'
-Notification_GuestsTired,'Many guests are tired<newline>Make sure there are enough benches'
-Notification_GuestsToiletNeed,'Many guests need the toilet'
-Notification_MarketingButton,'View Marketing'
-Notification_MarketingCampaignCompleted,'Marketing campaign has ended<newline>'{Name}''
-Notification_MarketingCampaignCompletedCantRenew,'Marketing campaign cancelled due to lack of funds<newline>'{Name}''
-Notification_MarketingCampaignCompletedCantRenewStacked,'Multiple marketing campaigns cancelled due to lack of funds'
-Notification_MarketingCampaignCompletedStacked,'Multiple marketing campaigns have ended'
-Notification_ObjectiveButton,'View Objectives'
-Notification_ObjectiveCompleted,'{ObjectiveTier} objective complete:<newline>'{Name}'<newline>Well done!'
-Notification_ObjectiveCompletedStacked,'Multiple Objectives have been completed'
-Notification_OpenNotificationsButton,'Open Notifications'
-Notification_ParkBins,'There are a lot of overflowing bins in the park<newline>Make sure janitors empty them regularly'
-Notification_ParkBreakdowns,'Your park's Breakdown rate is high<newline>Make sure mechanics inspect your rides regularly'
-Notification_ParkLitter,'There is a lot of litter in the park<newline>Make sure there are enough bins'
-Notification_ParkMonthlySummary,'End of month summary:<newline>   Monthly Profit: {ProfitChange}<newline>   Park Rating Change: {RatingChange}'
-Notification_ParkMonthlySummaryStacked,'Multiple monthly summaries available to view'
-Notification_ParkSummaryButton,'View Park Summary'
-Notification_ParkVomit,'There is a lot of vomit in the park<newline>Consider making first aid available'
-Notification_ResearchAvailable,'New research project available'
-Notification_ResearchAvailableStacked,'Multiple new research projects available'
-Notification_ResearchButton,'View Research'
-Notification_ResearchCompleted,'Research project ready to be revealed'
-Notification_ResearchCompletedStacked,'Multiple research projects ready to be revealed'
-Notification_RideBroken,'{Name} has broken down'
-Notification_RideBrokenStacked,'Multiple rides are broken down<newline>Make sure mechanics inspect your rides often'
-Notification_RideButton,'View Ride'
-Notification_RideCrashed,'{Name} has crashed!'
-Notification_RideCrashedStacked,'Multiple rides have crashed!'
-Notification_RideFixed,'{Name} has been fixed'
-Notification_RideFixedStacked,'Multiple rides have been fixed'
-Notification_RideIncomplete,'{Name} is incomplete'
-Notification_RideIncompleteStacked,'Multiple rides are still incomplete'
-Notification_RideLongQueueTime,'Guests think {Name} has a long queue time'
-Notification_RideLongQueueTimeStacked,'Guests think multiple rides have long queue times'
-Notification_RideLongRideTime,'Guests think {Name} has a very long ride time'
-Notification_RideLongRideTimeStacked,'Guests think multiple rides have very long ride times'
-Notification_RideNoAssessment,'{Name} has not been tested'
-Notification_RideNoAssessmentStacked,'Multiple rides have not been tested'
-Notification_RideNoEntrance,'There is no entrance for {Name}'
-Notification_RideNoEntranceStacked,'Multiple rides have no entrance'
-Notification_RideNoExit,'There is no exit for {Name}'
-Notification_RideNoExitStacked,'Multiple rides have no exit'
-Notification_RideNoPathToEntrance,'The entrance of {Name} is not accessible from the Park Entrance'
-Notification_RideNoPathToEntranceStacked,'Multiple rides' entrances are not accessible from the Park Entrance'
-Notification_RideNoPathToExit,'The Park Entrance is not accessible from the exit of {Name}'
-Notification_RideNoPathToExitStacked,'The Park Entrance is not accessible from the exit of multiple rides'
-Notification_RidePrestigeChangedToAging,'{Name} is no longer new, guests will become less interested in this ride over time and won’t pay as much for tickets'
-Notification_RidePrestigeChangedToAgingStacked,'Multiple rides are no longer new, guests will become less interested in them over time and won’t pay as much for tickets '
-Notification_RidePrestigeChangedToClassic,'{Name} has reached Classic status! It’s reputation is higher than ever before '
-Notification_RidePrestigeChangedToClassicStacked,'Multiple rides have reached Classic status! It’s reputation is higher than ever before '
-Notification_RidePrestigeChangedToOld,'{Name} is getting very old<newline>Consider replacing it to attract more guests and ticket sales'
-Notification_RidePrestigeChangedToOldStacked,'Multiple rides are getting very old<newline>Consider replacing them to attract more guests and ticket sales'
-Notification_RidePrestigeChangedToResurging,'{Name} is growing in reputation<newline> Guests will become more interested in these rides over time'
-Notification_RidePrestigeChangedToResurgingStacked,'Multiple rides are is growing in reputation<newline> Guests will become more interested in these rides over time'
-Notification_RideStillBroken,'{Name} is still broken down'
-Notification_RideStillBrokenStacked,'Multiple rides are still broken down'
-Notification_RideTooCheap,'Guests think {Name} is great value'
-Notification_RideTooCheapStacked,'Guests think multiple rides are great value'
-Notification_RideTooExpensive,'Guests think {Name} is too expensive'
-Notification_RideTooExpensiveStacked,'Guests think multiple rides are too expensive'
-Notification_RideTooIntense,'Many guests think {Name} is too scary'
-Notification_RideTooIntenseStacked,'Many guests think multiple rides are too scary'
-Notification_RideWayTooIntense,'Many guests think {Name} is way too scary'
-Notification_RideWayTooIntenseStacked,'Many guests think multiple rides are way too scary!'
-Notification_StaffButton,'View Staff'
-Notification_StaffNoPathTo,'No path to get to staff member {Name} ({StaffType})'
-Notification_StaffNoPathToStacked,'Staff members cannot be reached'
-Notification_StaffQuit,'{Name} ({StaffType}) has quit'
-Notification_StaffQuitStacked,'Multiple staff members have quit'
-Notification_StaffTrappedInPark,'Staff member {Name} ({StaffType}) cannot leave the park'
-Notification_StaffTrappedInParkStacked,'Multiple staff members cannot leave the park'
-Notification_StaffUnhappy,'{Name} ({StaffType}) is unhappy'
-Notification_StaffUnhappyStacked,'Many staff members are unhappy'
-Notification_StaffUnhappyVendors,'A lot of your vendors are unhappy and will be working less efficiently'
-Notification_StaffVendorQuit,'{StaffName} ({StaffType}) has quit. {StallName} has closed'
-Notification_StaffVendorQuitStacked,'Multiple vendors have quit. Their shops have closed'
-Notification_StaffWantsToQuit,'{Name} ({StaffType}) is thinking about quitting'
-Notification_StaffWantsToQuitStacked,'Many staff are thinking about quitting'
-Notification_StallButton,'View Facility'
-Notification_StallNoPathTo,'{Name} is not accessible from the Park Entrance'
-Notification_StallNoPathToStacked,'Multiple shops are not accessible from the Park Entrance'
-Notification_StallTooBusy,'Too many guests are trying to use {Name}'
-Notification_StallTooBusyStacked,'Multiple shops are very busy'
-Notification_StallTooCheap,'Guests think items at {Name} are great value'
-Notification_StallTooCheapStacked,'Guests think multiple shops are great value'
-Notification_StallTooExpensive,'Guests think items at {Name} are too expensive'
-Notification_StallTooExpensiveStacked,'Guests think multiple shops are too expensive'
+Notification_ChallengeAvailable,"Challenge available"
+Notification_ChallengeAvailableStacked,"Multiple Challenges available"
+Notification_ChallengeButton,"View Challenges"
+Notification_ChallengeCompleted,"Challenge complete"
+Notification_ChallengeCompletedStacked,"Multiple Challenges complete"
+Notification_EntrancesNotConnectedToSpawn,"The Park Entrance is not accessible from the outside world"
+Notification_GuestsHappiness,"Many guests are very unhappy"
+Notification_GuestsHappinessDropping,"Average Guest Happiness is declining"
+Notification_GuestsHungry,"Many guests are hungry"
+Notification_GuestsThirsty,"Many guests are thirsty"
+Notification_GuestsTired,"Many guests are tired<newline>Make sure there are enough benches"
+Notification_GuestsToiletNeed,"Many guests need the toilet"
+Notification_MarketingButton,"View Marketing"
+Notification_MarketingCampaignCompleted,"Marketing campaign has ended<newline>'{Name}'"
+Notification_MarketingCampaignCompletedCantRenew,"Marketing campaign cancelled due to lack of funds<newline>'{Name}'"
+Notification_MarketingCampaignCompletedCantRenewStacked,"Multiple marketing campaigns cancelled due to lack of funds"
+Notification_MarketingCampaignCompletedStacked,"Multiple marketing campaigns have ended"
+Notification_ObjectiveButton,"View Objectives"
+Notification_ObjectiveCompleted,"{ObjectiveTier} objective complete:<newline>'{Name}'<newline>Well done!"
+Notification_ObjectiveCompletedStacked,"Multiple Objectives have been completed"
+Notification_OpenNotificationsButton,"Open Notifications"
+Notification_ParkBins,"There are a lot of overflowing bins in the park<newline>Make sure janitors empty them regularly"
+Notification_ParkBreakdowns,"Your park's Breakdown rate is high<newline>Make sure mechanics inspect your rides regularly"
+Notification_ParkLitter,"There is a lot of litter in the park<newline>Make sure there are enough bins"
+Notification_ParkMonthlySummary,"End of month summary:<newline>   Monthly Profit: {ProfitChange}<newline>   Park Rating Change: {RatingChange}"
+Notification_ParkMonthlySummaryStacked,"Multiple monthly summaries available to view"
+Notification_ParkSummaryButton,"View Park Summary"
+Notification_ParkVomit,"There is a lot of vomit in the park<newline>Consider making first aid available"
+Notification_ResearchAvailable,"New research project available"
+Notification_ResearchAvailableStacked,"Multiple new research projects available"
+Notification_ResearchButton,"View Research"
+Notification_ResearchCompleted,"Research project ready to be revealed"
+Notification_ResearchCompletedStacked,"Multiple research projects ready to be revealed"
+Notification_RideBroken,"{Name} has broken down"
+Notification_RideBrokenStacked,"Multiple rides are broken down<newline>Make sure mechanics inspect your rides often"
+Notification_RideButton,"View Ride"
+Notification_RideCrashed,"{Name} has crashed!"
+Notification_RideCrashedStacked,"Multiple rides have crashed!"
+Notification_RideFixed,"{Name} has been fixed"
+Notification_RideFixedStacked,"Multiple rides have been fixed"
+Notification_RideIncomplete,"{Name} is incomplete"
+Notification_RideIncompleteStacked,"Multiple rides are still incomplete"
+Notification_RideLongQueueTime,"Guests think {Name} has a long queue time"
+Notification_RideLongQueueTimeStacked,"Guests think multiple rides have long queue times"
+Notification_RideLongRideTime,"Guests think {Name} has a very long ride time"
+Notification_RideLongRideTimeStacked,"Guests think multiple rides have very long ride times"
+Notification_RideNoAssessment,"{Name} has not been tested"
+Notification_RideNoAssessmentStacked,"Multiple rides have not been tested"
+Notification_RideNoEntrance,"There is no entrance for {Name}"
+Notification_RideNoEntranceStacked,"Multiple rides have no entrance"
+Notification_RideNoExit,"There is no exit for {Name}"
+Notification_RideNoExitStacked,"Multiple rides have no exit"
+Notification_RideNoPathToEntrance,"The entrance of {Name} is not accessible from the Park Entrance"
+Notification_RideNoPathToEntranceStacked,"Multiple rides' entrances are not accessible from the Park Entrance"
+Notification_RideNoPathToExit,"The Park Entrance is not accessible from the exit of {Name}"
+Notification_RideNoPathToExitStacked,"The Park Entrance is not accessible from the exit of multiple rides"
+Notification_RidePrestigeChangedToAging,"{Name} is no longer new, guests will become less interested in this ride over time and won’t pay as much for tickets"
+Notification_RidePrestigeChangedToAgingStacked,"Multiple rides are no longer new, guests will become less interested in them over time and won’t pay as much for tickets "
+Notification_RidePrestigeChangedToClassic,"{Name} has reached Classic status! It’s reputation is higher than ever before "
+Notification_RidePrestigeChangedToClassicStacked,"Multiple rides have reached Classic status! It’s reputation is higher than ever before "
+Notification_RidePrestigeChangedToOld,"{Name} is getting very old<newline>Consider replacing it to attract more guests and ticket sales"
+Notification_RidePrestigeChangedToOldStacked,"Multiple rides are getting very old<newline>Consider replacing them to attract more guests and ticket sales"
+Notification_RidePrestigeChangedToResurging,"{Name} is growing in reputation<newline> Guests will become more interested in these rides over time"
+Notification_RidePrestigeChangedToResurgingStacked,"Multiple rides are is growing in reputation<newline> Guests will become more interested in these rides over time"
+Notification_RideStillBroken,"{Name} is still broken down"
+Notification_RideStillBrokenStacked,"Multiple rides are still broken down"
+Notification_RideTooCheap,"Guests think {Name} is great value"
+Notification_RideTooCheapStacked,"Guests think multiple rides are great value"
+Notification_RideTooExpensive,"Guests think {Name} is too expensive"
+Notification_RideTooExpensiveStacked,"Guests think multiple rides are too expensive"
+Notification_RideTooIntense,"Many guests think {Name} is too scary"
+Notification_RideTooIntenseStacked,"Many guests think multiple rides are too scary"
+Notification_RideWayTooIntense,"Many guests think {Name} is way too scary"
+Notification_RideWayTooIntenseStacked,"Many guests think multiple rides are way too scary!"
+Notification_StaffButton,"View Staff"
+Notification_StaffNoPathTo,"No path to get to staff member {Name} ({StaffType})"
+Notification_StaffNoPathToStacked,"Staff members cannot be reached"
+Notification_StaffQuit,"{Name} ({StaffType}) has quit"
+Notification_StaffQuitStacked,"Multiple staff members have quit"
+Notification_StaffTrappedInPark,"Staff member {Name} ({StaffType}) cannot leave the park"
+Notification_StaffTrappedInParkStacked,"Multiple staff members cannot leave the park"
+Notification_StaffUnhappy,"{Name} ({StaffType}) is unhappy"
+Notification_StaffUnhappyStacked,"Many staff members are unhappy"
+Notification_StaffUnhappyVendors,"A lot of your vendors are unhappy and will be working less efficiently"
+Notification_StaffVendorQuit,"{StaffName} ({StaffType}) has quit. {StallName} has closed"
+Notification_StaffVendorQuitStacked,"Multiple vendors have quit. Their shops have closed"
+Notification_StaffWantsToQuit,"{Name} ({StaffType}) is thinking about quitting"
+Notification_StaffWantsToQuitStacked,"Many staff are thinking about quitting"
+Notification_StallButton,"View Facility"
+Notification_StallNoPathTo,"{Name} is not accessible from the Park Entrance"
+Notification_StallNoPathToStacked,"Multiple shops are not accessible from the Park Entrance"
+Notification_StallTooBusy,"Too many guests are trying to use {Name}"
+Notification_StallTooBusyStacked,"Multiple shops are very busy"
+Notification_StallTooCheap,"Guests think items at {Name} are great value"
+Notification_StallTooCheapStacked,"Guests think multiple shops are great value"
+Notification_StallTooExpensive,"Guests think items at {Name} are too expensive"
+Notification_StallTooExpensiveStacked,"Guests think multiple shops are too expensive"

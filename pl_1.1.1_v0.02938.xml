@@ -14131,252 +14131,252 @@
     <entry key="Obstructed" translation="Zakłócone"/>
     <entry key="Ok" translation="OK"/>
     <entry key="Open" translation="Otwarte"/>
-    <entry key="OptionsMenu_apply" translation="Apply"/>
+    <entry key="OptionsMenu_apply" translation="Aplikuj"/>
     <entry key="OptionsMenu_Audio" translation="Audio"/>
-    <entry key="OptionsMenu_Audio_Mute" translation="Mute"/>
-    <entry key="OptionsMenu_Audio_MuteAllEntry" translation="Mute All"/>
-    <entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Mute GUI Sounds"/>
-    <entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Mute Menu Soundtrack"/>
-    <entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Mute Park Music"/>
-    <entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Mute Sound Effects"/>
-    <entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Mute Shop Radio"/>
-    <entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Mute Game Soundtrack"/>
-    <entry key="OptionsMenu_Audio_ParkMusic" translation="Park Music"/>
-    <entry key="OptionsMenu_Audio_SFX" translation="Sound Effects"/>
-    <entry key="OptionsMenu_Audio_Soundtrack" translation="Soundtrack"/>
-    <entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Play Soundtrack in Pause Mode Only"/>
-    <entry key="OptionsMenu_Audio_Volume" translation="Master Volume"/>
-    <entry key="OptionsMenu_Audio_Volume_Entry" translation="Adjust Volume"/>
-    <entry key="OptionsMenu_back" translation="Back"/>
-    <entry key="OptionsMenu_Camera" translation="Camera"/>
-    <entry key="OptionsMenu_Camera_FieldOfView" translation="FoV"/>
-    <entry key="OptionsMenu_Camera_FixedTilt" translation="Fixed Tilt"/>
-    <entry key="OptionsMenu_Camera_FocusOnCursor" translation="Focus On Cursor"/>
-    <entry key="OptionsMenu_Camera_Forward" translation="Camera forward"/>
-    <entry key="OptionsMenu_Camera_InvertPan" translation="Invert pan"/>
-    <entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Invert swivel pitch"/>
-    <entry key="OptionsMenu_Camera_KeySensitivity" translation="Key Sensitivity"/>
-    <entry key="OptionsMenu_Camera_Left" translation="Camera left"/>
-    <entry key="OptionsMenu_Camera_MouseSensitivity" translation="Mouse Sensitivity"/>
-    <entry key="OptionsMenu_Camera_Pan" translation="Camera pan"/>
-    <entry key="OptionsMenu_Camera_Right" translation="Camera right"/>
-    <entry key="OptionsMenu_Camera_Speed" translation="Camera speed"/>
-    <entry key="OptionsMenu_Camera_Speed_Fast" translation="Fast"/>
-    <entry key="OptionsMenu_Camera_Speed_Medium" translation="Medium"/>
-    <entry key="OptionsMenu_Camera_Speed_Slow" translation="Slow"/>
-    <entry key="OptionsMenu_CameraType" translation="Type"/>
-    <entry key="OptionsMenu_CameraType_Advanced" translation="Advanced"/>
+    <entry key="OptionsMenu_Audio_Mute" translation="Wycisz"/>
+    <entry key="OptionsMenu_Audio_MuteAllEntry" translation="Wycisz wszystko"/>
+    <entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Wycisz dźwięki interfejsu"/>
+    <entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Wycisz ścieżkę dźwiękową menu"/>
+    <entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Wycisz muzykę w parku"/>
+    <entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Wycisz efekty dźwiękowe"/>
+    <entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Wycisz radio w sklepikach"/>
+    <entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Wycisz ścieżkę dźwiękową"/>
+    <entry key="OptionsMenu_Audio_ParkMusic" translation="Muzyka w parku"/>
+    <entry key="OptionsMenu_Audio_SFX" translation="Efekty dźwiękowe"/>
+    <entry key="OptionsMenu_Audio_Soundtrack" translation="Ścieżka dźwiękowa"/>
+    <entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Graj ścieżkę dźwiękową tylko podczas pauzy"/>
+    <entry key="OptionsMenu_Audio_Volume" translation="Główna głośność"/>
+    <entry key="OptionsMenu_Audio_Volume_Entry" translation="Dopasuj głośność"/>
+    <entry key="OptionsMenu_back" translation="Powrót"/>
+    <entry key="OptionsMenu_Camera" translation="Kamera"/>
+    <entry key="OptionsMenu_Camera_FieldOfView" translation="Pole widzenia"/>
+    <entry key="OptionsMenu_Camera_FixedTilt" translation="Ustalone odsunięcie"/>
+    <entry key="OptionsMenu_Camera_FocusOnCursor" translation="Skup się na kursorze"/>
+    <entry key="OptionsMenu_Camera_Forward" translation="Kamera do przodu"/>
+    <entry key="OptionsMenu_Camera_InvertPan" translation="owdróć PAN"/>
+    <entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Odwróć poziom odchylenia"/>
+    <entry key="OptionsMenu_Camera_KeySensitivity" translation="Czułość przycisków"/>
+    <entry key="OptionsMenu_Camera_Left" translation="Kamera na lewo"/>
+    <entry key="OptionsMenu_Camera_MouseSensitivity" translation="Czułość myszki"/>
+    <entry key="OptionsMenu_Camera_Pan" translation="Przesuń kamerę"/>
+    <entry key="OptionsMenu_Camera_Right" translation="Kamera na prawo"/>
+    <entry key="OptionsMenu_Camera_Speed" translation="Prędkość kamery"/>
+    <entry key="OptionsMenu_Camera_Speed_Fast" translation="Szybko"/>
+    <entry key="OptionsMenu_Camera_Speed_Medium" translation="Średnio"/>
+    <entry key="OptionsMenu_Camera_Speed_Slow" translation="Wolno"/>
+    <entry key="OptionsMenu_CameraType" translation="Typ"/>
+    <entry key="OptionsMenu_CameraType_Advanced" translation="Zaawansowany"/>
     <entry key="OptionsMenu_CameraType_Debug" translation="Debug"/>
-    <entry key="OptionsMenu_CameraType_Freelock" translation="Freelook"/>
-    <entry key="OptionsMenu_CameraType_Normal" translation="Normal"/>
-    <entry key="OptionsMenu_Camera_Up" translation="Camera up"/>
-    <entry key="OptionsMenu_Camera_WheelSensitivity" translation="Wheel Sensitivity"/>
-    <entry key="OptionsMenu_cancel" translation="Cancel"/>
-    <entry key="OptionsMenu_ColorPickerPreview" translation="Preview"/>
-    <entry key="OptionsMenu_ColorPickerTitle" translation="Interface Colour"/>
-    <entry key="OptionsMenu_Controls" translation="Controls"/>
+    <entry key="OptionsMenu_CameraType_Freelock" translation="Luźne oglądanie"/>
+    <entry key="OptionsMenu_CameraType_Normal" translation="Normalny"/>
+    <entry key="OptionsMenu_Camera_Up" translation="Kamera w górę"/>
+    <entry key="OptionsMenu_Camera_WheelSensitivity" translation="Czułość koła"/>
+    <entry key="OptionsMenu_cancel" translation="Anuluj"/>
+    <entry key="OptionsMenu_ColorPickerPreview" translation="Podgląd"/>
+    <entry key="OptionsMenu_ColorPickerTitle" translation="Kolor interfejsu"/>
+    <entry key="OptionsMenu_Controls" translation="Kontrolki"/>
     <entry key="OptionsMenu_Controls_Building_Edit" translation="Building Edit Mode"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Place Piece&#10;Select Piece&#10;Select Another Building"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Cancel Placement&#10;Delete Piece under cursor"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Select Multiple Pieces"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Rotate (Attachments &amp;amp; Decorations)"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Rotate 90-degrees"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Toggle Advanced Move/Rotate&#10;(Attachments &amp;amp; Decorations)"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Adjust Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Reset Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Lock to Surface Axes"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Snap Attachment/Decoration to Wall Piece Centre"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Toggle Angle Snap On/Off"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Toggle Align to Surface On/Off"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_13" translation="Toggle Flatten Terrain On/Off"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit" translation="Coaster Edit Mode"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Delete Track Piece"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Select Track Piece"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Cancel/Close"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Toggle Angle Snap On/Off"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Toggle Flatten Terrain On/Off"/>
-    <entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] on Placed Piece"/>
-    <entry key="OptionsMenu_Controls_GameCamera_Down" translation="Pan Camera Down (Freelook only)"/>
-    <entry key="OptionsMenu_Controls_GameCamera_Up" translation="Pan Camera Up (Freelook only)"/>
-    <entry key="OptionsMenu_Controls_General" translation="General Shortcuts"/>
-    <entry key="OptionsMenu_Controls_General_Command_01" translation="Controls Help (Show/Hide)"/>
-    <entry key="OptionsMenu_Controls_General_Command_02a" translation="Pan Camera Forwards"/>
-    <entry key="OptionsMenu_Controls_General_Command_02b" translation="Pan Camera Backwards"/>
-    <entry key="OptionsMenu_Controls_General_Command_02c" translation="Pan Camera Left"/>
-    <entry key="OptionsMenu_Controls_General_Command_02d" translation="Pan Camera Right"/>
-    <entry key="OptionsMenu_Controls_General_Command_03a" translation="Rotate Camera Left"/>
-    <entry key="OptionsMenu_Controls_General_Command_03b" translation="Rotate Camera Right"/>
-    <entry key="OptionsMenu_Controls_General_Command_04a" translation="Zoom Camera In"/>
-    <entry key="OptionsMenu_Controls_General_Command_04b" translation="Zoom Camera Out"/>
-    <entry key="OptionsMenu_Controls_General_Command_05" translation="Toggle Freelook Camera On/Off"/>
-    <entry key="OptionsMenu_Controls_General_Command_06" translation="Increase Freelook Camera Speed"/>
-    <entry key="OptionsMenu_Controls_General_Command_07" translation="Cancel Placement, Close Browser, Deselect Object, Open Options Menu"/>
-    <entry key="OptionsMenu_Controls_General_Command_08" translation="Delete Selected Object"/>
-    <entry key="OptionsMenu_Controls_General_Command_09" translation="Change Simulation Speed"/>
-    <entry key="OptionsMenu_Controls_General_Command_10" translation="Pause Simulation"/>
-    <entry key="OptionsMenu_Controls_General_Command_11" translation="Undo"/>
-    <entry key="OptionsMenu_Controls_General_Command_12" translation="Redo"/>
-    <entry key="OptionsMenu_Controls_General_Command_13" translation="Duplicate Object/Building"/>
-    <entry key="OptionsMenu_Controls_General_Command_14" translation="Move Selection"/>
-    <entry key="OptionsMenu_Controls_General_Command_15" translation="Edit Building"/>
-    <entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Open Load Menu"/>
-    <entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Open Save Menu"/>
-    <entry key="OptionsMenu_ControlsGlobalSettings" translation="Global Settings"/>
-    <entry key="OptionsMenu_ControlsGlobalVerticalGrid" translation="Global Vertical Snapping"/>
-    <entry key="OptionsMenu_ControlsGlobalVerticalGridHint" translation="Buildings and rides are limited to 1 metre vertical heights. Makes it easier to align buildings, paths and coaster stations."/>
-    <entry key="OptionsMenu_ControlsHeading" translation="Controls"/>
-    <entry key="OptionsMenu_Controls_Menu" translation="Menu Shortcuts"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Open My Blueprints"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Open Building"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Open Coasters"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Open Multi-Select"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Open Park Management"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Open Paths"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Open Rides"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Open Scenery"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Open Shops and Facilities"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Open Terrain"/>
-    <entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Open Track Rides"/>
-    <entry key="OptionsMenu_Controls_Mouse" translation="Mouse Controls"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Move Cursor"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Activate Button&#10;Select Object"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_03" translation="Camera Pan"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Camera Tilt/Rotate"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Camera Zoom"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Umieść element&amp;#10;Zaznacz element&amp;#10;Zaznacz inny budynek"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Anuluj umiejscowienie&amp;#10;Usuń element pod kursorem"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Zaznacz wiele elementów"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Obróć (Załączniki i dekoracje)"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Obróć o 90 stopni"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Przełącz zaawansowany ruch/Obróć&amp;#10;(Załączniki i dekoracje)"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Dopasuj pionową wysokość"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Zresetuj pionową wysokość"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Zablokuj do osi powierzchni"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Przyciągnij załącznik/dekorację do centrum elementu ściany"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Przełącz przyciąganie kątów włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Przełącz wyrównanie do powierzchni włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_13" translation="Przełącz wyrównywanie terenu włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit" translation="Tryb edycji kolejki górskiej"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Użyj uchwytów"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Zbuduj element trasy"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Usuń element trasy"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Zaznacz element trasy"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Anuluj/Zamknij"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Przełącz przyciąganie kątów włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Przełącz wyrównywanie terenu włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] na umiesczonym elemencie"/>
+    <entry key="OptionsMenu_Controls_GameCamera_Down" translation="Przesuń kamerę w dół (luźne oglądanie tylko)"/>
+    <entry key="OptionsMenu_Controls_GameCamera_Up" translation="Przesuń kamerę w górę (luźne oglądanie tylko)"/>
+    <entry key="OptionsMenu_Controls_General" translation="Ogólne skróty klawiszowe"/>
+    <entry key="OptionsMenu_Controls_General_Command_01" translation="Pomoc do kontroli (Pokaż/Ukryj)"/>
+    <entry key="OptionsMenu_Controls_General_Command_02a" translation="Przesuń kamerę do przodu"/>
+    <entry key="OptionsMenu_Controls_General_Command_02b" translation="Przesuń kamerę do tyłu"/>
+    <entry key="OptionsMenu_Controls_General_Command_02c" translation="Przesuń kamerę w lewo"/>
+    <entry key="OptionsMenu_Controls_General_Command_02d" translation="Przesuń kamerę w prawo"/>
+    <entry key="OptionsMenu_Controls_General_Command_03a" translation="Obróć kamerę w lewo"/>
+    <entry key="OptionsMenu_Controls_General_Command_03b" translation="Obróć kamerę w prawo"/>
+    <entry key="OptionsMenu_Controls_General_Command_04a" translation="Zwiększ powiększenie kamery"/>
+    <entry key="OptionsMenu_Controls_General_Command_04b" translation="Zmniejsz powiększenie kamery"/>
+    <entry key="OptionsMenu_Controls_General_Command_05" translation="Przełącz luźne oglądanie włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_General_Command_06" translation="Zwiększ prędkość kamery w luźnym oglądaniu"/>
+    <entry key="OptionsMenu_Controls_General_Command_07" translation="Anuluj umiejscowienie, Zamknij przeglądarkę, Odznacz obiekt, Otwórz menu opcji"/>
+    <entry key="OptionsMenu_Controls_General_Command_08" translation="Usuń zaznaczony obiekt"/>
+    <entry key="OptionsMenu_Controls_General_Command_09" translation="Zmień prędkość symulacji"/>
+    <entry key="OptionsMenu_Controls_General_Command_10" translation="Pauza w symulacji"/>
+    <entry key="OptionsMenu_Controls_General_Command_11" translation="Cofnij"/>
+    <entry key="OptionsMenu_Controls_General_Command_12" translation="Ponów"/>
+    <entry key="OptionsMenu_Controls_General_Command_13" translation="Duplikuj obiekt/budynek"/>
+    <entry key="OptionsMenu_Controls_General_Command_14" translation="Przesuń zaznaczenie"/>
+    <entry key="OptionsMenu_Controls_General_Command_15" translation="Edytuj budynek"/>
+    <entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Otwórz menu załadowania"/>
+    <entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Otwórz menu zapisu"/>
+    <entry key="OptionsMenu_ControlsGlobalSettings" translation="Globalne ustawienia"/>
+    <entry key="OptionsMenu_ControlsGlobalVerticalGrid" translation="Globalne pionowe przyciąganie"/>
+    <entry key="OptionsMenu_ControlsGlobalVerticalGridHint" translation="Budynki i przejażdżki są ograniczone w wysokości do jednego metra. Sprawia to, że można łatwiej wyrównywać do budynków, ścieżek i stacji kolejek górskich"/>
+    <entry key="OptionsMenu_ControlsHeading" translation="Skróty klawiszowe"/>
+    <entry key="OptionsMenu_Controls_Menu" translation="Skróty w menu"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Otwórz moje plany"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Otwórz budynki"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Otwórz kolejki górskie"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Otwórz zaznaczenie wielokrotne"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Otwórz zarządzanie parkiem"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Otwórz ścieżki"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Otwórz przejażdżki"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Otwórz scenerię"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Otwórz sklepy i obiekty"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Otwórz teren"/>
+    <entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Otwórz przejażdżki po ścieżce"/>
+    <entry key="OptionsMenu_Controls_Mouse" translation="Skróty myszy"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Porusz kursor"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Użyj przycisku&amp;#10;Zaznacz obiekt"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_03" translation="Przesuń kamerę"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Obróć kamerę"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Przybliż widok w kamerze"/>
     <entry key="OptionsMenu_Controls_Mouse_Input_05" translation="[MouseMiddle](Scroll)"/>
-    <entry key="OptionsMenu_Controls_Object_Placement" translation="Object Placement Controls"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Place Object"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Cancel Placement"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_03" translation="Rotate"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Rotate 90-degrees"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Adjust Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_06" translation="Reset Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Lock to Surface Axes"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_08" translation="Toggle Angle Snap On/Off"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Toggle Align to Surface On/Off"/>
-    <entry key="OptionsMenu_Controls_Object_Placement_Command_10" translation="Flatten Terrain On/Off"/>
-    <entry key="OptionsMenu_Controls_Path_Edit" translation="Path Edit Mode"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Place Path"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Delete Path"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Raise/Lower Path"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Raise Path (without placing)"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Lower Path (without placing)"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Rotate Junction Angle"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Acute Angle Join"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Adjust Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Reset Vertical Height"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Disable Path Joins"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Toggle Angle Snap On/Off"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Decrease Path Length"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Increase Path Length"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Decrease Path Width"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Increase Path Width"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Flatten Terrain"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Delete Path On/Off"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path."/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} during Path placement"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} hold while over path."/>
-    <entry key="OptionsMenu_Controls_Rebind_Button" translation="Rebind"/>
-    <entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Key Rebind In Progress"/>
-    <entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Press and release the buttons you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
-    <entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Reset bindings to defaults"/>
-    <entry key="OptionsMenu_Controls_ShowHideGUI" translation="Show / Hide User Interface"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit" translation="Terrain Edit Mode"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Apply Brush"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Apply Inverse Brush (Push/Pull Brushes)"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Decrease Brush Intensity"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Increase Brush Intensity"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Decrease Brush Size"/>
-    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Increase Brush Size"/>
+    <entry key="OptionsMenu_Controls_Object_Placement" translation="Kontrola umiejscowienia obiektów"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Umieść obiekt"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Anuluj umiejscowienie"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_03" translation="Obróć"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Obróć o 90 stopni"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Dopasuj wysokość pionową"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_06" translation="Zresetuj wysokość pionową"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Zablok do osi powierzchni"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_08" translation="Przełącz przyciąganie kątów włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Przełącz wyrównanie do powierzchni włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Object_Placement_Command_10" translation="Przełącz wyrównywanie terenu włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Path_Edit" translation="Tryb edycji ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Umieść ścieżkę"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Usuń ścieżkę"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Unieś/Obniż ścieżkę"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Unieś ścieżkę (bez przemieszczania)"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Obniż ścieżkę (bez przemieszczania)"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Obróć kąt skrzyżowania"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Ostre łączenie kątów"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Dopasuj wysokość pionową"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Zresetuj wysokość pionową"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Uniemożliwiaj łączenie ścieżek"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Przełącz przyciąganie kątów włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Zmniejsz długość ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Zwiększ długość ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Zmniejsz szerokość ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Zwiększ szerokość ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Wyrównywanie terenu"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Usuwanie ścieżki włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} na podgląd ścieżki, a potem [MouseMoveV]"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} na podgląd skrzyżowania, a potem [MouseMove]"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, na podgląd łączenia ścieżki do innej."/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} podczas umieszczania ścieżki"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} przytrzymaj gdy nad ścieżką."/>
+    <entry key="OptionsMenu_Controls_Rebind_Button" translation="Zmień przypisanie"/>
+    <entry key="OptionsMenu_Controls_Rebind_InProgress" translation="W trakcie zmiany przypisania przycisku"/>
+    <entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Wciśnij i puść przycisk, który chcesz przypisać.&amp;#10;Wycofanie za {Value:int} sekund..."/>
+    <entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Zresetuj przypisania do standardowych wartości"/>
+    <entry key="OptionsMenu_Controls_ShowHideGUI" translation="Pokaż / Ukruj interfejs użytkownika"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit" translation="Tryb edycji terenu"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Zaaplikuj pędzel"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Zaaplikuj odwrócony pędzel (Pchnij/Pociągnij pędzle)"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Zmniejsz intensywność pędzla"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Zwiększ intensywność pędzla"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Zmniejs rozmiar pędzla"/>
+    <entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Zwiększ rozmiar pędzla"/>
     <entry key="OptionsMenu_Controls_Text" translation="{ControlText}"/>
-    <entry key="OptionsMenu_Controls_Unbind_Button" translation="Reset"/>
-    <entry key="OptionsMenu_DisableHints" translation="Disable All Hints"/>
-    <entry key="OptionsMenu_Exit" translation="Exit to Main Menu"/>
-    <entry key="OptionsMenu_Gameplay" translation="Gameplay"/>
-    <entry key="OptionsMenu_GameplaySettings" translation="Gameplay Settings"/>
-    <entry key="OptionsMenu_Graphics" translation="Graphics"/>
-    <entry key="OptionsMenu_HidePlayerName" translation="Hide Player Name (requires restart)"/>
-    <entry key="OptionsMenu_Interface" translation="Interface"/>
-    <entry key="OptionsMenu_InterfaceAutoScale" translation="Interface Auto Scale"/>
-    <entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disable interface auto scale to manually specify scale percentage."/>
-    <entry key="OptionsMenu_InterfaceDistanceFeet" translation="Feet (ft)"/>
-    <entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Kilometres (km)"/>
-    <entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metres (m)"/>
-    <entry key="OptionsMenu_InterfaceDistanceMiles" translation="Miles (mi)"/>
-    <entry key="OptionsMenu_InterfaceDistanceUnit" translation="Distance Unit"/>
-    <entry key="OptionsMenu_InterfaceDistanceUnitTooltip" translation="Display in game distances in the selected units"/>
-    <entry key="OptionsMenu_InterfaceDistanceYards" translation="Yards (yd)"/>
-    <entry key="OptionsMenu_InterfaceScaleTitle" translation="Interface Scale"/>
-    <entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Scaling above 100% only recommended for use with high resolution displays (1440p / 4K). May cause UI display issues at lower resolutions."/>
-    <entry key="OptionsMenu_InterfaceSpeedFS" translation="Feet per second (ft/s)"/>
-    <entry key="OptionsMenu_InterfaceSpeedKPH" translation="Kilometres per hour (kph)"/>
-    <entry key="OptionsMenu_InterfaceSpeedMPH" translation="Miles per hour (mph)"/>
-    <entry key="OptionsMenu_InterfaceSpeedMS" translation="Metres per second (m/s)"/>
-    <entry key="OptionsMenu_InterfaceSpeedUnit" translation="Speed Unit"/>
-    <entry key="OptionsMenu_InterfaceSpeedUnitTooltip" translation="Display in game speeds in the selected units"/>
-    <entry key="OptionsMenu_InterfaceUnitsLabel" translation="Units"/>
-    <entry key="OptionsMenu_Keybindings" translation="Keybindings"/>
-    <entry key="OptionsMenu_load" translation="Load Park"/>
-    <entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Autosave {Count:int})"/>
-    <entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Autosave {Count:int}"/>
+    <entry key="OptionsMenu_Controls_Unbind_Button" translation="Zresetuj"/>
+    <entry key="OptionsMenu_DisableHints" translation="Wyłącz wszystkie podpowiedzi"/>
+    <entry key="OptionsMenu_Exit" translation="Wyjdź do głównego menu"/>
+    <entry key="OptionsMenu_Gameplay" translation="Rozgrywka"/>
+    <entry key="OptionsMenu_GameplaySettings" translation="Ustawienia rozgrywki"/>
+    <entry key="OptionsMenu_Graphics" translation="Grafika"/>
+    <entry key="OptionsMenu_HidePlayerName" translation="Ukruj imię gracza (wymaga restartu)"/>
+    <entry key="OptionsMenu_Interface" translation="Interfejs"/>
+    <entry key="OptionsMenu_InterfaceAutoScale" translation="Auto skalowanie interfejsu"/>
+    <entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Wyłącz automatyczne skalowanie interfejsu aby ręcznie ustalić skalę procentową."/>
+    <entry key="OptionsMenu_InterfaceDistanceFeet" translation="Stopy (ft)"/>
+    <entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Kilometry (km)"/>
+    <entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metry (m)"/>
+    <entry key="OptionsMenu_InterfaceDistanceMiles" translation="Mile (mi)"/>
+    <entry key="OptionsMenu_InterfaceDistanceUnit" translation="Jednostka dystansu"/>
+    <entry key="OptionsMenu_InterfaceDistanceUnitTooltip" translation="Pokaż dystanse w grze w wybranej jednostce"/>
+    <entry key="OptionsMenu_InterfaceDistanceYards" translation="Jardy (yd)"/>
+    <entry key="OptionsMenu_InterfaceScaleTitle" translation="Skala interfejsu"/>
+    <entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Skalowanie powyżej 100% jest rekomendowane przy wyświetlaczach o wyższej rozdzielczości (1440p / 4K). Może powodować problemy przy niższych rozdzielczościach."/>
+    <entry key="OptionsMenu_InterfaceSpeedFS" translation="Stopy na sekundę (ft/s)"/>
+    <entry key="OptionsMenu_InterfaceSpeedKPH" translation="Kilometry na godzinę (km/h)"/>
+    <entry key="OptionsMenu_InterfaceSpeedMPH" translation="Mile na godzinę (mph)"/>
+    <entry key="OptionsMenu_InterfaceSpeedMS" translation="Metry na sekundę (m/s)"/>
+    <entry key="OptionsMenu_InterfaceSpeedUnit" translation="Jednostka prędkości"/>
+    <entry key="OptionsMenu_InterfaceSpeedUnitTooltip" translation="Wyświetl prędkości w grze przy pomocy wybranej jednostki"/>
+    <entry key="OptionsMenu_InterfaceUnitsLabel" translation="Jednostki"/>
+    <entry key="OptionsMenu_Keybindings" translation="Przypisania klawiszy"/>
+    <entry key="OptionsMenu_load" translation="Załaduj park"/>
+    <entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Autozapis {Count:int})"/>
+    <entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Autozapis {Count:int}"/>
     <entry key="OptionsMenu_LoadMenu_LoadDate" translation="{TimeString} - {DateString}"/>
     <entry key="OptionsMenu_LoadMenu_SaveName" translation="{Name}"/>
-    <entry key="OptionsMenu_LoadPrompt_ConfirmCancel" translation="Cancel"/>
-    <entry key="OptionsMenu_LoadPrompt_ConfirmHeader" translation="Load Saved Park"/>
-    <entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Load save '{Name}'?&#10;Unsaved changes to your current park will be lost."/>
+    <entry key="OptionsMenu_LoadPrompt_ConfirmCancel" translation="Anuluj"/>
+    <entry key="OptionsMenu_LoadPrompt_ConfirmHeader" translation="Załaduj zapisany park"/>
+    <entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Załaduj zapis '{Name}'?&amp;#10;Niezapisane zmiany aktualnego parku przepadną."/>
     <entry key="OptionsMenu_LoadPrompt_ConfirmOk" translation="OK"/>
-    <entry key="OptionsMenu_LockCursorToFullscreen" translation="Lock Cursor When Fullscreen"/>
-    <entry key="OptionsMenu_LockCursorToWindow" translation="Lock Cursor When Windowed"/>
-    <entry key="OptionsMenu_Notifications" translation="Notifications"/>
-    <entry key="OptionsMenu_NotificationsGameplay" translation="Gameplay Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsGuests" translation="Guests Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsPark" translation="Park Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsRides" translation="Rides Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsStaff" translation="Staff Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsStalls" translation="Stalls Pop-ups"/>
-    <entry key="OptionsMenu_NotificationsTitle" translation="Notification Pop-ups"/>
+    <entry key="OptionsMenu_LockCursorToFullscreen" translation="Zablokuj kursor w trybie pełno-ekranowym"/>
+    <entry key="OptionsMenu_LockCursorToWindow" translation="Zablokuj kursor w trybie okienkowym"/>
+    <entry key="OptionsMenu_Notifications" translation="Powiadomienia"/>
+    <entry key="OptionsMenu_NotificationsGameplay" translation="Powiadimienia rozgrywki"/>
+    <entry key="OptionsMenu_NotificationsGuests" translation="Powiadomienia gości"/>
+    <entry key="OptionsMenu_NotificationsPark" translation="Powiadomienia parku"/>
+    <entry key="OptionsMenu_NotificationsRides" translation="Powiadomienia przejażdżek"/>
+    <entry key="OptionsMenu_NotificationsStaff" translation="Powiadomienia ekipy"/>
+    <entry key="OptionsMenu_NotificationsStalls" translation="Powiadomienia soisk"/>
+    <entry key="OptionsMenu_NotificationsTitle" translation="Powiadomienia"/>
     <entry key="OptionsMenu_ok" translation="OK"/>
-    <entry key="OptionsMenu_Options" translation="Options"/>
-    <entry key="OptionsMenu_OtherInterfaceOptions" translation="Other Interface Options"/>
-    <entry key="OptionsMenu_Preview" translation="Preview"/>
-    <entry key="OptionsMenu_quit" translation="Quit Planet Coaster"/>
-    <entry key="OptionsMenu_Resume" translation="Resume"/>
-    <entry key="OptionsMenu_save" translation="Save Park"/>
-    <entry key="OptionsMenu_SaveAs" translation="Save Park As..."/>
+    <entry key="OptionsMenu_Options" translation="Opcje"/>
+    <entry key="OptionsMenu_OtherInterfaceOptions" translation="Inne opcje interfejsu"/>
+    <entry key="OptionsMenu_Preview" translation="Podgląd"/>
+    <entry key="OptionsMenu_quit" translation="Wyjdź z Planet Coaster"/>
+    <entry key="OptionsMenu_Resume" translation="Wznów"/>
+    <entry key="OptionsMenu_save" translation="Zapisz park"/>
+    <entry key="OptionsMenu_SaveAs" translation="Zapisz park jako..."/>
     <entry key="OptionsMenu_SaveMenu_LoadDate" translation="{TimeString} - {DateString}"/>
     <entry key="OptionsMenu_SaveMenu_LoadDate_AM" translation="AM"/>
     <entry key="OptionsMenu_SaveMenu_LoadDate_PM" translation="PM"/>
-    <entry key="OptionsMenu_SaveMenu_NewSaveGame" translation="New Park Save"/>
-    <entry key="OptionsMenu_SaveMenu_NoSavedParks" translation="No saved parks"/>
-    <entry key="OptionsMenu_SaveMenu_ParkName" translation="Save name:"/>
-    <entry key="OptionsMenu_SaveMenu_SavesDateHeader" translation="Last Modified"/>
-    <entry key="OptionsMenu_SaveMenu_SavesNameHeader" translation="My Park Saves"/>
-    <entry key="OptionsMenu_SaveMenu_SavesTypeHeader" translation="Park Type"/>
+    <entry key="OptionsMenu_SaveMenu_NewSaveGame" translation="Nowy zapis parku"/>
+    <entry key="OptionsMenu_SaveMenu_NoSavedParks" translation="Brak zapisanych parków"/>
+    <entry key="OptionsMenu_SaveMenu_ParkName" translation="Nazwa zapisu:"/>
+    <entry key="OptionsMenu_SaveMenu_SavesDateHeader" translation="Ostatnia modyfikacja"/>
+    <entry key="OptionsMenu_SaveMenu_SavesNameHeader" translation="Moje zapisane parki"/>
+    <entry key="OptionsMenu_SaveMenu_SavesTypeHeader" translation="Typ parku"/>
     <entry key="OptionsMenu_SaveMenu_SaveToken" translation="{Name}"/>
-    <entry key="OptionsMenu_SaveMenu_Saving" translation="Saving..."/>
-    <entry key="OptionsMenu_SaveMenu_TypeChallenge" translation="Challenge"/>
-    <entry key="OptionsMenu_SaveMenu_TypeSandbox" translation="Sandbox"/>
-    <entry key="OptionsMenu_SaveMenu_TypeScenarioCareer" translation="Career"/>
+    <entry key="OptionsMenu_SaveMenu_Saving" translation="Zapisuję..."/>
+    <entry key="OptionsMenu_SaveMenu_TypeChallenge" translation="Wyzwanie"/>
+    <entry key="OptionsMenu_SaveMenu_TypeSandbox" translation="Piaskownica"/>
+    <entry key="OptionsMenu_SaveMenu_TypeScenarioCareer" translation="Kariera"/>
     <entry key="OptionsMenu_SaveMenu_UnknownType" translation="-"/>
-    <entry key="OptionsMenu_SavePrompt_EraseAutoSaveLabel" translation="Erase Autosave '{Name}'?"/>
-    <entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Cancel"/>
-    <entry key="OptionsMenu_SavePrompt_EraseHeader" translation="Erase save"/>
-    <entry key="OptionsMenu_SavePrompt_EraseLabel" translation="Erase save '{Name}'?"/>
+    <entry key="OptionsMenu_SavePrompt_EraseAutoSaveLabel" translation="Usunąć autozapis '{Name}'?"/>
+    <entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Anuluj"/>
+    <entry key="OptionsMenu_SavePrompt_EraseHeader" translation="Usuń zapis"/>
+    <entry key="OptionsMenu_SavePrompt_EraseLabel" translation="Usuń zapis '{Name}'?"/>
     <entry key="OptionsMenu_SavePrompt_EraseOk" translation="OK"/>
-    <entry key="OptionsMenu_SavePrompt_OverwriteCancel" translation="Cancel"/>
-    <entry key="OptionsMenu_SavePrompt_OverwriteHeader" translation="Overwrite existing save"/>
-    <entry key="OptionsMenu_SavePrompt_OverwriteLabel" translation="Overwrite save '{Name}'?"/>
+    <entry key="OptionsMenu_SavePrompt_OverwriteCancel" translation="Anuluj"/>
+    <entry key="OptionsMenu_SavePrompt_OverwriteHeader" translation="Nadpisz instniejący zapis"/>
+    <entry key="OptionsMenu_SavePrompt_OverwriteLabel" translation="Nadpisz zapis '{Name}'?"/>
     <entry key="OptionsMenu_SavePrompt_OverwriteOk" translation="OK"/>
-    <entry key="OptionsMenu_ScaleInfo" translation="Text Size"/>
-    <entry key="OptionsMenu_ScaleInterface" translation="Scale Interface"/>
-    <entry key="OptionsMenu_ScaleMenuEntry" translation="Adjust UI Scale"/>
-    <entry key="OptionsMenu_Settings" translation="Settings"/>
-    <entry key="OptionsMenu_ShowParkBoundary" translation="Show Park Boundary"/>
-    <entry key="OptionsMenu_windowTitle" translation="Options"/>
+    <entry key="OptionsMenu_ScaleInfo" translation="Rozmiar tekstu"/>
+    <entry key="OptionsMenu_ScaleInterface" translation="Skala interfejsu"/>
+    <entry key="OptionsMenu_ScaleMenuEntry" translation="Dopasuj skalę interfejsu"/>
+    <entry key="OptionsMenu_Settings" translation="Ustawienia"/>
+    <entry key="OptionsMenu_ShowParkBoundary" translation="Pokaż granice parku"/>
+    <entry key="OptionsMenu_windowTitle" translation="Opcje"/>
     <entry key="ParkManagement_AdultGroups" translation="Adult Groups"/>
     <entry key="ParkManagement_Attractions" translation="Attractions"/>
     <entry key="ParkManagement_AttractionsAndShops" translation="Attractions &amp; Shops"/>

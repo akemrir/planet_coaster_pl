@@ -1,26 +1,26 @@
-RideCam_Cabin,'Cabin'
-RideCam_CabinOrbit,'Cabin Orbit'
-RideCam_Car,'Car'
-RideCam_CarFrontBumper,'Front Bumper'
-RideCam_CarFrontLook,'Look Forward'
-RideCam_CarLookBack,'Look Back'
-RideCam_ChaseTrack,'Chase'
-RideCam_Cinematic,'Cinematic'
-RideCam_CinematicCabin,'Cinematic'
-RideCam_CinematicTrack,'Cinematic'
-RideCam_Derail,'Crash'
-RideCam_FirstPerson,'First Person'
-RideCam_Guest,'Guest'
-RideCam_GuestCamera,'Guest camera'
-RideCam_GuestPOV,'Guest View'
-RideCam_Interest,'Interest'
-RideCam_LookAtCabin,'Cabin Facing'
-RideCam_LookAtGuest,'Guest Facing'
-RideCam_Orbit,'Orbit'
-RideCam_RideCamera,'Ride camera'
-RideCam_Row,'Row'
-RideCam_Seat,'Seat'
-RideCam_Side,'Side'
-RideCam_ThirdPerson,'Third Person'
-RideCam_Train,'Train'
-RideCam_Wing,'Wing'
+RideCam_Cabin,"Cabin"
+RideCam_CabinOrbit,"Cabin Orbit"
+RideCam_Car,"Car"
+RideCam_CarFrontBumper,"Front Bumper"
+RideCam_CarFrontLook,"Look Forward"
+RideCam_CarLookBack,"Look Back"
+RideCam_ChaseTrack,"Chase"
+RideCam_Cinematic,"Cinematic"
+RideCam_CinematicCabin,"Cinematic"
+RideCam_CinematicTrack,"Cinematic"
+RideCam_Derail,"Crash"
+RideCam_FirstPerson,"First Person"
+RideCam_Guest,"Guest"
+RideCam_GuestCamera,"Guest camera"
+RideCam_GuestPOV,"Guest View"
+RideCam_Interest,"Interest"
+RideCam_LookAtCabin,"Cabin Facing"
+RideCam_LookAtGuest,"Guest Facing"
+RideCam_Orbit,"Orbit"
+RideCam_RideCamera,"Ride camera"
+RideCam_Row,"Row"
+RideCam_Seat,"Seat"
+RideCam_Side,"Side"
+RideCam_ThirdPerson,"Third Person"
+RideCam_Train,"Train"
+RideCam_Wing,"Wing"

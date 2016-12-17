@@ -1,246 +1,246 @@
-OptionsMenu_apply,'Apply'
-OptionsMenu_Audio,'Audio'
-OptionsMenu_Audio_Mute,'Mute'
-OptionsMenu_Audio_MuteAllEntry,'Mute All'
-OptionsMenu_Audio_MuteGUIEntry,'Mute GUI Sounds'
-OptionsMenu_Audio_MuteMenuMusicEntry,'Mute Menu Soundtrack'
-OptionsMenu_Audio_MuteRideMusicEntry,'Mute Park Music'
-OptionsMenu_Audio_MuteSFXEntry,'Mute Sound Effects'
-OptionsMenu_Audio_MuteShopRadioEntry,'Mute Shop Radio'
-OptionsMenu_Audio_MuteSoundtrackEntry,'Mute Game Soundtrack'
-OptionsMenu_Audio_ParkMusic,'Park Music'
-OptionsMenu_Audio_SFX,'Sound Effects'
-OptionsMenu_Audio_Soundtrack,'Soundtrack'
-OptionsMenu_Audio_SoundtrackInPause,'Play Soundtrack in Pause Mode Only'
-OptionsMenu_Audio_Volume,'Master Volume'
-OptionsMenu_Audio_Volume_Entry,'Adjust Volume'
-OptionsMenu_back,'Back'
-OptionsMenu_Camera,'Camera'
-OptionsMenu_Camera_FieldOfView,'FoV'
-OptionsMenu_Camera_FixedTilt,'Fixed Tilt'
-OptionsMenu_Camera_FocusOnCursor,'Focus On Cursor'
-OptionsMenu_Camera_Forward,'Camera forward'
-OptionsMenu_Camera_InvertPan,'Invert pan'
-OptionsMenu_Camera_InvertSwivelPitch,'Invert swivel pitch'
-OptionsMenu_Camera_KeySensitivity,'Key Sensitivity'
-OptionsMenu_Camera_Left,'Camera left'
-OptionsMenu_Camera_MouseSensitivity,'Mouse Sensitivity'
-OptionsMenu_Camera_Pan,'Camera pan'
-OptionsMenu_Camera_Right,'Camera right'
-OptionsMenu_Camera_Speed,'Camera speed'
-OptionsMenu_Camera_Speed_Fast,'Fast'
-OptionsMenu_Camera_Speed_Medium,'Medium'
-OptionsMenu_Camera_Speed_Slow,'Slow'
-OptionsMenu_CameraType,'Type'
-OptionsMenu_CameraType_Advanced,'Advanced'
-OptionsMenu_CameraType_Debug,'Debug'
-OptionsMenu_CameraType_Freelock,'Freelook'
-OptionsMenu_CameraType_Normal,'Normal'
-OptionsMenu_Camera_Up,'Camera up'
-OptionsMenu_Camera_WheelSensitivity,'Wheel Sensitivity'
-OptionsMenu_cancel,'Cancel'
-OptionsMenu_ColorPickerPreview,'Preview'
-OptionsMenu_ColorPickerTitle,'Interface Colour'
-OptionsMenu_Controls,'Controls'
-OptionsMenu_Controls_Building_Edit,'Building Edit Mode'
-OptionsMenu_Controls_Building_Edit_Command_01,'Place Piece<newline>Select Piece<newline>Select Another Building'
-OptionsMenu_Controls_Building_Edit_Command_02,'Cancel Placement<newline>Delete Piece under cursor'
-OptionsMenu_Controls_Building_Edit_Command_03,'Select Multiple Pieces'
-OptionsMenu_Controls_Building_Edit_Command_04,'Rotate (Attachments &amp; Decorations)'
-OptionsMenu_Controls_Building_Edit_Command_05,'Rotate 90-degrees'
-OptionsMenu_Controls_Building_Edit_Command_06,'Toggle Advanced Move/Rotate<newline>(Attachments &amp; Decorations)'
-OptionsMenu_Controls_Building_Edit_Command_07,'Adjust Vertical Height'
-OptionsMenu_Controls_Building_Edit_Command_08,'Reset Vertical Height'
-OptionsMenu_Controls_Building_Edit_Command_09,'Lock to Surface Axes'
-OptionsMenu_Controls_Building_Edit_Command_10,'Snap Attachment/Decoration to Wall Piece Centre'
-OptionsMenu_Controls_Building_Edit_Command_11,'Toggle Angle Snap On/Off'
-OptionsMenu_Controls_Building_Edit_Command_12,'Toggle Align to Surface On/Off'
-OptionsMenu_Controls_Building_Edit_Command_13,'Toggle Flatten Terrain On/Off'
-OptionsMenu_Controls_Coaster_Edit,'Coaster Edit Mode'
-OptionsMenu_Controls_Coaster_Edit_Command_01,'Use handles'
-OptionsMenu_Controls_Coaster_Edit_Command_02,'Build Track Piece'
-OptionsMenu_Controls_Coaster_Edit_Command_03,'Delete Track Piece'
-OptionsMenu_Controls_Coaster_Edit_Command_04,'Select Track Piece'
-OptionsMenu_Controls_Coaster_Edit_Command_05,'Cancel/Close'
-OptionsMenu_Controls_Coaster_Edit_Command_06,'Toggle Angle Snap On/Off'
-OptionsMenu_Controls_Coaster_Edit_Command_07,'Toggle Flatten Terrain On/Off'
-OptionsMenu_Controls_Coaster_Edit_Input_04,'[MouseLeft] on Placed Piece'
-OptionsMenu_Controls_GameCamera_Down,'Pan Camera Down (Freelook only)'
-OptionsMenu_Controls_GameCamera_Up,'Pan Camera Up (Freelook only)'
-OptionsMenu_Controls_General,'General Shortcuts'
-OptionsMenu_Controls_General_Command_01,'Controls Help (Show/Hide)'
-OptionsMenu_Controls_General_Command_02a,'Pan Camera Forwards'
-OptionsMenu_Controls_General_Command_02b,'Pan Camera Backwards'
-OptionsMenu_Controls_General_Command_02c,'Pan Camera Left'
-OptionsMenu_Controls_General_Command_02d,'Pan Camera Right'
-OptionsMenu_Controls_General_Command_03a,'Rotate Camera Left'
-OptionsMenu_Controls_General_Command_03b,'Rotate Camera Right'
-OptionsMenu_Controls_General_Command_04a,'Zoom Camera In'
-OptionsMenu_Controls_General_Command_04b,'Zoom Camera Out'
-OptionsMenu_Controls_General_Command_05,'Toggle Freelook Camera On/Off'
-OptionsMenu_Controls_General_Command_06,'Increase Freelook Camera Speed'
-OptionsMenu_Controls_General_Command_07,'Cancel Placement, Close Browser, Deselect Object, Open Options Menu'
-OptionsMenu_Controls_General_Command_08,'Delete Selected Object'
-OptionsMenu_Controls_General_Command_09,'Change Simulation Speed'
-OptionsMenu_Controls_General_Command_10,'Pause Simulation'
-OptionsMenu_Controls_General_Command_11,'Undo'
-OptionsMenu_Controls_General_Command_12,'Redo'
-OptionsMenu_Controls_General_Command_13,'Duplicate Object/Building'
-OptionsMenu_Controls_General_Command_14,'Move Selection'
-OptionsMenu_Controls_General_Command_15,'Edit Building'
-OptionsMenu_Controls_General_Command_QuickLoad,'Open Load Menu'
-OptionsMenu_Controls_General_Command_QuickSave,'Open Save Menu'
-OptionsMenu_ControlsGlobalSettings,'Global Settings'
-OptionsMenu_ControlsGlobalVerticalGrid,'Global Vertical Snapping'
-OptionsMenu_ControlsGlobalVerticalGridHint,'Buildings and rides are limited to 1 metre vertical heights. Makes it easier to align buildings, paths and coaster stations.'
-OptionsMenu_ControlsHeading,'Controls'
-OptionsMenu_Controls_Menu,'Menu Shortcuts'
-OptionsMenu_Controls_Menu_Command_Blueprints,'Open My Blueprints'
-OptionsMenu_Controls_Menu_Command_Building,'Open Building'
-OptionsMenu_Controls_Menu_Command_Coasters,'Open Coasters'
-OptionsMenu_Controls_Menu_Command_MultiSelect,'Open Multi-Select'
-OptionsMenu_Controls_Menu_Command_ParkManagement,'Open Park Management'
-OptionsMenu_Controls_Menu_Command_Paths,'Open Paths'
-OptionsMenu_Controls_Menu_Command_Rides,'Open Rides'
-OptionsMenu_Controls_Menu_Command_Scenery,'Open Scenery'
-OptionsMenu_Controls_Menu_Command_Shops,'Open Shops and Facilities'
-OptionsMenu_Controls_Menu_Command_Terrain,'Open Terrain'
-OptionsMenu_Controls_Menu_Command_TrackRides,'Open Track Rides'
-OptionsMenu_Controls_Mouse,'Mouse Controls'
-OptionsMenu_Controls_Mouse_Command_01,'Move Cursor'
-OptionsMenu_Controls_Mouse_Command_02,'Activate Button<newline>Select Object'
-OptionsMenu_Controls_Mouse_Command_03,'Camera Pan'
-OptionsMenu_Controls_Mouse_Command_04,'Camera Tilt/Rotate'
-OptionsMenu_Controls_Mouse_Command_05,'Camera Zoom'
-OptionsMenu_Controls_Mouse_Input_05,'[MouseMiddle](Scroll)'
-OptionsMenu_Controls_Object_Placement,'Object Placement Controls'
-OptionsMenu_Controls_Object_Placement_Command_01,'Place Object'
-OptionsMenu_Controls_Object_Placement_Command_02,'Cancel Placement'
-OptionsMenu_Controls_Object_Placement_Command_03,'Rotate'
-OptionsMenu_Controls_Object_Placement_Command_04,'Rotate 90-degrees'
-OptionsMenu_Controls_Object_Placement_Command_05,'Adjust Vertical Height'
-OptionsMenu_Controls_Object_Placement_Command_06,'Reset Vertical Height'
-OptionsMenu_Controls_Object_Placement_Command_07,'Lock to Surface Axes'
-OptionsMenu_Controls_Object_Placement_Command_08,'Toggle Angle Snap On/Off'
-OptionsMenu_Controls_Object_Placement_Command_09,'Toggle Align to Surface On/Off'
-OptionsMenu_Controls_Object_Placement_Command_10,'Flatten Terrain On/Off'
-OptionsMenu_Controls_Path_Edit,'Path Edit Mode'
-OptionsMenu_Controls_Path_Edit_Command_01,'Place Path'
-OptionsMenu_Controls_Path_Edit_Command_02,'Delete Path'
-OptionsMenu_Controls_Path_Edit_Command_03,'Raise/Lower Path'
-OptionsMenu_Controls_Path_Edit_Command_04,'Raise Path (without placing)'
-OptionsMenu_Controls_Path_Edit_Command_05,'Lower Path (without placing)'
-OptionsMenu_Controls_Path_Edit_Command_06,'Rotate Junction Angle'
-OptionsMenu_Controls_Path_Edit_Command_07,'Acute Angle Join'
-OptionsMenu_Controls_Path_Edit_Command_08,'Adjust Vertical Height'
-OptionsMenu_Controls_Path_Edit_Command_09,'Reset Vertical Height'
-OptionsMenu_Controls_Path_Edit_Command_10,'Disable Path Joins'
-OptionsMenu_Controls_Path_Edit_Command_11,'Toggle Angle Snap On/Off'
-OptionsMenu_Controls_Path_Edit_Command_12,'Decrease Path Length'
-OptionsMenu_Controls_Path_Edit_Command_13,'Increase Path Length'
-OptionsMenu_Controls_Path_Edit_Command_14,'Decrease Path Width'
-OptionsMenu_Controls_Path_Edit_Command_15,'Increase Path Width'
-OptionsMenu_Controls_Path_Edit_Command_16,'Flatten Terrain'
-OptionsMenu_Controls_Path_Edit_Command_17,'Delete Path On/Off'
-OptionsMenu_Controls_Path_Edit_Input_03,'{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]'
-OptionsMenu_Controls_Path_Edit_Input_06,'{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]'
-OptionsMenu_Controls_Path_Edit_Input_07,'{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path.'
-OptionsMenu_Controls_Path_Edit_Input_10,'{#LogicalButton.Editors_NoJoinModifier#} during Path placement'
-OptionsMenu_Controls_Path_Edit_Input_17,'{#LogicalButton.Editors_PathDeleteModifier#} hold while over path.'
-OptionsMenu_Controls_Rebind_Button,'Rebind'
-OptionsMenu_Controls_Rebind_InProgress,'Key Rebind In Progress'
-OptionsMenu_Controls_Rebind_InProgress_Label,'Press and release the buttons you wish to bind.<newline>Reverting in {Value:int} seconds...'
-OptionsMenu_Controls_Rebind_ResetAll,'Reset bindings to defaults'
-OptionsMenu_Controls_ShowHideGUI,'Show / Hide User Interface'
-OptionsMenu_Controls_Terrain_Edit,'Terrain Edit Mode'
-OptionsMenu_Controls_Terrain_Edit_Command_01,'Apply Brush'
-OptionsMenu_Controls_Terrain_Edit_Command_02,'Apply Inverse Brush (Push/Pull Brushes)'
-OptionsMenu_Controls_Terrain_Edit_Command_03,'Decrease Brush Intensity'
-OptionsMenu_Controls_Terrain_Edit_Command_04,'Increase Brush Intensity'
-OptionsMenu_Controls_Terrain_Edit_Command_05,'Decrease Brush Size'
-OptionsMenu_Controls_Terrain_Edit_Command_06,'Increase Brush Size'
-OptionsMenu_Controls_Text,'{ControlText}'
-OptionsMenu_Controls_Unbind_Button,'Reset'
-OptionsMenu_DisableHints,'Disable All Hints'
-OptionsMenu_Exit,'Exit to Main Menu'
-OptionsMenu_Gameplay,'Gameplay'
-OptionsMenu_GameplaySettings,'Gameplay Settings'
-OptionsMenu_Graphics,'Graphics'
-OptionsMenu_HidePlayerName,'Hide Player Name (requires restart)'
-OptionsMenu_Interface,'Interface'
-OptionsMenu_InterfaceAutoScale,'Interface Auto Scale'
-OptionsMenu_InterfaceAutoScale_Tooltip,'Disable interface auto scale to manually specify scale percentage.'
-OptionsMenu_InterfaceDistanceFeet,'Feet (ft)'
-OptionsMenu_InterfaceDistanceKilometres,'Kilometres (km)'
-OptionsMenu_InterfaceDistanceMetres,'Metres (m)'
-OptionsMenu_InterfaceDistanceMiles,'Miles (mi)'
-OptionsMenu_InterfaceDistanceUnit,'Distance Unit'
-OptionsMenu_InterfaceDistanceUnitTooltip,'Display in game distances in the selected units'
-OptionsMenu_InterfaceDistanceYards,'Yards (yd)'
-OptionsMenu_InterfaceScaleTitle,'Interface Scale'
-OptionsMenu_InterfaceScale_Tooltip,'Scaling above 100% only recommended for use with high resolution displays (1440p / 4K). May cause UI display issues at lower resolutions.'
-OptionsMenu_InterfaceSpeedFS,'Feet per second (ft/s)'
-OptionsMenu_InterfaceSpeedKPH,'Kilometres per hour (kph)'
-OptionsMenu_InterfaceSpeedMPH,'Miles per hour (mph)'
-OptionsMenu_InterfaceSpeedMS,'Metres per second (m/s)'
-OptionsMenu_InterfaceSpeedUnit,'Speed Unit'
-OptionsMenu_InterfaceSpeedUnitTooltip,'Display in game speeds in the selected units'
-OptionsMenu_InterfaceUnitsLabel,'Units'
-OptionsMenu_Keybindings,'Keybindings'
-OptionsMenu_load,'Load Park'
-OptionsMenu_LoadMenu_AutosaveName,'{Name} (Autosave {Count:int})'
-OptionsMenu_LoadMenu_AutosaveNumber,'Autosave {Count:int}'
-OptionsMenu_LoadMenu_LoadDate,'{TimeString} - {DateString}'
-OptionsMenu_LoadMenu_SaveName,'{Name}'
-OptionsMenu_LoadPrompt_ConfirmCancel,'Cancel'
-OptionsMenu_LoadPrompt_ConfirmHeader,'Load Saved Park'
-OptionsMenu_LoadPrompt_ConfirmLabel,'Load save '{Name}'?<newline>Unsaved changes to your current park will be lost.'
-OptionsMenu_LoadPrompt_ConfirmOk,'OK'
-OptionsMenu_LockCursorToFullscreen,'Lock Cursor When Fullscreen'
-OptionsMenu_LockCursorToWindow,'Lock Cursor When Windowed'
-OptionsMenu_Notifications,'Notifications'
-OptionsMenu_NotificationsGameplay,'Gameplay Pop-ups'
-OptionsMenu_NotificationsGuests,'Guests Pop-ups'
-OptionsMenu_NotificationsPark,'Park Pop-ups'
-OptionsMenu_NotificationsRides,'Rides Pop-ups'
-OptionsMenu_NotificationsStaff,'Staff Pop-ups'
-OptionsMenu_NotificationsStalls,'Stalls Pop-ups'
-OptionsMenu_NotificationsTitle,'Notification Pop-ups'
-OptionsMenu_ok,'OK'
-OptionsMenu_Options,'Options'
-OptionsMenu_OtherInterfaceOptions,'Other Interface Options'
-OptionsMenu_Preview,'Preview'
-OptionsMenu_quit,'Quit Planet Coaster'
-OptionsMenu_Resume,'Resume'
-OptionsMenu_save,'Save Park'
-OptionsMenu_SaveAs,'Save Park As...'
-OptionsMenu_SaveMenu_LoadDate,'{TimeString} - {DateString}'
-OptionsMenu_SaveMenu_LoadDate_AM,'AM'
-OptionsMenu_SaveMenu_LoadDate_PM,'PM'
-OptionsMenu_SaveMenu_NewSaveGame,'New Park Save'
-OptionsMenu_SaveMenu_NoSavedParks,'No saved parks'
-OptionsMenu_SaveMenu_ParkName,'Save name:'
-OptionsMenu_SaveMenu_SavesDateHeader,'Last Modified'
-OptionsMenu_SaveMenu_SavesNameHeader,'My Park Saves'
-OptionsMenu_SaveMenu_SavesTypeHeader,'Park Type'
-OptionsMenu_SaveMenu_SaveToken,'{Name}'
-OptionsMenu_SaveMenu_Saving,'Saving...'
-OptionsMenu_SaveMenu_TypeChallenge,'Challenge'
-OptionsMenu_SaveMenu_TypeSandbox,'Sandbox'
-OptionsMenu_SaveMenu_TypeScenarioCareer,'Career'
-OptionsMenu_SaveMenu_UnknownType,'-'
-OptionsMenu_SavePrompt_EraseAutoSaveLabel,'Erase Autosave '{Name}'?'
-OptionsMenu_SavePrompt_EraseCancel,'Cancel'
-OptionsMenu_SavePrompt_EraseHeader,'Erase save'
-OptionsMenu_SavePrompt_EraseLabel,'Erase save '{Name}'?'
-OptionsMenu_SavePrompt_EraseOk,'OK'
-OptionsMenu_SavePrompt_OverwriteCancel,'Cancel'
-OptionsMenu_SavePrompt_OverwriteHeader,'Overwrite existing save'
-OptionsMenu_SavePrompt_OverwriteLabel,'Overwrite save '{Name}'?'
-OptionsMenu_SavePrompt_OverwriteOk,'OK'
-OptionsMenu_ScaleInfo,'Text Size'
-OptionsMenu_ScaleInterface,'Scale Interface'
-OptionsMenu_ScaleMenuEntry,'Adjust UI Scale'
-OptionsMenu_Settings,'Settings'
-OptionsMenu_ShowParkBoundary,'Show Park Boundary'
-OptionsMenu_windowTitle,'Options'
+OptionsMenu_apply,"Apply"
+OptionsMenu_Audio,"Audio"
+OptionsMenu_Audio_Mute,"Mute"
+OptionsMenu_Audio_MuteAllEntry,"Mute All"
+OptionsMenu_Audio_MuteGUIEntry,"Mute GUI Sounds"
+OptionsMenu_Audio_MuteMenuMusicEntry,"Mute Menu Soundtrack"
+OptionsMenu_Audio_MuteRideMusicEntry,"Mute Park Music"
+OptionsMenu_Audio_MuteSFXEntry,"Mute Sound Effects"
+OptionsMenu_Audio_MuteShopRadioEntry,"Mute Shop Radio"
+OptionsMenu_Audio_MuteSoundtrackEntry,"Mute Game Soundtrack"
+OptionsMenu_Audio_ParkMusic,"Park Music"
+OptionsMenu_Audio_SFX,"Sound Effects"
+OptionsMenu_Audio_Soundtrack,"Soundtrack"
+OptionsMenu_Audio_SoundtrackInPause,"Play Soundtrack in Pause Mode Only"
+OptionsMenu_Audio_Volume,"Master Volume"
+OptionsMenu_Audio_Volume_Entry,"Adjust Volume"
+OptionsMenu_back,"Back"
+OptionsMenu_Camera,"Camera"
+OptionsMenu_Camera_FieldOfView,"FoV"
+OptionsMenu_Camera_FixedTilt,"Fixed Tilt"
+OptionsMenu_Camera_FocusOnCursor,"Focus On Cursor"
+OptionsMenu_Camera_Forward,"Camera forward"
+OptionsMenu_Camera_InvertPan,"Invert pan"
+OptionsMenu_Camera_InvertSwivelPitch,"Invert swivel pitch"
+OptionsMenu_Camera_KeySensitivity,"Key Sensitivity"
+OptionsMenu_Camera_Left,"Camera left"
+OptionsMenu_Camera_MouseSensitivity,"Mouse Sensitivity"
+OptionsMenu_Camera_Pan,"Camera pan"
+OptionsMenu_Camera_Right,"Camera right"
+OptionsMenu_Camera_Speed,"Camera speed"
+OptionsMenu_Camera_Speed_Fast,"Fast"
+OptionsMenu_Camera_Speed_Medium,"Medium"
+OptionsMenu_Camera_Speed_Slow,"Slow"
+OptionsMenu_CameraType,"Type"
+OptionsMenu_CameraType_Advanced,"Advanced"
+OptionsMenu_CameraType_Debug,"Debug"
+OptionsMenu_CameraType_Freelock,"Freelook"
+OptionsMenu_CameraType_Normal,"Normal"
+OptionsMenu_Camera_Up,"Camera up"
+OptionsMenu_Camera_WheelSensitivity,"Wheel Sensitivity"
+OptionsMenu_cancel,"Cancel"
+OptionsMenu_ColorPickerPreview,"Preview"
+OptionsMenu_ColorPickerTitle,"Interface Colour"
+OptionsMenu_Controls,"Controls"
+OptionsMenu_Controls_Building_Edit,"Building Edit Mode"
+OptionsMenu_Controls_Building_Edit_Command_01,"Place Piece<newline>Select Piece<newline>Select Another Building"
+OptionsMenu_Controls_Building_Edit_Command_02,"Cancel Placement<newline>Delete Piece under cursor"
+OptionsMenu_Controls_Building_Edit_Command_03,"Select Multiple Pieces"
+OptionsMenu_Controls_Building_Edit_Command_04,"Rotate (Attachments &amp; Decorations)"
+OptionsMenu_Controls_Building_Edit_Command_05,"Rotate 90-degrees"
+OptionsMenu_Controls_Building_Edit_Command_06,"Toggle Advanced Move/Rotate<newline>(Attachments &amp; Decorations)"
+OptionsMenu_Controls_Building_Edit_Command_07,"Adjust Vertical Height"
+OptionsMenu_Controls_Building_Edit_Command_08,"Reset Vertical Height"
+OptionsMenu_Controls_Building_Edit_Command_09,"Lock to Surface Axes"
+OptionsMenu_Controls_Building_Edit_Command_10,"Snap Attachment/Decoration to Wall Piece Centre"
+OptionsMenu_Controls_Building_Edit_Command_11,"Toggle Angle Snap On/Off"
+OptionsMenu_Controls_Building_Edit_Command_12,"Toggle Align to Surface On/Off"
+OptionsMenu_Controls_Building_Edit_Command_13,"Toggle Flatten Terrain On/Off"
+OptionsMenu_Controls_Coaster_Edit,"Coaster Edit Mode"
+OptionsMenu_Controls_Coaster_Edit_Command_01,"Use handles"
+OptionsMenu_Controls_Coaster_Edit_Command_02,"Build Track Piece"
+OptionsMenu_Controls_Coaster_Edit_Command_03,"Delete Track Piece"
+OptionsMenu_Controls_Coaster_Edit_Command_04,"Select Track Piece"
+OptionsMenu_Controls_Coaster_Edit_Command_05,"Cancel/Close"
+OptionsMenu_Controls_Coaster_Edit_Command_06,"Toggle Angle Snap On/Off"
+OptionsMenu_Controls_Coaster_Edit_Command_07,"Toggle Flatten Terrain On/Off"
+OptionsMenu_Controls_Coaster_Edit_Input_04,"[MouseLeft] on Placed Piece"
+OptionsMenu_Controls_GameCamera_Down,"Pan Camera Down (Freelook only)"
+OptionsMenu_Controls_GameCamera_Up,"Pan Camera Up (Freelook only)"
+OptionsMenu_Controls_General,"General Shortcuts"
+OptionsMenu_Controls_General_Command_01,"Controls Help (Show/Hide)"
+OptionsMenu_Controls_General_Command_02a,"Pan Camera Forwards"
+OptionsMenu_Controls_General_Command_02b,"Pan Camera Backwards"
+OptionsMenu_Controls_General_Command_02c,"Pan Camera Left"
+OptionsMenu_Controls_General_Command_02d,"Pan Camera Right"
+OptionsMenu_Controls_General_Command_03a,"Rotate Camera Left"
+OptionsMenu_Controls_General_Command_03b,"Rotate Camera Right"
+OptionsMenu_Controls_General_Command_04a,"Zoom Camera In"
+OptionsMenu_Controls_General_Command_04b,"Zoom Camera Out"
+OptionsMenu_Controls_General_Command_05,"Toggle Freelook Camera On/Off"
+OptionsMenu_Controls_General_Command_06,"Increase Freelook Camera Speed"
+OptionsMenu_Controls_General_Command_07,"Cancel Placement, Close Browser, Deselect Object, Open Options Menu"
+OptionsMenu_Controls_General_Command_08,"Delete Selected Object"
+OptionsMenu_Controls_General_Command_09,"Change Simulation Speed"
+OptionsMenu_Controls_General_Command_10,"Pause Simulation"
+OptionsMenu_Controls_General_Command_11,"Undo"
+OptionsMenu_Controls_General_Command_12,"Redo"
+OptionsMenu_Controls_General_Command_13,"Duplicate Object/Building"
+OptionsMenu_Controls_General_Command_14,"Move Selection"
+OptionsMenu_Controls_General_Command_15,"Edit Building"
+OptionsMenu_Controls_General_Command_QuickLoad,"Open Load Menu"
+OptionsMenu_Controls_General_Command_QuickSave,"Open Save Menu"
+OptionsMenu_ControlsGlobalSettings,"Global Settings"
+OptionsMenu_ControlsGlobalVerticalGrid,"Global Vertical Snapping"
+OptionsMenu_ControlsGlobalVerticalGridHint,"Buildings and rides are limited to 1 metre vertical heights. Makes it easier to align buildings, paths and coaster stations."
+OptionsMenu_ControlsHeading,"Controls"
+OptionsMenu_Controls_Menu,"Menu Shortcuts"
+OptionsMenu_Controls_Menu_Command_Blueprints,"Open My Blueprints"
+OptionsMenu_Controls_Menu_Command_Building,"Open Building"
+OptionsMenu_Controls_Menu_Command_Coasters,"Open Coasters"
+OptionsMenu_Controls_Menu_Command_MultiSelect,"Open Multi-Select"
+OptionsMenu_Controls_Menu_Command_ParkManagement,"Open Park Management"
+OptionsMenu_Controls_Menu_Command_Paths,"Open Paths"
+OptionsMenu_Controls_Menu_Command_Rides,"Open Rides"
+OptionsMenu_Controls_Menu_Command_Scenery,"Open Scenery"
+OptionsMenu_Controls_Menu_Command_Shops,"Open Shops and Facilities"
+OptionsMenu_Controls_Menu_Command_Terrain,"Open Terrain"
+OptionsMenu_Controls_Menu_Command_TrackRides,"Open Track Rides"
+OptionsMenu_Controls_Mouse,"Mouse Controls"
+OptionsMenu_Controls_Mouse_Command_01,"Move Cursor"
+OptionsMenu_Controls_Mouse_Command_02,"Activate Button<newline>Select Object"
+OptionsMenu_Controls_Mouse_Command_03,"Camera Pan"
+OptionsMenu_Controls_Mouse_Command_04,"Camera Tilt/Rotate"
+OptionsMenu_Controls_Mouse_Command_05,"Camera Zoom"
+OptionsMenu_Controls_Mouse_Input_05,"[MouseMiddle](Scroll)"
+OptionsMenu_Controls_Object_Placement,"Object Placement Controls"
+OptionsMenu_Controls_Object_Placement_Command_01,"Place Object"
+OptionsMenu_Controls_Object_Placement_Command_02,"Cancel Placement"
+OptionsMenu_Controls_Object_Placement_Command_03,"Rotate"
+OptionsMenu_Controls_Object_Placement_Command_04,"Rotate 90-degrees"
+OptionsMenu_Controls_Object_Placement_Command_05,"Adjust Vertical Height"
+OptionsMenu_Controls_Object_Placement_Command_06,"Reset Vertical Height"
+OptionsMenu_Controls_Object_Placement_Command_07,"Lock to Surface Axes"
+OptionsMenu_Controls_Object_Placement_Command_08,"Toggle Angle Snap On/Off"
+OptionsMenu_Controls_Object_Placement_Command_09,"Toggle Align to Surface On/Off"
+OptionsMenu_Controls_Object_Placement_Command_10,"Flatten Terrain On/Off"
+OptionsMenu_Controls_Path_Edit,"Path Edit Mode"
+OptionsMenu_Controls_Path_Edit_Command_01,"Place Path"
+OptionsMenu_Controls_Path_Edit_Command_02,"Delete Path"
+OptionsMenu_Controls_Path_Edit_Command_03,"Raise/Lower Path"
+OptionsMenu_Controls_Path_Edit_Command_04,"Raise Path (without placing)"
+OptionsMenu_Controls_Path_Edit_Command_05,"Lower Path (without placing)"
+OptionsMenu_Controls_Path_Edit_Command_06,"Rotate Junction Angle"
+OptionsMenu_Controls_Path_Edit_Command_07,"Acute Angle Join"
+OptionsMenu_Controls_Path_Edit_Command_08,"Adjust Vertical Height"
+OptionsMenu_Controls_Path_Edit_Command_09,"Reset Vertical Height"
+OptionsMenu_Controls_Path_Edit_Command_10,"Disable Path Joins"
+OptionsMenu_Controls_Path_Edit_Command_11,"Toggle Angle Snap On/Off"
+OptionsMenu_Controls_Path_Edit_Command_12,"Decrease Path Length"
+OptionsMenu_Controls_Path_Edit_Command_13,"Increase Path Length"
+OptionsMenu_Controls_Path_Edit_Command_14,"Decrease Path Width"
+OptionsMenu_Controls_Path_Edit_Command_15,"Increase Path Width"
+OptionsMenu_Controls_Path_Edit_Command_16,"Flatten Terrain"
+OptionsMenu_Controls_Path_Edit_Command_17,"Delete Path On/Off"
+OptionsMenu_Controls_Path_Edit_Input_03,"{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]"
+OptionsMenu_Controls_Path_Edit_Input_06,"{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]"
+OptionsMenu_Controls_Path_Edit_Input_07,"{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path."
+OptionsMenu_Controls_Path_Edit_Input_10,"{#LogicalButton.Editors_NoJoinModifier#} during Path placement"
+OptionsMenu_Controls_Path_Edit_Input_17,"{#LogicalButton.Editors_PathDeleteModifier#} hold while over path."
+OptionsMenu_Controls_Rebind_Button,"Rebind"
+OptionsMenu_Controls_Rebind_InProgress,"Key Rebind In Progress"
+OptionsMenu_Controls_Rebind_InProgress_Label,"Press and release the buttons you wish to bind.<newline>Reverting in {Value:int} seconds..."
+OptionsMenu_Controls_Rebind_ResetAll,"Reset bindings to defaults"
+OptionsMenu_Controls_ShowHideGUI,"Show / Hide User Interface"
+OptionsMenu_Controls_Terrain_Edit,"Terrain Edit Mode"
+OptionsMenu_Controls_Terrain_Edit_Command_01,"Apply Brush"
+OptionsMenu_Controls_Terrain_Edit_Command_02,"Apply Inverse Brush (Push/Pull Brushes)"
+OptionsMenu_Controls_Terrain_Edit_Command_03,"Decrease Brush Intensity"
+OptionsMenu_Controls_Terrain_Edit_Command_04,"Increase Brush Intensity"
+OptionsMenu_Controls_Terrain_Edit_Command_05,"Decrease Brush Size"
+OptionsMenu_Controls_Terrain_Edit_Command_06,"Increase Brush Size"
+OptionsMenu_Controls_Text,"{ControlText}"
+OptionsMenu_Controls_Unbind_Button,"Reset"
+OptionsMenu_DisableHints,"Disable All Hints"
+OptionsMenu_Exit,"Exit to Main Menu"
+OptionsMenu_Gameplay,"Gameplay"
+OptionsMenu_GameplaySettings,"Gameplay Settings"
+OptionsMenu_Graphics,"Graphics"
+OptionsMenu_HidePlayerName,"Hide Player Name (requires restart)"
+OptionsMenu_Interface,"Interface"
+OptionsMenu_InterfaceAutoScale,"Interface Auto Scale"
+OptionsMenu_InterfaceAutoScale_Tooltip,"Disable interface auto scale to manually specify scale percentage."
+OptionsMenu_InterfaceDistanceFeet,"Feet (ft)"
+OptionsMenu_InterfaceDistanceKilometres,"Kilometres (km)"
+OptionsMenu_InterfaceDistanceMetres,"Metres (m)"
+OptionsMenu_InterfaceDistanceMiles,"Miles (mi)"
+OptionsMenu_InterfaceDistanceUnit,"Distance Unit"
+OptionsMenu_InterfaceDistanceUnitTooltip,"Display in game distances in the selected units"
+OptionsMenu_InterfaceDistanceYards,"Yards (yd)"
+OptionsMenu_InterfaceScaleTitle,"Interface Scale"
+OptionsMenu_InterfaceScale_Tooltip,"Scaling above 100% only recommended for use with high resolution displays (1440p / 4K). May cause UI display issues at lower resolutions."
+OptionsMenu_InterfaceSpeedFS,"Feet per second (ft/s)"
+OptionsMenu_InterfaceSpeedKPH,"Kilometres per hour (kph)"
+OptionsMenu_InterfaceSpeedMPH,"Miles per hour (mph)"
+OptionsMenu_InterfaceSpeedMS,"Metres per second (m/s)"
+OptionsMenu_InterfaceSpeedUnit,"Speed Unit"
+OptionsMenu_InterfaceSpeedUnitTooltip,"Display in game speeds in the selected units"
+OptionsMenu_InterfaceUnitsLabel,"Units"
+OptionsMenu_Keybindings,"Keybindings"
+OptionsMenu_load,"Load Park"
+OptionsMenu_LoadMenu_AutosaveName,"{Name} (Autosave {Count:int})"
+OptionsMenu_LoadMenu_AutosaveNumber,"Autosave {Count:int}"
+OptionsMenu_LoadMenu_LoadDate,"{TimeString} - {DateString}"
+OptionsMenu_LoadMenu_SaveName,"{Name}"
+OptionsMenu_LoadPrompt_ConfirmCancel,"Cancel"
+OptionsMenu_LoadPrompt_ConfirmHeader,"Load Saved Park"
+OptionsMenu_LoadPrompt_ConfirmLabel,"Load save '{Name}'?<newline>Unsaved changes to your current park will be lost."
+OptionsMenu_LoadPrompt_ConfirmOk,"OK"
+OptionsMenu_LockCursorToFullscreen,"Lock Cursor When Fullscreen"
+OptionsMenu_LockCursorToWindow,"Lock Cursor When Windowed"
+OptionsMenu_Notifications,"Notifications"
+OptionsMenu_NotificationsGameplay,"Gameplay Pop-ups"
+OptionsMenu_NotificationsGuests,"Guests Pop-ups"
+OptionsMenu_NotificationsPark,"Park Pop-ups"
+OptionsMenu_NotificationsRides,"Rides Pop-ups"
+OptionsMenu_NotificationsStaff,"Staff Pop-ups"
+OptionsMenu_NotificationsStalls,"Stalls Pop-ups"
+OptionsMenu_NotificationsTitle,"Notification Pop-ups"
+OptionsMenu_ok,"OK"
+OptionsMenu_Options,"Options"
+OptionsMenu_OtherInterfaceOptions,"Other Interface Options"
+OptionsMenu_Preview,"Preview"
+OptionsMenu_quit,"Quit Planet Coaster"
+OptionsMenu_Resume,"Resume"
+OptionsMenu_save,"Save Park"
+OptionsMenu_SaveAs,"Save Park As..."
+OptionsMenu_SaveMenu_LoadDate,"{TimeString} - {DateString}"
+OptionsMenu_SaveMenu_LoadDate_AM,"AM"
+OptionsMenu_SaveMenu_LoadDate_PM,"PM"
+OptionsMenu_SaveMenu_NewSaveGame,"New Park Save"
+OptionsMenu_SaveMenu_NoSavedParks,"No saved parks"
+OptionsMenu_SaveMenu_ParkName,"Save name:"
+OptionsMenu_SaveMenu_SavesDateHeader,"Last Modified"
+OptionsMenu_SaveMenu_SavesNameHeader,"My Park Saves"
+OptionsMenu_SaveMenu_SavesTypeHeader,"Park Type"
+OptionsMenu_SaveMenu_SaveToken,"{Name}"
+OptionsMenu_SaveMenu_Saving,"Saving..."
+OptionsMenu_SaveMenu_TypeChallenge,"Challenge"
+OptionsMenu_SaveMenu_TypeSandbox,"Sandbox"
+OptionsMenu_SaveMenu_TypeScenarioCareer,"Career"
+OptionsMenu_SaveMenu_UnknownType,"-"
+OptionsMenu_SavePrompt_EraseAutoSaveLabel,"Erase Autosave '{Name}'?"
+OptionsMenu_SavePrompt_EraseCancel,"Cancel"
+OptionsMenu_SavePrompt_EraseHeader,"Erase save"
+OptionsMenu_SavePrompt_EraseLabel,"Erase save '{Name}'?"
+OptionsMenu_SavePrompt_EraseOk,"OK"
+OptionsMenu_SavePrompt_OverwriteCancel,"Cancel"
+OptionsMenu_SavePrompt_OverwriteHeader,"Overwrite existing save"
+OptionsMenu_SavePrompt_OverwriteLabel,"Overwrite save '{Name}'?"
+OptionsMenu_SavePrompt_OverwriteOk,"OK"
+OptionsMenu_ScaleInfo,"Text Size"
+OptionsMenu_ScaleInterface,"Scale Interface"
+OptionsMenu_ScaleMenuEntry,"Adjust UI Scale"
+OptionsMenu_Settings,"Settings"
+OptionsMenu_ShowParkBoundary,"Show Park Boundary"
+OptionsMenu_windowTitle,"Options"

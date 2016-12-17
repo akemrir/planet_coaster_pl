@@ -1,30 +1,30 @@
-Terrain_Edit_Axis_Free,'Free'
-Terrain_Edit_Axis_Horizontal,'Horizontal'
-Terrain_Edit_Axis_Lock,'Axis Lock'
-Terrain_Edit_Axis_Surface,'Surface'
-Terrain_Edit_Axis_Vertical,'Vertical'
-Terrain_Edit_BrushLock_Direction,'Lock Direction'
-Terrain_Edit_BrushLock_Off,'Lock Off'
-Terrain_Edit_BrushLock_Plane,'Lock Plane'
-Terrain_Edit_Deformation,'Sculpting'
-Terrain_Edit_Intensity,'Intensity'
-Terrain_Edit_Lakes,'Water'
-Terrain_Edit_Painting,'Painting'
-Terrain_Edit_Radius,'Size'
-Terrain_Edit_SceneryCollisions,'Scenery Lock'
-Terrain_Edit_Scenery_Lock,'Scenery Lock'
-Terrain_Edit_Surface_Lock,'Surface Lock'
-Terrain_Edit_ToolTip_AutoPaint,'Auto-paint'
-Terrain_Edit_ToolTip_Chisel,'Chisel'
-Terrain_Edit_ToolTip_FlattenToFoundation,'Flatten to Foundation'
-Terrain_Edit_ToolTip_FlattenToSurface,'Flatten to Surface'
-Terrain_Edit_ToolTip_Pull,'Pull'
-Terrain_Edit_ToolTip_Push,'Push'
-Terrain_Edit_ToolTip_Roughen,'Roughen'
-Terrain_Edit_ToolTip_SceneryLock,'Deformation respects Scenery or not'
-Terrain_Edit_ToolTip_Smooth,'Smooth'
-Terrain_Edit_ToolTip_SurfaceLock,'Deformation locks to the surface or not'
-Terrain_Edit_ToolTip_WaterCalm,'Calm Water'
-Terrain_Edit_ToolTip_WaterDirty,'Dirty Water'
-Terrain_Edit_ToolTip_WaterRough,'Rough Water'
-Terrain_Edit_ToolTip_WaterSwamp,'Standing Water'
+Terrain_Edit_Axis_Free,"Free"
+Terrain_Edit_Axis_Horizontal,"Horizontal"
+Terrain_Edit_Axis_Lock,"Axis Lock"
+Terrain_Edit_Axis_Surface,"Surface"
+Terrain_Edit_Axis_Vertical,"Vertical"
+Terrain_Edit_BrushLock_Direction,"Lock Direction"
+Terrain_Edit_BrushLock_Off,"Lock Off"
+Terrain_Edit_BrushLock_Plane,"Lock Plane"
+Terrain_Edit_Deformation,"Sculpting"
+Terrain_Edit_Intensity,"Intensity"
+Terrain_Edit_Lakes,"Water"
+Terrain_Edit_Painting,"Painting"
+Terrain_Edit_Radius,"Size"
+Terrain_Edit_SceneryCollisions,"Scenery Lock"
+Terrain_Edit_Scenery_Lock,"Scenery Lock"
+Terrain_Edit_Surface_Lock,"Surface Lock"
+Terrain_Edit_ToolTip_AutoPaint,"Auto-paint"
+Terrain_Edit_ToolTip_Chisel,"Chisel"
+Terrain_Edit_ToolTip_FlattenToFoundation,"Flatten to Foundation"
+Terrain_Edit_ToolTip_FlattenToSurface,"Flatten to Surface"
+Terrain_Edit_ToolTip_Pull,"Pull"
+Terrain_Edit_ToolTip_Push,"Push"
+Terrain_Edit_ToolTip_Roughen,"Roughen"
+Terrain_Edit_ToolTip_SceneryLock,"Deformation respects Scenery or not"
+Terrain_Edit_ToolTip_Smooth,"Smooth"
+Terrain_Edit_ToolTip_SurfaceLock,"Deformation locks to the surface or not"
+Terrain_Edit_ToolTip_WaterCalm,"Calm Water"
+Terrain_Edit_ToolTip_WaterDirty,"Dirty Water"
+Terrain_Edit_ToolTip_WaterRough,"Rough Water"
+Terrain_Edit_ToolTip_WaterSwamp,"Standing Water"
