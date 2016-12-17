@@ -5729,7 +5729,7 @@
     <entry key="ColorPicker_RecentLabel" translation="Ostatnie"/>
     <entry key="ColorPicker_Reset" translation="Reset"/>
     <entry key="COMING_SOON" translation="Dostępne niedługo"/>
-    <entry key="CommunityTranslation_Name" translation="Polish people"/>
+    <entry key="CommunityTranslation_Name" translation="Nieznane"/>
     <entry key="Continue" translation="Kontynuuj"/>
     <entry key="COST" translation="{Value:currency}"/>
     <entry key="COST_HINT_TEXT" translation="$ -"/>
@@ -14167,7 +14167,7 @@
     <entry key="OptionsMenu_CameraType" translation="Typ"/>
     <entry key="OptionsMenu_CameraType_Advanced" translation="Zaawansowany"/>
     <entry key="OptionsMenu_CameraType_Debug" translation="Debug"/>
-    <entry key="OptionsMenu_CameraType_Freelock" translation="Luźne oglądanie"/>
+    <entry key="OptionsMenu_CameraType_Freelock" translation="Luźne rozglądanie"/>
     <entry key="OptionsMenu_CameraType_Normal" translation="Normalny"/>
     <entry key="OptionsMenu_Camera_Up" translation="Kamera w górę"/>
     <entry key="OptionsMenu_Camera_WheelSensitivity" translation="Czułość kółka"/>
@@ -14198,8 +14198,8 @@
     <entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Przełącz przyciąganie kątów włącz/wyłącz"/>
     <entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Przełącz wyrównywanie terenu włącz/wyłącz"/>
     <entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] na umiesczonym elemencie"/>
-    <entry key="OptionsMenu_Controls_GameCamera_Down" translation="Przesuń kamerę w dół (luźne oglądanie tylko)"/>
-    <entry key="OptionsMenu_Controls_GameCamera_Up" translation="Przesuń kamerę w górę (luźne oglądanie tylko)"/>
+    <entry key="OptionsMenu_Controls_GameCamera_Down" translation="Przesuń kamerę w dół (luźne rozglądanie tylko)"/>
+    <entry key="OptionsMenu_Controls_GameCamera_Up" translation="Przesuń kamerę w górę (luźne rozglądanie tylko)"/>
     <entry key="OptionsMenu_Controls_General" translation="Ogólne skróty klawiszowe"/>
     <entry key="OptionsMenu_Controls_General_Command_01" translation="Pomoc do kontroli (Pokaż/Ukryj)"/>
     <entry key="OptionsMenu_Controls_General_Command_02a" translation="Przesuń kamerę do przodu"/>
@@ -14210,7 +14210,7 @@
     <entry key="OptionsMenu_Controls_General_Command_03b" translation="Obróć kamerę w prawo"/>
     <entry key="OptionsMenu_Controls_General_Command_04a" translation="Zwiększ powiększenie kamery"/>
     <entry key="OptionsMenu_Controls_General_Command_04b" translation="Zmniejsz powiększenie kamery"/>
-    <entry key="OptionsMenu_Controls_General_Command_05" translation="Przełącz luźne oglądanie włącz/wyłącz"/>
+    <entry key="OptionsMenu_Controls_General_Command_05" translation="Przełącz luźne rozglądanie włącz/wyłącz"/>
     <entry key="OptionsMenu_Controls_General_Command_06" translation="Zwiększ prędkość kamery w luźnym oglądaniu"/>
     <entry key="OptionsMenu_Controls_General_Command_07" translation="Anuluj umiejscowienie, Zamknij przeglądarkę, Odznacz obiekt, Otwórz menu opcji"/>
     <entry key="OptionsMenu_Controls_General_Command_08" translation="Usuń zaznaczony obiekt"/>
