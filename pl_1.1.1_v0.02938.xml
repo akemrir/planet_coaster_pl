@@ -14176,12 +14176,12 @@
     <entry key="OptionsMenu_ColorPickerTitle" translation="Kolor interfejsu"/>
     <entry key="OptionsMenu_Controls" translation="Kontrolki"/>
     <entry key="OptionsMenu_Controls_Building_Edit" translation="Building Edit Mode"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Umieść element&amp;#10;Zaznacz element&amp;#10;Zaznacz inny budynek"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Anuluj umiejscowienie&amp;#10;Usuń element pod kursorem"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Umieść element&#10;Zaznacz element&#10;Zaznacz inny budynek"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Anuluj umiejscowienie&#10;Usuń element pod kursorem"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Zaznacz wiele elementów"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Obróć (Załączniki i dekoracje)"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Obróć o 90 stopni"/>
-    <entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Przełącz zaawansowany ruch/Obróć&amp;#10;(Załączniki i dekoracje)"/>
+    <entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Przełącz zaawansowany ruch/Obróć&#10;(Załączniki i dekoracje)"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Dopasuj pionową wysokość"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Zresetuj pionową wysokość"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Zablokuj do osi powierzchni"/>
@@ -14241,7 +14241,7 @@
     <entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Otwórz przejażdżki po ścieżce"/>
     <entry key="OptionsMenu_Controls_Mouse" translation="Skróty myszy"/>
     <entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Porusz kursor"/>
-    <entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Użyj przycisku&amp;#10;Zaznacz obiekt"/>
+    <entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Użyj przycisku&#10;Zaznacz obiekt"/>
     <entry key="OptionsMenu_Controls_Mouse_Command_03" translation="Przesuń kamerę"/>
     <entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Obróć kamerę"/>
     <entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Przybliż widok w kamerze"/>
@@ -14282,7 +14282,7 @@
     <entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} przytrzymaj gdy nad ścieżką."/>
     <entry key="OptionsMenu_Controls_Rebind_Button" translation="Zmień przypisanie"/>
     <entry key="OptionsMenu_Controls_Rebind_InProgress" translation="W trakcie zmiany przypisania przycisku"/>
-    <entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Wciśnij i puść przycisk, który chcesz przypisać.&amp;#10;Wycofanie za {Value:int} sekund..."/>
+    <entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Wciśnij i puść przycisk, który chcesz przypisać.&#10;Wycofanie za {Value:int} sekund..."/>
     <entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Zresetuj przypisania do standardowych wartości"/>
     <entry key="OptionsMenu_Controls_ShowHideGUI" translation="Pokaż / Ukruj interfejs użytkownika"/>
     <entry key="OptionsMenu_Controls_Terrain_Edit" translation="Tryb edycji terenu"/>
@@ -14327,7 +14327,7 @@
     <entry key="OptionsMenu_LoadMenu_SaveName" translation="{Name}"/>
     <entry key="OptionsMenu_LoadPrompt_ConfirmCancel" translation="Anuluj"/>
     <entry key="OptionsMenu_LoadPrompt_ConfirmHeader" translation="Załaduj zapisany park"/>
-    <entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Załaduj zapis '{Name}'?&amp;#10;Niezapisane zmiany aktualnego parku przepadną."/>
+    <entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Załaduj zapis '{Name}'?&#10;Niezapisane zmiany aktualnego parku przepadną."/>
     <entry key="OptionsMenu_LoadPrompt_ConfirmOk" translation="OK"/>
     <entry key="OptionsMenu_LockCursorToFullscreen" translation="Zablokuj kursor w trybie pełno-ekranowym"/>
     <entry key="OptionsMenu_LockCursorToWindow" translation="Zablokuj kursor w trybie okienkowym"/>
