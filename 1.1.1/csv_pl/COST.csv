@@ -1,0 +1,4 @@
+COST,'{Value:currency}'
+COST_HINT_TEXT,'$ -'
+COST_PER_DAY,'{Value:currency} na dzień'
+COST_PER_MONTH,'{Value:currency} na miesiąc'

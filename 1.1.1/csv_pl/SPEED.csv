@@ -1,0 +1,4 @@
+SPEED_KPH,'{Value:float:decimalPlaces=0} kph'
+SPEED_KPH_PER_SECOND,'{Value:float:decimalPlaces=0} kph/s'
+SPEED_MPH,'{Value:float:decimalPlaces=0} mph'
+SPEED_MPH_PER_SECOND,'{Value:float:decimalPlaces=0} mph/s'
