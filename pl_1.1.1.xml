@@ -14131,7 +14131,7 @@
     <entry key="Obstructed" translation="Zakłócone"/>
     <entry key="Ok" translation="OK"/>
     <entry key="Open" translation="Otwarte"/>
-    <entry key="OptionsMenu_apply" translation="Aplikuj"/>
+    <entry key="OptionsMenu_apply" translation="Zapisz"/>
     <entry key="OptionsMenu_Audio" translation="Audio"/>
     <entry key="OptionsMenu_Audio_Mute" translation="Wycisz"/>
     <entry key="OptionsMenu_Audio_MuteAllEntry" translation="Wycisz wszystko"/>
@@ -14145,7 +14145,7 @@
     <entry key="OptionsMenu_Audio_SFX" translation="Efekty dźwiękowe"/>
     <entry key="OptionsMenu_Audio_Soundtrack" translation="Ścieżka dźwiękowa"/>
     <entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Graj ścieżkę dźwiękową tylko podczas pauzy"/>
-    <entry key="OptionsMenu_Audio_Volume" translation="Główna głośność"/>
+    <entry key="OptionsMenu_Audio_Volume" translation="Ogólna głośność"/>
     <entry key="OptionsMenu_Audio_Volume_Entry" translation="Dopasuj głośność"/>
     <entry key="OptionsMenu_back" translation="Powrót"/>
     <entry key="OptionsMenu_Camera" translation="Kamera"/>
@@ -14153,7 +14153,7 @@
     <entry key="OptionsMenu_Camera_FixedTilt" translation="Ustalone odsunięcie"/>
     <entry key="OptionsMenu_Camera_FocusOnCursor" translation="Skup się na kursorze"/>
     <entry key="OptionsMenu_Camera_Forward" translation="Kamera do przodu"/>
-    <entry key="OptionsMenu_Camera_InvertPan" translation="owdróć PAN"/>
+    <entry key="OptionsMenu_Camera_InvertPan" translation="Owdróć przesuwanie kamery"/>
     <entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Odwróć poziom odchylenia"/>
     <entry key="OptionsMenu_Camera_KeySensitivity" translation="Czułość przycisków"/>
     <entry key="OptionsMenu_Camera_Left" translation="Kamera na lewo"/>
@@ -14170,12 +14170,12 @@
     <entry key="OptionsMenu_CameraType_Freelock" translation="Luźne oglądanie"/>
     <entry key="OptionsMenu_CameraType_Normal" translation="Normalny"/>
     <entry key="OptionsMenu_Camera_Up" translation="Kamera w górę"/>
-    <entry key="OptionsMenu_Camera_WheelSensitivity" translation="Czułość koła"/>
+    <entry key="OptionsMenu_Camera_WheelSensitivity" translation="Czułość kółka"/>
     <entry key="OptionsMenu_cancel" translation="Anuluj"/>
     <entry key="OptionsMenu_ColorPickerPreview" translation="Podgląd"/>
     <entry key="OptionsMenu_ColorPickerTitle" translation="Kolor interfejsu"/>
-    <entry key="OptionsMenu_Controls" translation="Kontrolki"/>
-    <entry key="OptionsMenu_Controls_Building_Edit" translation="Building Edit Mode"/>
+    <entry key="OptionsMenu_Controls" translation="Skróty"/>
+    <entry key="OptionsMenu_Controls_Building_Edit" translation="Tryb edycji budynku"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Umieść element&#10;Zaznacz element&#10;Zaznacz inny budynek"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Anuluj umiejscowienie&#10;Usuń element pod kursorem"/>
     <entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Zaznacz wiele elementów"/>
