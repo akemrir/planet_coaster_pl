@@ -15671,8 +15671,8 @@
     <entry key="ShopItem_Souvenir_01" translation="Snowglobe"/>
     <entry key="ShopItem_Souvenir_02" translation="Crystal Ball"/>
     <entry key="ShopItem_Souvenir_03" translation="Sci-Fi Radio"/>
-    <entry key="SPEED_KPH" translation="{Value:float:decimalPlaces=0} kph"/>
-    <entry key="SPEED_KPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} kph/s"/>
+    <entry key="SPEED_KPH" translation="{Value:float:decimalPlaces=0} km/h"/>
+    <entry key="SPEED_KPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} km/s"/>
     <entry key="SPEED_MPH" translation="{Value:float:decimalPlaces=0} mph"/>
     <entry key="SPEED_MPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} mph/s"/>
     <entry key="Staff_Entertainer" translation="Entertainer"/>
